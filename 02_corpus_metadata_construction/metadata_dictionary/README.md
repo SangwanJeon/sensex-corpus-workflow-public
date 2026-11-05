@@ -6,7 +6,7 @@ This directory contains the metadata dictionary developed for the Sens-Ex corpus
 
 [`sensex_metadata_set.pdf`](sensex_metadata_set.pdf)
 
-The dictionary documents the metadata fields used to describe the collected audiovisual samples, their production contexts, preliminary assessments of discursive excess, and semiotic and communicative characteristics.
+It documents the metadata fields used to describe the collected audiovisual samples, their production contexts, preliminary assessments of discursive excess, and semiotic and communicative characteristics.
 
 The documented metadata can be grouped into three main categories.
 
