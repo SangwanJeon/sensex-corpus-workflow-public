@@ -1,6 +1,15 @@
+
 # TRS-to-EAF Conversion
 
-[`trs_to_sensex_eaf_v2.py`](trs_to_sensex_eaf_v2.py) converts Transcriber `.trs` files into ELAN `.eaf` annotations. Speakers are assigned `SP1_trs`, `SP2_trs`, etc., in declaration order; a speaker mapping CSV preserves the source IDs and names.
+The Python script [`trs_to_sensex_eaf_v2.py`](trs_to_sensex_eaf_v2.py) converts Transcriber (`.trs`) files into ELAN annotation files (`.eaf`).
+
+Speakers are assigned standardized tier identifiers (`SP1_trs`, `SP2_trs`, etc.) according to their order of declaration in the source files. A speaker mapping CSV file is also generated to preserve the original speaker identifiers and names.
+
+## Use within the Sens-Ex Research Project
+
+This procedure was developed and used to convert transcription files from the existing **ESLO2 corpus** into ELAN-compatible annotation files.
+
+The resulting files were used to prepare excerpts from ESLO2 that were incorporated into the Sens-Ex research framework as **neutral stimuli**, providing material for comparison with excerpts potentially exhibiting discursive excess.
 
 ## Requirements
 
