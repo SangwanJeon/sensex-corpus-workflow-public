@@ -59,7 +59,9 @@ The EAF files provide the annotation structure used in the subsequent stages of 
 
 The verbal annotation tiers are standardized according to the transcription protocol adopted for Sens-Ex.
 
-This procedure includes manual revision of the transcriptions to ensure a consistent representation of the spoken signal, particularly through a minimal orthographic transcription convention.
+This procedure includes manual revision of the transcriptions to ensure a consistent representation of the spoken signal, particularly through a minimal orthographic transcription convention. 
+
+For further details on this convention and it's application in ELAN, consult the [Sens-Ex ELAN tutorial](tutorials/Short%20ELAN%20tutorial_v3.pdf) in the `tutorials/` directory (p.
 
 The aim is to obtain consistent verbal transcriptions across the corpus to facilitate subsequent morphosyntactic and prosodic annotations and analyses.
 
