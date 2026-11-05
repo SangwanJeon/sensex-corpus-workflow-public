@@ -1,0 +1,159 @@
+# sent_id = SEFR2001_0001_SP1_trs
+# source = SEFR2001.eaf
+# tool = Stanza
+# tier = SP1_trs
+# start = 00:00:00.020
+# end = 00:00:00.700
+# text = xxx cha
+1	xxx	xxx	X	_	_	2	reparandum	_	_
+2	cha	cha	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2001_0002_SP2_trs
+# source = SEFR2001.eaf
+# tool = Stanza
+# tier = SP2_trs
+# start = 00:00:00.700
+# end = 00:00:01.810
+# text = oui marie-yves
+1	oui	oui	INTJ	_	_	0	root	_	_
+2	marie-yves	marie-yves	PROPN	_	_	1	discourse	_	_
+
+# sent_id = SEFR2001_0003_SP1_trs
+# source = SEFR2001.eaf
+# tool = Stanza
+# tier = SP1_trs
+# start = 00:00:01.840
+# end = 00:00:02.580
+# text = viens voir
+1	viens	venir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	voir	voir	VERB	_	VerbForm=Inf	1	xcomp	_	_
+
+# sent_id = SEFR2001_0004_SP2_trs
+# source = SEFR2001.eaf
+# tool = Stanza
+# tier = SP2_trs
+# start = 00:00:02.640
+# end = 00:00:03.900
+# text = ah t' as commencé les toasts pour ce soir
+1	ah	ah	INTJ	_	_	4	discourse	_	_
+2	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Emph=No
+3	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
+4	commencé	commencer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+6	toasts	toast	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+7	pour	pour	ADP	_	_	9	case	_	_
+8	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
+9	soir	soir	NOUN	_	Gender=Masc|Number=Sing	4	obl:mod	_	_
+
+# sent_id = SEFR2001_0005_SP1_trs
+# source = SEFR2001.eaf
+# tool = Stanza
+# tier = SP1_trs
+# start = 00:00:03.570
+# end = 00:00:04.040
+# text = ouais
+1	ouais	ouais	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2001_0006_SP1_trs
+# source = SEFR2001.eaf
+# tool = Stanza
+# tier = SP1_trs
+# start = 00:00:04.350
+# end = 00:00:06.360
+# text = c' est bien euh le toast à le foie gras qu' il faut que je fasse
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+3	bien	bien	ADV	_	_	6	advmod	_	_
+4	euh	euh	INTJ	_	_	6	discourse	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	toast	toast	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+7	à	à	ADP	_	_	9	case	_	_
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	foie	foie	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+10	gras	gras	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	_
+11	qu'	que	SCONJ	_	_	13	mark	_	_
+12	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	expl:subj	_	Emph=No
+13	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl:cleft	_	_
+14	que	que	SCONJ	_	_	16	mark	_	_
+15	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	16	nsubj	_	Emph=No
+16	fasse	faire	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	ccomp	_	_
+
+# sent_id = SEFR2001_0007_SP2_trs
+# source = SEFR2001.eaf
+# tool = Stanza
+# tier = SP2_trs
+# start = 00:00:07.590
+# end = 00:00:08.260
+# text = attends
+1	attends	attendre	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2001_0009_SP2_trs
+# source = SEFR2001.eaf
+# tool = Stanza
+# tier = SP2_trs
+# start = 00:00:09.830
+# end = 00:00:10.130
+# text = pose ton
+1	pose	poser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ton	ton	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	1	obj	_	_
+
+# sent_id = SEFR2001_0010_SP2_trs
+# source = SEFR2001.eaf
+# tool = Stanza
+# tier = SP2_trs
+# start = 00:00:10.170
+# end = 00:00:10.830
+# text = ça va mal finir
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
+2	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mal	mal	ADV	_	_	4	advmod	_	_
+4	finir	finir	VERB	_	VerbForm=Inf	2	xcomp	_	_
+
+# sent_id = SEFR2001_0011_SP2_trs
+# source = SEFR2001.eaf
+# tool = Stanza
+# tier = SP2_trs
+# start = 00:00:10.930
+# end = 00:00:11.610
+# text = pose ce couteau
+1	pose	poser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	couteau	couteau	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+
+# sent_id = SEFR2001_0024_SP2_trs
+# source = SEFR2001.eaf
+# tool = Stanza
+# tier = SP2_trs
+# start = 00:00:27.100
+# end = 00:00:29.560
+# text = ma belle est -ce qu' on étale du foie gras
+1	ma	mon	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	belle	beau	NOUN	_	Gender=Fem|Number=Sing	7	vocative	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+4	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	expl:subj	_	_
+5	qu'	que	SCONJ	_	_	7	mark	_	_
+6	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	7	nsubj	_	_
+7	étale	étaler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	foie	foie	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	gras	gras	ADJ	_	Gender=Masc	9	amod	_	_
+
+# sent_id = SEFR2001_0032_SP2_trs
+# source = SEFR2001.eaf
+# tool = Stanza
+# tier = SP2_trs
+# start = 00:00:36.490
+# end = 00:00:36.950
+# text = xxx xxx
+1	xxx	xxx	X	_	_	0	root	_	_
+2	xxx	xxx	X	_	_	1	dep	_	_
+
+# sent_id = SEFR2001_0050_SP1_trs
+# source = SEFR2001.eaf
+# tool = Stanza
+# tier = SP1_trs
+# start = 00:01:00.580
+# end = 00:01:00.920
+# text = xxx
+1	xxx	xxx	X	_	_	0	root	_	_
+

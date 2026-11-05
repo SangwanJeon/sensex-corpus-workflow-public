@@ -1,0 +1,904 @@
+# sent_id = SEFR2004_0001_SP1_trs_ann0001_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.110
+# end = 00:00:01.310
+# text = ça là je mets un sept sur dix
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	dislocated	_	_
+2	là	là	ADV	_	_	4	advmod	_	_
+3	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Emph=No
+4	mets	mettre	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	sept	sept	NUM	_	Number=Plur	4	obj	_	_
+7	sur	sur	ADP	_	_	8	case	_	_
+8	dix	dix	NUM	_	Number=Plur	6	nmod	_	_
+
+# sent_id = SEFR2004_0002_display_written_ann0001_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = display_written
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.660
+# end = 00:00:01.310
+# text = 7/10
+1	7	7	NUM	_	NumType=Card	0	root	_	_
+2	/	/	SYM	_	ExtPos=CCONJ	3	cc	_	_
+3	10	10	NUM	_	NumType=Card	1	conj	_	_
+
+# sent_id = SEFR2004_0003_SP1_trs_ann0002_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:01.310
+# end = 00:00:05.390
+# text = j'enchaîne directement avec le magnifique burger de brisket de bœuf
+1	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Emph=No
+2	enchaîne	enchaîner	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	directement	directement	ADV	_	_	2	advmod	_	_
+4	avec	avec	ADP	_	_	7	case	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	magnifique	magnifique	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
+7	burger	burger	NOUN	_	Gender=Masc|Number=Sing	2	obl:arg	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	brisket	brisket	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	bœuf	bœuf	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+
+# sent_id = SEFR2004_0004_display_written_ann0002_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = display_written
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:02.440
+# end = 00:00:06.650
+# text = Brisket Burger 🍔
+1	Brisket	Brisket	PROPN	_	_	0	root	_	_
+2	Burger	Burger	PROPN	_	_	1	flat:name	_	_
+3	🍔	🍔	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2004_0005_SP1_trs_ann0003_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:05.390
+# end = 00:00:09.299
+# text = à l'intérieur on a du coleslaw de la sauce barbecue et du cheddar des morceaux de brisket
+1	à	à	ADP	_	_	3	case	_	_
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
+3	intérieur	intérieur	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	_
+4	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj	_	_
+5	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	de	de	ADP	_	_	8	det	_	_
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	fixed	_	_
+8	coleslaw	coleslaw	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	sauce	sauce	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+12	barbecue	barbecue	NOUN	_	Gender=Masc|Number=Sing	11	nmod:appos	_	_
+13	et	et	CCONJ	_	_	16	cc	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	cheddar	cheddar	NOUN	_	Gender=Masc|Number=Sing	11	conj	_	_
+17	de	de	ADP	_	_	19	case	_	_
+18	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	19	det	_	_
+19	morceaux	morceau	NOUN	_	Gender=Masc|Number=Plur	16	nmod	_	_
+20	de	de	ADP	_	_	21	case	_	_
+21	brisket	brisket	NOUN	_	Gender=Masc|Number=Sing	19	nmod	_	_
+
+# sent_id = SEFR2004_0006_SP1_trs_ann0004_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:09.309
+# end = 00:00:10.090
+# text = hé hé
+1	hé	hé	INTJ	_	_	0	root	_	_
+2	hé	hé	INTJ	_	_	1	fixed	_	_
+
+# sent_id = SEFR2004_0007_SP1_trs_ann0005_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:11.010
+# end = 00:00:12.526
+# text = il faut se rajouter un peu de coleslaw
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	Emph=No
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
+4	rajouter	rajouter	VERB	_	VerbForm=Inf	2	ccomp	_	_
+5	un	un	DET	_	Definite=Ind|ExtPos=ADV|Gender=Masc|Number=Sing|PronType=Art	4	obj	_	_
+6	peu	peu	NOUN	_	Gender=Masc|Number=Sing	5	fixed	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	coleslaw	coleslaw	NOUN	_	Gender=Masc|Number=Sing	5	obl:arg	_	_
+
+# sent_id = SEFR2004_0008_SP1_trs_ann0006_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:12.526
+# end = 00:00:13.454
+# text = un peu de sauce barbecue
+1	un	un	DET	_	Definite=Ind|ExtPos=ADV|Gender=Masc|Number=Sing|PronType=Art	0	root	_	_
+2	peu	peu	NOUN	_	_	1	fixed	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	sauce	sauce	NOUN	_	Gender=Fem|Number=Sing	1	obl:arg	_	_
+5	barbecue	barbecue	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+
+# sent_id = SEFR2004_0009_SP1_trs_ann0007_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:13.454
+# end = 00:00:14.268
+# text = oh là là
+1	oh	oh	INTJ	_	_	2	discourse	_	_
+2	là	là	ADV	_	_	0	root	_	_
+3	là	là	ADV	_	_	2	advmod	_	_
+
+# sent_id = SEFR2004_0010_SP1_trs_ann0008_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:14.268
+# end = 00:00:15.619
+# text = bon appétit l'équipage
+1	bon	bon	INTJ	_	_	2	discourse	_	_
+2	appétit	appétit	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
+4	équipage	équipage	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+
+# sent_id = SEFR2004_0011_SP1_trs_ann0009_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 9
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:21.299
+# end = 00:00:22.361
+# text = mmm
+1	mmm	mmm	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2004_0012_SP1_trs_ann0010_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:27.536
+# end = 00:00:29.412
+# text = je viens de faire un aller-retour au paradis les gars
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Emph=No
+2	viens	venir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	de	de	ADP	_	_	4	mark	_	_
+4	faire	faire	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	aller-retour	aller-retour	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	à	à	ADP	_	_	9	case	_	_
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	paradis	paradis	NOUN	_	Gender=Masc|Number=Sing	4	obl:mod	_	_
+10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
+11	gars	gars	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+
+# sent_id = SEFR2004_0013_SP1_trs_ann0011_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:29.412
+# end = 00:00:30.330
+# text = hé hé
+1	hé	hé	INTJ	_	_	0	root	_	_
+2	hé	hé	INTJ	_	_	1	fixed	_	_
+
+# sent_id = SEFR2004_0014_SP1_trs_ann0012_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 12
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:30.588
+# end = 00:00:32.258
+# text = qu'est-ce que c'est nul de redescendre sur terre
+1	qu'	que	PRON	_	PronType=Int	0	root	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	1	expl:subj	_	_
+4	que	que	SCONJ	_	_	7	mark	_	_
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	_
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	nul	nul	ADJ	_	Gender=Masc|Number=Sing	1	advcl:cleft	_	_
+8	de	de	ADP	_	_	9	mark	_	_
+9	redescendre	redescendre	VERB	_	VerbForm=Inf	7	csubj	_	_
+10	sur	sur	ADP	_	_	11	case	_	_
+11	terre	terre	NOUN	_	Gender=Fem|Number=Sing	9	obl:mod	_	_
+
+# sent_id = SEFR2004_0015_SP1_trs_ann0013_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 13
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:32.258
+# end = 00:00:33.495
+# text = je vais directement y retourner hein
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Emph=No
+2	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	directement	directement	ADV	_	_	2	advmod	_	_
+4	y	y	PRON	_	Person=3|PronType=Prs	5	iobj	_	_
+5	retourner	retourner	VERB	_	VerbForm=Inf	2	xcomp	_	_
+6	hein	hein	INTJ	_	_	2	discourse	_	_
+
+# sent_id = SEFR2004_0016_SP1_trs_ann0014_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 14
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:36.804
+# end = 00:00:37.608
+# text = mmm
+1	mmm	mmm	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2004_0017_SP1_trs_ann0015_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 15
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:41.258
+# end = 00:00:41.701
+# text = waouh
+1	waouh	waouh	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2004_0018_SP1_trs_ann0016_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 16
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:41.732
+# end = 00:00:43.194
+# text = le coleslaw c'est incroyable
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	coleslaw	coleslaw	NOUN	_	Gender=Masc|Number=Sing	5	dislocated	_	_
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	incroyable	incroyable	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2004_0019_SP1_trs_ann0017_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 17
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:43.194
+# end = 00:00:44.517
+# text = ça ajoute un petit côté craquant
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
+2	ajoute	ajouter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	petit	petit	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+5	côté	côté	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+6	craquant	craquant	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+
+# sent_id = SEFR2004_0020_SP1_trs_ann0018_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 18
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:44.520
+# end = 00:00:46.631
+# text = on a aussi des cornichons
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+2	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	aussi	aussi	ADV	_	_	2	advmod	_	_
+4	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	5	det	_	_
+5	cornichons	cornichon	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+
+# sent_id = SEFR2004_0021_SP1_trs_ann0019_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 19
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:46.631
+# end = 00:00:47.763
+# text = ça apporte beaucoup d'acidité
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
+2	apporte	apporter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	beaucoup	beaucoup	ADV	_	ExtPos=PRON	2	obj	_	_
+4	d'	de	ADP	_	_	5	case	_	_
+5	acidité	acidité	NOUN	_	Gender=Fem|Number=Sing	3	obl:arg	_	_
+
+# sent_id = SEFR2004_0022_SP1_trs_ann0020_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 20
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:47.766
+# end = 00:00:49.200
+# text = on va s'en rajouter tout de suite là
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+2	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	5	obj	_	_
+4	en	en	PRON	_	Person=3|PronType=Prs	5	expl:comp	_	_
+5	rajouter	rajouter	VERB	_	VerbForm=Inf	2	xcomp	_	_
+6	tout	tout	ADV	_	_	8	advmod	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	suite	suite	NOUN	_	Gender=Fem|Number=Sing	5	obl:mod	_	_
+9	là	là	ADV	_	_	5	advmod	_	_
+
+# sent_id = SEFR2004_0023_SP1_trs_ann0021_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 21
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:49.234
+# end = 00:00:50.150
+# text = hé hé hé
+1	hé	hé	INTJ	_	_	0	root	_	_
+2	hé	hé	INTJ	_	_	1	discourse	_	_
+3	hé	hé	INTJ	_	_	1	discourse	_	_
+
+# sent_id = SEFR2004_0024_SP1_trs_ann0022_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 22
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:50.449
+# end = 00:00:51.606
+# text = je vais reprendre une petit croc
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Emph=No
+2	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	reprendre	reprendre	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	petit	petit	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+6	croc	croc	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+
+# sent_id = SEFR2004_0025_SP1_trs_ann0023_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 23
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:55.175
+# end = 00:00:55.856
+# text = mmm
+1	mmm	mmm	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2004_0026_SP1_trs_ann0024_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 24
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:58.660
+# end = 00:00:59.505
+# text = waouh
+1	waouh	waouh	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2004_0027_SP1_trs_ann0025_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 25
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:02.155
+# end = 00:01:07.041
+# text = et à l'intérieur on a des steaks smashés avec des morceaux de brisket des lardons de brisket encore une fois
+1	et	et	CCONJ	_	_	6	cc	_	_
+2	à	à	ADP	_	_	4	case	_	_
+3	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
+4	intérieur	intérieur	NOUN	_	Gender=Masc|Number=Sing	6	obl:mod	_	_
+5	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	6	nsubj	_	_
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	8	det	_	_
+8	steaks	steak	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+9	smashés	smashé	ADJ	_	Gender=Masc|Number=Plur	8	amod	_	_
+10	avec	avec	ADP	_	_	12	case	_	_
+11	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	12	det	_	_
+12	morceaux	morceau	NOUN	_	Gender=Masc|Number=Plur	6	obl:mod	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	brisket	brisket	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+15	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	16	det	_	_
+16	lardons	lardon	NOUN	_	Gender=Masc|Number=Plur	12	appos	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	brisket	brisket	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	_
+19	encore	encore	ADV	_	_	21	advmod	_	_
+20	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	fois	fois	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	_
+
+# sent_id = SEFR2004_0028_SP1_trs_ann0026_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 26
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:07.041
+# end = 00:01:09.062
+# text = sauce barbecue est vraiment excellente aussi
+1	sauce	sauce	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+2	barbecue	barbecue	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	vraiment	vraiment	ADV	_	_	5	advmod	_	_
+5	excellente	excellent	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+6	aussi	aussi	ADV	_	_	5	advmod	_	_
+
+# sent_id = SEFR2004_0029_SP1_trs_ann0027_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 27
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:13.990
+# end = 00:01:14.948
+# text = bar bar bar
+1	bar	bar	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	bar	bar	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+3	bar	bar	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+
+# sent_id = SEFR2004_0030_SP1_trs_ann0028_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 28
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:16.454
+# end = 00:01:17.000
+# text = waouh
+1	waouh	waouh	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2004_0031_SP1_trs_ann0029_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 29
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:20.608
+# end = 00:01:21.113
+# text = hé
+1	hé	hé	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2004_0032_SP1_trs_ann0030_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 30
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:21.206
+# end = 00:01:22.577
+# text = neuf virgule neuf sur dix les gars
+1	neuf	neuf	NUM	_	Number=Plur	2	nummod	_	_
+2	virgule	virgule	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	neuf	neuf	NUM	_	Number=Plur	2	nmod	_	_
+4	sur	sur	ADP	_	_	7	case	_	_
+5	dix	dix	NUM	_	Number=Plur	7	nummod	_	_
+6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+7	gars	gars	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
+
+# sent_id = SEFR2004_0033_display_written_ann0003_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = display_written
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:21.230
+# end = 00:01:23.550
+# text = 9,9/10
+1	9,9	9,9	NUM	_	NumType=Card	0	root	_	_
+2	/	/	SYM	_	ExtPos=ADP	3	cc	_	_
+3	10	10	NUM	_	NumType=Card	1	conj	_	_
+
+# sent_id = SEFR2004_0034_SP1_trs_ann0031_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 31
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:22.619
+# end = 00:01:23.639
+# text = qu'est-ce que vous voulez que je vous dise d'autre
+1	qu'	que	PRON	_	PronType=Int	0	root	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	1	expl:subj	_	_
+4	que	que	SCONJ	_	_	6	mark	_	_
+5	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	_
+6	voulez	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	advcl:cleft	_	_
+7	que	que	SCONJ	_	_	10	mark	_	_
+8	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Emph=No
+9	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	10	iobj	_	_
+10	dise	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
+11	d'	de	ADP	_	_	12	case	_	_
+12	autre	autre	PRON	_	Number=Sing|Person=3|PronType=Ind	10	obl:arg	_	_
+
+# sent_id = SEFR2004_0035_SP1_trs_ann0032_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 32
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:23.649
+# end = 00:01:24.804
+# text = ah c'était des ti piementos
+1	ah	ah	INTJ	_	_	5	discourse	_	_
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+3	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+4	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	5	det	_	_
+5	ti	ti	X	_	_	0	root	_	_
+6	piementos	piemento	NOUN	_	Gender=Masc|Number=Plur	5	flat:name	_	_
+
+# sent_id = SEFR2004_0036_SP1_trs_ann0033_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 33
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:31.742
+# end = 00:01:32.392
+# text = whoa
+1	whoa	whoa	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2004_0037_SP1_trs_ann0034_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 34
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:32.392
+# end = 00:01:33.120
+# text = my gosh
+1	my	my	INTJ	_	_	0	root	_	_
+2	gosh	gosh	INTJ	_	_	1	fixed	_	_
+
+# sent_id = SEFR2004_0038_SP1_trs_ann0035_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 35
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:33.120
+# end = 00:01:34.350
+# text = ils sont piquentos
+1	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	piquentos	piquentos	X	_	_	0	root	_	_
+
+# sent_id = SEFR2004_0039_SP1_trs_ann0036_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 36
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:34.350
+# end = 00:01:34.856
+# text = hé hé
+1	hé	hé	INTJ	_	_	0	root	_	_
+2	hé	hé	INTJ	_	_	1	fixed	_	_
+
+# sent_id = SEFR2004_0040_SP1_trs_ann0037_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 37
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:35.072
+# end = 00:01:36.464
+# text = les pimentos sont piquentos
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
+2	pimentos	pimento	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	piquentos	piquentos	X	_	_	0	root	_	_
+
+# sent_id = SEFR2004_0041_display_written_ann0004_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = display_written
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:36.400
+# end = 00:01:39.100
+# text = 1/10
+1	1	1	NUM	_	NumType=Card	0	root	_	_
+2	/	/	SYM	_	ExtPos=CCONJ	3	cc	_	_
+3	10	10	NUM	_	NumType=Card	1	conj	_	_
+
+# sent_id = SEFR2004_0042_SP1_trs_ann0038_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 38
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:36.470
+# end = 00:01:38.050
+# text = ils étaient juicy as hell les boys
+1	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Emph=No
+2	étaient	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	juicy	juicy	X	_	Foreign=Yes	0	root	_	_
+4	as	avoir	X	_	Foreign=Yes	3	flat:foreign	_	_
+5	hell	hell	X	_	Foreign=Yes	3	flat:foreign	_	_
+6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+7	boys	boys	X	_	Foreign=Yes	3	flat:foreign	_	_
+
+# sent_id = SEFR2004_0043_SP1_trs_ann0039_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 39
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:38.052
+# end = 00:01:38.948
+# text = ils ont joui sans le tableau de bord
+1	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Emph=No
+2	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	joui	jouir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	sans	sans	ADP	_	_	6	case	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	tableau	tableau	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	bord	bord	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+
+# sent_id = SEFR2004_0044_SP1_trs_ann0040_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 40
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:38.948
+# end = 00:01:40.876
+# text = puis (xxx) nous avons les magnifiques beef cheeks
+1	puis	puis	CCONJ	_	_	6	cc	_	_
+2	(	(	PUNCT	_	_	3	punct	_	_
+3	xxx	xxx	X	_	_	6	dislocated	_	_
+4	)	)	PUNCT	_	_	3	punct	_	_
+5	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
+6	avons	avoir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
+8	magnifiques	magnifique	ADJ	_	Gender=Masc|Number=Plur	9	amod	_	_
+9	beef	beef	X	_	Foreign=Yes	6	obj	_	_
+10	cheeks	cheeks	X	_	Foreign=Yes	9	flat:foreign	_	_
+
+# sent_id = SEFR2004_0045_display_written_ann0005_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = display_written
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:39.530
+# end = 00:01:43.210
+# text = Beef cheeks
+1	Beef	Beef	X	_	Foreign=Yes	0	root	_	_
+2	cheeks	cheeks	X	_	Foreign=Yes	1	flat:foreign	_	_
+
+# sent_id = SEFR2004_0046_SP1_trs_ann0041_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 41
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:40.876
+# end = 00:01:43.350
+# text = on a un glaze à la sauce barbecue sur le dessus
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+2	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	glaze	glaze	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	à	à	ADP	_	_	7	case	_	_
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	sauce	sauce	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+8	barbecue	barbecue	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+9	sur	sur	ADP	_	_	11	case	_	_
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	dessus	dessus	NOUN	_	Gender=Masc|Number=Sing	2	obl:mod	_	_
+
+# sent_id = SEFR2004_0047_SP1_trs_ann0042_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 42
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:43.351
+# end = 00:01:45.268
+# text = regardez comment c'est gras les boys
+1	regardez	regarder	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	comment	comment	ADV	_	PronType=Int	5	advmod	_	_
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	gras	gras	ADJ	_	Gender=Masc|Number=Sing	1	ccomp	_	_
+6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+7	boys	boys	NOUN	_	Gender=Masc|Number=Plur	5	dislocated	_	_
+
+# sent_id = SEFR2004_0048_SP1_trs_ann0043_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 43
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:46.887
+# end = 00:01:47.412
+# text = on va tester ça
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+2	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	tester	tester	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	obj	_	_
+
+# sent_id = SEFR2004_0049_SP1_trs_ann0044_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 44
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:59.361
+# end = 00:02:00.299
+# text = ah (xxx)
+1	ah	ah	INTJ	_	_	3	discourse	_	_
+2	(	(	PUNCT	_	_	1	punct	_	_
+3	xxx	xxx	X	_	_	0	root	_	_
+4	)	)	PUNCT	_	_	3	punct	_	_
+
+# sent_id = SEFR2004_0050_SP1_trs_ann0045_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 45
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:04.876
+# end = 00:02:06.948
+# text = surprenamment c'est pas si gras que ça hein
+1	surprenamment	surprenamment	ADV	_	_	6	advmod	_	_
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	_
+5	si	si	ADV	_	_	6	advmod	_	_
+6	gras	gras	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+7	que	que	SCONJ	_	_	8	case	_	_
+8	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	obj	_	_
+9	hein	hein	INTJ	_	_	6	discourse	_	_
+
+# sent_id = SEFR2004_0051_SP1_trs_ann0046_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 46
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:06.948
+# end = 00:02:08.113
+# text = on a quand même beaucoup de bidoche
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+2	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	quand	quand	SCONJ	_	ExtPos=ADV	2	advmod	_	_
+4	même	même	ADV	_	_	3	fixed	_	_
+5	beaucoup	beaucoup	ADV	_	ExtPos=PRON	2	obj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	bidoche	bidoche	NOUN	_	Gender=Fem|Number=Sing	5	obl:arg	_	_
+
+# sent_id = SEFR2004_0052_SP1_trs_ann0047_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 47
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:10.557
+# end = 00:02:11.515
+# text = hé hé
+1	hé	hé	INTJ	_	_	0	root	_	_
+2	hé	hé	INTJ	_	_	1	fixed	_	_
+
+# sent_id = SEFR2004_0053_SP1_trs_ann0048_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 48
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:11.515
+# end = 00:02:12.814
+# text = it's a new piece in the barbecue
+1	it's	it's	X	_	Foreign=Yes	0	root	_	_
+2	a	a	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	new	new	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	piece	piece	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	in	in	X	_	Foreign=Yes	1	flat:foreign	_	_
+6	the	the	X	_	Foreign=Yes	1	flat:foreign	_	_
+7	barbecue	barbecue	X	_	Foreign=Yes	1	flat:foreign	_	_
+
+# sent_id = SEFR2004_0054_SP1_trs_ann0049_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 49
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:19.784
+# end = 00:02:20.856
+# text = that's crazy good
+1	that's	that's	X	_	Foreign=Yes	0	root	_	_
+2	crazy	crazy	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	good	good	X	_	Foreign=Yes	1	flat:foreign	_	_
+
+# sent_id = SEFR2004_0055_SP1_trs_ann0050_iu01
+# source = SEFR2004.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 50
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:23.371
+# end = 00:02:23.825
+# text = mmm
+1	mmm	mmm	INTJ	_	_	0	root	_	_
+

@@ -1,0 +1,6 @@
+.DS_Store
+/02_corpus_metadata_construction/*.docx
+/02_corpus_metadata_construction/**/*.docx
+/03_data_preparation/scripts/extract_excerpts/*
+!/03_data_preparation/scripts/extract_excerpts/extract_excerpts.py
+!/03_data_preparation/scripts/extract_excerpts/README.md

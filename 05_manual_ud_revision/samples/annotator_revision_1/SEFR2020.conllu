@@ -1,0 +1,1133 @@
+# sent_id = SEFR2020_0001_SP1_trs_ann0001_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.000
+# end = 00:00:00.690
+# text = elle est moins courbée
+1	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Emph=No
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	moins	moins	ADV	_	_	4	advmod	_	_
+4	courbée	courber	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+
+# sent_id = SEFR2020_0002_SP1_trs_ann0002_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:01.030
+# end = 00:00:02.080
+# text = tu peux l' admettre ça
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Emph=No
+2	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	4	obj	_	Emph=No
+4	admettre	admettre	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	obj	_	_
+
+# sent_id = SEFR2020_0003_SP2_trs_ann0001_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:01.650
+# end = 00:00:03.290
+# text = on les a vu les photos de la terre
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	_
+2	les	eux	PRON	_	Number=Plur|Person=3|PronType=Prs	4	obj	_	Emph=No
+3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
+4	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+6	photos	photo	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	terre	terre	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+
+# sent_id = SEFR2020_0004_SP2_trs_ann0002_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:03.290
+# end = 00:00:05.180
+# text = on voit thomas pesquet dans le ciel
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+2	voit	voir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	thomas	thomas	PROPN	_	_	2	obj	_	_
+4	pesquet	pesquet	PROPN	_	_	3	flat:name	_	_
+5	dans	dans	ADP	_	_	7	case	_	_
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	ciel	ciel	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+
+# sent_id = SEFR2020_0005_SP2_trs_ann0003_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:05.180
+# end = 00:00:06.340
+# text = et qui nous envoie les photos
+1	et	et	CCONJ	_	_	4	cc	_	_
+2	qui	qui	PRON	_	PronType=Rel	4	nsubj	_	_
+3	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	4	iobj	_	_
+4	envoie	envoyer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+6	photos	photo	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+
+# sent_id = SEFR2020_0006_SP1_trs_ann0003_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:05.440
+# end = 00:00:09.090
+# text = mais thomas pesquet il est à quatre cents kilomètres guillaume
+1	mais	mais	CCONJ	_	_	5	cc	_	_
+2	thomas	thomas	PROPN	_	_	5	dislocated	_	_
+3	pesquet	pesquet	PROPN	_	_	2	flat:name	_	_
+4	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Emph=No
+5	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	à	à	ADP	_	_	9	case	_	_
+7	quatre	quatre	NUM	_	Number=Plur	9	nummod	_	_
+8	cents	cent	NUM	_	Number=Plur	7	flat	_	_
+9	kilomètres	kilomètre	NOUN	_	Gender=Masc|Number=Plur	5	obl:arg	_	_
+10	guillaume	guillaume	PROPN	_	_	5	vocative	_	_
+
+# sent_id = SEFR2020_0007_SP1_trs_ann0004_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:09.090
+# end = 00:00:11.240
+# text = il est à quatre cents kilomètres
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Emph=No
+2	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	à	à	ADP	_	_	6	case	_	_
+4	quatre	quatre	NUM	_	Number=Plur	6	nummod	_	_
+5	cents	cent	NUM	_	Number=Plur	4	flat	_	_
+6	kilomètres	kilomètre	NOUN	_	Gender=Masc|Number=Plur	2	obl:arg	_	_
+
+# sent_id = SEFR2020_0008_SP2_trs_ann0004_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:09.200
+# end = 00:00:09.510
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2020_0009_SP1_trs_ann0005_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:11.240
+# end = 00:00:13.180
+# text = il a le nez sur la croute terrestre
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Emph=No
+2	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	nez	nez	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	sur	sur	ADP	_	_	7	case	_	_
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	croute	croute	NOUN	_	Gender=Fem|Number=Sing	2	obl:mod	_	_
+8	terrestre	terrestre	ADJ	_	Number=Sing	7	amod	_	_
+
+# sent_id = SEFR2020_0010_SP2_trs_ann0005_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:13.250
+# end = 00:00:15.510
+# text = bah quatre cents quatre cents kilomètres il voit la terre de haut déjà
+1	bah	bah	INTJ	_	_	8	discourse	_	_
+2	quatre	quatre	NUM	_	Number=Plur	6	reparandum	_	_
+3	cents	cent	NUM	_	Number=Plur	2	flat	_	_
+4	quatre	quatre	NUM	_	Number=Plur	6	nummod	_	_
+5	cents	cent	NUM	_	Number=Plur	4	flat	_	_
+6	kilomètres	kilomètre	NOUN	_	Gender=Masc|Number=Plur	8	dislocated	_	_
+7	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Emph=No
+8	voit	voir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	terre	terre	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	haut	haut	NOUN	_	Gender=Masc|Number=Sing	8	obl:mod	_	_
+13	déjà	déjà	ADV	_	_	8	advmod	_	_
+
+# sent_id = SEFR2020_0011_SP1_trs_ann0006_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:13.280
+# end = 00:00:14.180
+# text = il i il
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	reparandum	_	Emph=No
+2	i	i	X	_	_	3	reparandum	_	_
+3	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	Emph=No
+
+# sent_id = SEFR2020_0012_SP2_trs_ann0006_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:15.530
+# end = 00:00:17.430
+# text = effectivement c' est quatre cents kilomètres l' i èsse èsse
+1	effectivement	effectivement	ADV	_	_	6	advmod	_	_
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	quatre	quatre	NUM	_	Number=Plur	6	nummod	_	_
+5	cents	cent	NUM	_	Number=Plur	4	flat	_	_
+6	kilomètres	kilomètre	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+7	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
+8	i	i	PROPN	_	_	6	dislocated	_	_
+9	èsse	èsse	PROPN	_	_	8	flat:name	_	_
+10	èsse	èsse	PROPN	_	_	9	flat:name	_	_
+
+# sent_id = SEFR2020_0013_SP1_trs_ann0007_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:16.660
+# end = 00:00:18.120
+# text = mais il voit il voit rien
+1	mais	mais	CCONJ	_	_	5	cc	_	_
+2	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Emph=No
+3	voit	voir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	reparandum	_	_
+4	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Emph=No
+5	voit	voir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	rien	rien	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	5	obj	_	_
+
+# sent_id = SEFR2020_0014_SP1_trs_ann0008_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:18.150
+# end = 00:00:19.430
+# text = c' est comme si tu prends
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj:outer	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+3	comme	comme	SCONJ	_	_	6	mark	_	_
+4	si	si	SCONJ	_	_	6	mark	_	_
+5	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Emph=No
+6	prends	prendre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2020_0015_SP2_trs_ann0007_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:18.840
+# end = 00:00:20.460
+# text = bah on on a les photos
+1	bah	bah	INTJ	_	_	4	discourse	_	_
+2	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	reparandum	_	_
+3	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	_
+4	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+6	photos	photo	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+
+# sent_id = SEFR2020_0016_SP1_trs_ann0009_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 9
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:19.430
+# end = 00:00:25.990
+# text = c' est comme si c' est comme si tu prends une orange et que tu te mets à deux millimètres de l' orange
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	reparandum	_	_
+3	comme	comme	SCONJ	_	_	10	reparandum	_	_
+4	si	si	SCONJ	_	_	10	reparandum	_	_
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	nsubj:outer	_	_
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+7	comme	comme	SCONJ	_	_	10	mark	_	_
+8	si	si	SCONJ	_	_	10	mark	_	_
+9	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	10	nsubj	_	Emph=No
+10	prends	prendre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	orange	orange	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+13	et	et	CCONJ	_	_	17	cc	_	_
+14	que	que	SCONJ	_	_	17	mark	_	_
+15	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	17	nsubj	_	Emph=No
+16	te	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	17	expl:pv	_	Emph=No
+17	mets	mettre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	conj	_	_
+18	à	à	ADP	_	_	20	case	_	_
+19	deux	deux	NUM	_	Number=Plur	20	nummod	_	_
+20	millimètres	millimètre	NOUN	_	Gender=Masc|Number=Plur	17	obl:arg	_	_
+21	de	de	ADP	_	_	23	case	_	_
+22	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	23	det	_	_
+23	orange	orange	NOUN	_	Gender=Masc|Number=Sing	20	nmod	_	_
+
+# sent_id = SEFR2020_0017_SP2_trs_ann0008_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:20.460
+# end = 00:00:20.910
+# text = tu les vois
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Emph=No
+2	les	eux	PRON	_	Number=Plur|Person=3|PronType=Prs	3	obj	_	_
+3	vois	voir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2020_0018_SP2_trs_ann0009_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 9
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:25.930
+# end = 00:00:26.160
+# text = non
+1	non	non	ADV	_	Polarity=Neg	0	root	_	_
+
+# sent_id = SEFR2020_0019_SP2_trs_ann0010_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:26.160
+# end = 00:00:26.640
+# text = euh des
+1	euh	euh	INTJ	_	_	2	discourse	_	_
+2	des	un	DET	_	Definite=Def|Number=Plur|PronType=Art	0	root	_	_
+
+# sent_id = SEFR2020_0020_SP2_trs_ann0011_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:26.640
+# end = 00:00:26.950
+# text = tu tu
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	reparandum	_	_
+2	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	0	root	_	Emph=No
+
+# sent_id = SEFR2020_0021_SP2_trs_ann0012_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 12
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:26.950
+# end = 00:00:28.560
+# text = on voit les caméras qu' il y a sur l' i èsse èsse
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+2	voit	voir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+4	caméras	caméra	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+5	qu'	que	PRON	_	PronType=Rel	8	obj	_	_
+6	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl:subj	_	Emph=No
+7	y	y	PRON	_	Person=3|PronType=Prs	8	expl:comp	_	_
+8	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+9	sur	sur	ADP	_	_	11	case	_	_
+10	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
+11	i	i	PROPN	_	_	8	obl:mod	_	_
+12	èsse	èsse	PROPN	_	_	11	flat:name	_	_
+13	èsse	èsse	PROPN	_	_	12	flat:name	_	_
+
+# sent_id = SEFR2020_0022_SP2_trs_ann0013_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 13
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:28.600
+# end = 00:00:31.900
+# text = quand la terre tourne tu tu la tu tu le vois quand même que que c' est c' est rond
+1	quand	quand	SCONJ	_	_	4	mark	_	_
+2	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	terre	terre	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+4	tourne	tourner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+5	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	6	reparandum	_	Emph=No
+6	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	11	reparandum	_	Emph=No
+7	la	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	reparandum	_	Emph=No
+8	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	9	reparandum	_	Emph=No
+9	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	11	nsubj	_	Emph=No
+10	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	Emph=No
+11	vois	voir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	quand	quand	SCONJ	_	ExtPos=ADV	11	advmod	_	Idiom=Yes
+13	même	même	ADV	_	_	12	fixed	_	InIdiom=Yes
+14	que	que	SCONJ	_	_	15	reparandum	_	_
+15	que	que	SCONJ	_	_	20	mark	_	_
+16	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	17	nsubj	_	_
+17	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	reparandum	_	_
+18	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	20	nsubj	_	_
+19	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+20	rond	rond	ADJ	_	Gender=Masc|Number=Sing	11	ccomp	_	_
+
+# sent_id = SEFR2020_0023_SP2_trs_ann0014_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 14
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:31.910
+# end = 00:00:32.560
+# text = et c' est une boule
+1	et	et	CCONJ	_	_	5	cc	_	_
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	boule	boule	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2020_0024_SP1_trs_ann0010_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:32.570
+# end = 00:00:33.330
+# text = grand-angle
+1	grand-angle	grand-angle	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2020_0025_SP2_trs_ann0015_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 15
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:33.280
+# end = 00:00:34.170
+# text = oui bah justement
+1	oui	oui	INTJ	_	_	3	discourse	_	_
+2	bah	bah	INTJ	_	_	3	discourse	_	_
+3	justement	justement	ADV	_	_	0	root	_	_
+
+# sent_id = SEFR2020_0026_SP2_trs_ann0016_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 16
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:34.170
+# end = 00:00:35.980
+# text = tu vois encore mieux que c' est une boule
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Emph=No
+2	vois	voir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	encore	encore	ADV	_	_	4	advmod	_	_
+4	mieux	mieux	ADV	_	_	2	advmod	_	_
+5	que	que	SCONJ	_	_	9	mark	_	_
+6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	_
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	boule	boule	NOUN	_	Gender=Fem|Number=Sing	2	ccomp	_	_
+
+# sent_id = SEFR2020_0027_SP1_trs_ann0011_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:35.570
+# end = 00:00:39.690
+# text = ah bah tu vois tu vois en avec un grand-angle c' est certain que tu verras que que c' est rond
+1	ah	ah	INTJ	_	_	13	discourse	_	_
+2	bah	bah	INTJ	_	_	13	discourse	_	_
+3	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Emph=No
+4	vois	voir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	reparandum	_	_
+5	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Emph=No
+6	vois	voir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	discourse	_	_
+7	en	en	ADP	_	_	8	reparandum	_	_
+8	avec	avec	ADP	_	_	10	case	_	_
+9	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	grand-angle	grand-angle	NOUN	_	Gender=Masc|Number=Sing	13	obl:mod	_	_
+11	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	expl:subj	_	_
+12	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	certain	certain	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+14	que	que	SCONJ	_	_	16	mark	_	_
+15	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	16	nsubj	_	Emph=No
+16	verras	voir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	csubj	_	_
+17	que	que	SCONJ	_	_	18	reparandum	_	_
+18	que	que	SCONJ	_	_	21	mark	_	_
+19	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	21	nsubj	_	_
+20	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
+21	rond	rond	ADJ	_	Gender=Masc|Number=Sing	16	ccomp	_	_
+
+# sent_id = SEFR2020_0028_SP2_trs_ann0017_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 17
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:40.070
+# end = 00:00:40.820
+# text = mais exactement
+1	mais	mais	CCONJ	_	_	2	cc	_	_
+2	exactement	exactement	ADV	_	_	0	root	_	_
+
+# sent_id = SEFR2020_0029_SP1_trs_ann0012_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 12
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:40.820
+# end = 00:00:41.370
+# text = bah oui
+1	bah	bah	INTJ	_	_	2	discourse	_	_
+2	oui	oui	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2020_0030_SP1_trs_ann0013_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 13
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:41.370
+# end = 00:00:42.080
+# text = bah c' est ce qu' ils font
+1	bah	bah	INTJ	_	_	4	discourse	_	_
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_
+5	qu'	que	PRON	_	PronType=Rel	7	obj	_	_
+6	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	Emph=No
+7	font	faire	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+
+# sent_id = SEFR2020_0031_SP2_trs_ann0018_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 18
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:42.000
+# end = 00:00:42.650
+# text = bah parce que c' est
+1	bah	bah	INTJ	_	_	5	discourse	_	_
+2	parce	parce	ADV	_	ExtPos=SCONJ	5	mark	_	_
+3	que	que	SCONJ	_	_	2	fixed	_	_
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2020_0032_SP2_trs_ann0019_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 19
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:42.650
+# end = 00:00:45.980
+# text = ils sont pas assez haut ils mettent un grand-angle pour comme ça fait un effet de recul
+1	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	Emph=No
+2	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	_
+4	assez	assez	ADV	_	_	5	advmod	_	_
+5	haut	haut	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	Emph=No
+7	mettent	mettre	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
+8	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	grand-angle	grand-angle	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	pour	pour	ADP	_	_	13	reparandum	_	_
+11	comme	comme	SCONJ	_	_	13	mark	_	_
+12	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	nsubj	_	_
+13	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+14	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	effet	effet	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	recul	recul	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
+
+# sent_id = SEFR2020_0033_SP2_trs_ann0020_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 20
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:45.980
+# end = 00:00:47.060
+# text = mais comme ça on voit très bien
+1	mais	mais	CCONJ	_	_	5	cc	_	_
+2	comme	comme	ADP	_	_	3	case	_	_
+3	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	obl:mod	_	_
+4	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj	_	_
+5	voit	voir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	très	très	ADV	_	_	7	advmod	_	_
+7	bien	bien	ADV	_	_	5	advmod	_	_
+
+# sent_id = SEFR2020_0034_SP1_trs_ann0014_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 14
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:47.110
+# end = 00:00:50.150
+# text = non mais tu prends tu prends un grand-angle dès que tu prends un grand-angle
+1	non	non	ADV	_	Polarity=Neg	6	discourse	_	_
+2	mais	mais	CCONJ	_	_	6	cc	_	_
+3	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Emph=No
+4	prends	prendre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	reparandum	_	_
+5	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Emph=No
+6	prends	prendre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	grand-angle	grand-angle	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	dès	dès	ADP	_	_	12	mark	_	_
+10	que	que	SCONJ	_	_	12	mark	_	_
+11	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	12	nsubj	_	Emph=No
+12	prends	prendre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	parataxis	_	_
+13	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	grand-angle	grand-angle	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+
+# sent_id = SEFR2020_0035_SP2_trs_ann0021_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 21
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:49.830
+# end = 00:00:50.970
+# text = ça c' est pas un argument pour moi
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	dislocated	_	_
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	_
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	argument	argument	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+7	pour	pour	ADP	_	_	8	case	_	_
+8	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nmod	_	Emph=Yes
+
+# sent_id = SEFR2020_0036_SP2_trs_ann0022_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 22
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:50.970
+# end = 00:00:52.640
+# text = je j' entends hein pas de problème
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	reparandum	_	Emph=No
+2	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+3	entends	entendre	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	discourse	_	_
+4	hein	hein	INTJ	_	_	3	discourse	_	_
+5	pas	pas	ADV	_	Polarity=Neg	0	root	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	problème	problème	NOUN	_	Gender=Masc|Number=Sing	5	obl:arg	_	_
+
+# sent_id = SEFR2020_0037_SP1_trs_ann0015_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 15
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:52.020
+# end = 00:00:53.030
+# text = bah n' importe quel pho
+1	bah	bah	INTJ	_	_	5	discourse	_	_
+2	n'	ne	ADV	_	ExtPos=DET|Polarity=Neg	5	det	_	Idiom=Yes
+3	importe	importer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	fixed	_	InIdiom=Yes
+4	quel	quel	DET	_	Gender=Masc|Number=Sing|PronType=Int	2	fixed	_	InIdiom=Yes
+5	pho	pho	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2020_0038_SP1_trs_ann0016_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 16
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:53.030
+# end = 00:00:59.550
+# text = bah bah bah prends un appareil photo avec un grand-angle et tu verras que bah t' as pas de ligne t' as t' as moins de ligne droite t' as plus de courbes
+1	bah	bah	INTJ	_	_	3	reparandum	_	_
+2	bah	bah	INTJ	_	_	3	reparandum	_	_
+3	bah	bah	INTJ	_	_	4	discourse	_	_
+4	prends	prendre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	appareil	appareil	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	photo	photo	NOUN	_	Gender=Fem|Number=Sing	6	appos	_	_
+8	avec	avec	ADP	_	_	10	case	_	_
+9	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	grand-angle	grand-angle	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+11	et	et	CCONJ	_	_	13	cc	_	_
+12	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	13	nsubj	_	Emph=No
+13	verras	voir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	_
+14	que	que	SCONJ	_	_	24	mark	_	_
+15	bah	bah	INTJ	_	_	17	discourse	_	_
+16	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	17	nsubj	_	Emph=No
+17	as	avoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	24	reparandum	_	_
+18	pas	pas	ADV	_	Polarity=Neg	17	advmod	_	_
+19	de	de	ADP	_	_	20	case	_	_
+20	ligne	ligne	NOUN	_	Gender=Fem|Number=Sing	17	obl:arg	_	_
+21	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	22	nsubj	_	Emph=No
+22	as	avoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	24	reparandum	_	_
+23	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	24	nsubj	_	Emph=No
+24	as	avoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	ccomp	_	_
+25	moins	moins	ADV	_	ExtPos=PRON	24	obj	_	_
+26	de	de	ADP	_	_	27	case	_	_
+27	ligne	ligne	NOUN	_	Gender=Fem|Number=Sing	25	nmod	_	_
+28	droite	droit	ADJ	_	Gender=Fem|Number=Sing	27	amod	_	_
+29	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	30	nsubj	_	Emph=No
+30	as	avoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	24	conj	_	_
+31	plus	plus	ADV	_	ExtPos=PRON	30	obj	_	_
+32	de	de	ADP	_	_	33	case	_	_
+33	courbes	courbe	NOUN	_	Gender=Fem|Number=Plur	31	nmod	_	_
+
+# sent_id = SEFR2020_0039_SP1_trs_ann0017_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 17
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:59.550
+# end = 00:01:02.140
+# text = enfin bon n' importe quel photographe peut le faire ce truc là
+1	enfin	enfin	ADV	_	ExtPos=INTJ	7	discourse	_	_
+2	bon	bon	INTJ	_	_	7	discourse	_	_
+3	n'	ne	ADV	_	ExtPos=DET|Polarity=Neg	6	det	_	Idiom=Yes
+4	importe	importer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	fixed	_	InIdiom=Yes
+5	quel	quel	DET	_	Gender=Masc|Number=Sing|PronType=Ind	3	fixed	_	InIdiom=Yes
+6	photographe	photographe	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+7	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	Emph=No
+9	faire	faire	VERB	_	VerbForm=Inf	7	xcomp	_	_
+10	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
+11	truc	truc	NOUN	_	Gender=Masc|Number=Sing	9	dislocated	_	_
+12	là	là	ADV	_	_	11	advmod	_	_
+
+# sent_id = SEFR2020_0040_SP1_trs_ann0018_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 18
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:02.960
+# end = 00:01:04.780
+# text = mais non mais tho tho thomas
+1	mais	mais	CCONJ	_	_	6	cc	_	_
+2	non	non	ADV	_	Polarity=Neg	6	discourse	_	_
+3	mais	mais	CCONJ	_	_	6	cc	_	_
+4	tho	tho	X	_	Foreign=Yes	6	reparandum	_	_
+5	tho	tho	X	_	Foreign=Yes	6	reparandum	_	_
+6	thomas	thomas	PROPN	_	_	0	root	_	_
+
+# sent_id = SEFR2020_0041_SP2_trs_ann0023_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 23
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:03.240
+# end = 00:01:04.540
+# text = tu vois bien que la terre est ronde
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Emph=No
+2	vois	voir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	bien	bien	ADV	_	_	2	advmod	_	_
+4	que	que	SCONJ	_	_	8	mark	_	_
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	terre	terre	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	ronde	rond	ADJ	_	Gender=Fem|Number=Sing	2	ccomp	_	_
+
+# sent_id = SEFR2020_0042_SP2_trs_ann0024_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 24
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:04.540
+# end = 00:01:05.230
+# text = et qu' elle tourne
+1	et	et	CCONJ	_	_	4	cc	_	_
+2	qu'	que	SCONJ	_	_	4	mark	_	_
+3	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Emph=No
+4	tourne	tourner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2020_0043_SP1_trs_ann0019_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 19
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:04.780
+# end = 00:01:09.870
+# text = le le le seul satellite le plus haut que l'on a c' est la station spatiale
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	reparandum	_	_
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	reparandum	_	_
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	seul	seul	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+5	satellite	satellite	NOUN	_	Gender=Masc|Number=Sing	15	dislocated	_	_
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	plus	plus	ADV	_	_	8	advmod	_	_
+8	haut	haut	ADJ	_	Gender=Masc|Number=Sing	5	nmod	_	_
+9	que	que	PRON	_	PronType=Rel	11	obj	_	_
+10	l'on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	11	nsubj	_	_
+11	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+12	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	15	nsubj	_	_
+13	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+14	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	station	station	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+16	spatiale	spatial	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	_
+
+# sent_id = SEFR2020_0044_SP2_trs_ann0025_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 25
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:09.550
+# end = 00:01:11.980
+# text = donc il est en apesanteur euh thomas pesquet
+1	donc	donc	ADV	_	_	5	advmod	_	_
+2	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Emph=No
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	apesanteur	apesanteur	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	euh	euh	INTJ	_	_	5	discourse	_	_
+7	thomas	thomas	PROPN	_	_	5	dislocated	_	_
+8	pesquet	pesquet	PROPN	_	_	7	flat:name	_	_
+
+# sent_id = SEFR2020_0045_SP2_trs_ann0026_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 26
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:12.010
+# end = 00:01:13.320
+# text = on le voit qu' il est en l' air
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_
+2	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Emph=No
+3	voit	voir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	qu'	que	SCONJ	_	_	6	mark	_	_
+5	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Emph=No
+6	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	air	air	NOUN	_	Gender=Masc|Number=Sing	6	obl:arg	_	_
+
+# sent_id = SEFR2020_0046_SP1_trs_ann0020_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 20
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:15.300
+# end = 00:01:18.510
+# text = tout n' est pas vrai dans ce qu' on te montre
+1	tout	tout	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj	_	_
+2	n'	ne	ADV	_	Polarity=Neg	5	advmod	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	_
+5	vrai	vrai	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	dans	dans	ADP	_	_	7	case	_	_
+7	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	obl:mod	_	_
+8	qu'	que	PRON	_	PronType=Rel	11	obj	_	_
+9	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	11	nsubj	_	Emph=No
+10	te	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	11	iobj	_	Emph=No
+11	montre	montrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+
+# sent_id = SEFR2020_0047_SP2_trs_ann0027_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 27
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:18.540
+# end = 00:01:20.140
+# text = ah tu penses que ça c' est faux aussi
+1	ah	ah	INTJ	_	_	3	discourse	_	_
+2	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Emph=No
+3	penses	penser	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	8	mark	_	_
+5	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	dislocated	_	_
+6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	_
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	faux	faux	ADJ	_	Gender=Masc	3	ccomp	_	_
+9	aussi	aussi	ADV	_	_	8	advmod	_	_
+
+# sent_id = SEFR2020_0048_SP1_trs_ann0021_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 21
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:19.930
+# end = 00:01:21.590
+# text = je ne te dis pas que c' est faux
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Emph=No
+2	ne	ne	ADV	_	Polarity=Neg	4	advmod	_	_
+3	te	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	4	iobj	_	Emph=No
+4	dis	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	_
+6	que	que	SCONJ	_	_	9	mark	_	_
+7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	_
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	faux	faux	ADJ	_	Gender=Masc	4	ccomp	_	_
+
+# sent_id = SEFR2020_0049_SP1_trs_ann0022_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 22
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:21.640
+# end = 00:01:24.200
+# text = je te dis que certaines images sont vraies
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+2	te	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	3	iobj	_	Emph=No
+3	dis	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	8	mark	_	_
+5	certaines	certain	DET	_	Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
+6	images	image	NOUN	_	Gender=Fem|Number=Plur	8	nsubj	_	_
+7	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	vraies	vrai	ADJ	_	Gender=Fem|Number=Plur	3	ccomp	_	_
+
+# sent_id = SEFR2020_0050_SP1_trs_ann0023_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 23
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:24.430
+# end = 00:01:27.440
+# text = ces images -là le le grand public n' y a pas accès
+1	ces	ce	DET	_	Number=Plur|PronType=Dem	2	det	_	_
+2	images	image	NOUN	_	Gender=Fem|Number=Plur	10	obl:mod	_	_
+3	-là	là	ADV	_	_	2	advmod	_	_
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	reparandum	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	grand	grand	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
+7	public	public	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+8	n'	ne	ADV	_	Polarity=Neg	10	advmod	_	_
+9	y	y	PRON	_	Person=3|PronType=Prs	10	iobj	_	Emph=No
+10	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	pas	pas	ADV	_	Polarity=Neg	10	advmod	_	_
+12	accès	accès	NOUN	_	Gender=Masc|Number=Sing	10	obj:lvc	_	_
+
+# sent_id = SEFR2020_0051_SP1_trs_ann0024_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 24
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:28.130
+# end = 00:01:36.440
+# text = et thomas pesquet lui-même lui-même en direct sur un plateau de télévision l' a dit quand il était pressenti pour aller sur la lune
+1	et	et	CCONJ	_	_	15	cc	_	_
+2	thomas	thomas	PROPN	_	_	15	dislocated	_	_
+3	pesquet	pesquet	PROPN	_	_	2	flat:name	_	_
+4	lui-même	lui-même	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	nmod	_	Emph=Yes
+5	lui-même	lui-même	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	15	nsubj	_	Emph=Yes
+6	en	en	ADP	_	_	7	case	_	_
+7	direct	direct	NOUN	_	Gender=Masc|Number=Sing	15	obl:mod	_	_
+8	sur	sur	ADP	_	_	10	case	_	_
+9	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	plateau	plateau	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	télévision	télévision	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+13	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	15	obj	_	Emph=No
+14	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux:tense	_	_
+15	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+16	quand	quand	SCONJ	_	_	19	mark	_	_
+17	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	Emph=No
+18	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	19	aux:pass	_	_
+19	pressenti	pressentir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	advcl	_	_
+20	pour	pour	ADP	_	_	21	mark	_	_
+21	aller	aller	VERB	_	VerbForm=Inf	19	xcomp	_	_
+22	sur	sur	ADP	_	_	24	case	_	_
+23	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+24	lune	lune	NOUN	_	Gender=Fem|Number=Sing	21	obl:mod	_	_
+
+# sent_id = SEFR2020_0052_SP1_trs_ann0025_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 25
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:36.670
+# end = 00:01:38.460
+# text = le premier français à aller sur la lune
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	premier	premier	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+3	français	français	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	à	à	ADP	_	_	5	mark	_	_
+5	aller	aller	VERB	_	VerbForm=Inf	3	acl	_	_
+6	sur	sur	ADP	_	_	8	case	_	_
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	lune	lune	NOUN	_	Gender=Fem|Number=Sing	5	obl:mod	_	_
+
+# sent_id = SEFR2020_0053_SP1_trs_ann0026_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 26
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:38.850
+# end = 00:01:40.550
+# text = qu' est -ce qu' il a répondu thomas pesquet
+1	qu'	que	PRON	_	PronType=Int	0	root	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	1	expl:subj	_	_
+4	qu'	que	SCONJ	_	_	7	mark	_	_
+5	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Emph=No
+6	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:tense	_	_
+7	répondu	répondre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl:cleft	_	_
+8	thomas	thomas	PROPN	_	_	1	dislocated	_	_
+9	pesquet	pesquet	PROPN	_	_	8	flat:name	_	_
+
+# sent_id = SEFR2020_0054_SP1_trs_ann0027_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 27
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:40.940
+# end = 00:01:45.670
+# text = il a dit oh mais là où l'on peut aller aujourd'hui c' est quatre cents kilomètres
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Emph=No
+2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	oh	oh	INTJ	_	_	16	discourse	_	_
+5	mais	mais	CCONJ	_	_	16	cc	_	_
+6	là	là	ADV	_	_	16	advmod	_	_
+7	où	où	PRON	_	PronType=Rel	10	obl:mod	_	_
+8	l'on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	9	nsubj	_	_
+9	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+10	aller	aller	VERB	_	VerbForm=Inf	9	xcomp	_	_
+11	aujourd'hui	aujourd'hui	ADV	_	_	10	advmod	_	_
+12	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	16	nsubj	_	_
+13	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+14	quatre	quatre	NUM	_	Number=Plur	16	nummod	_	_
+15	cents	cents	NUM	_	Number=Plur	14	flat	_	_
+16	kilomètres	kilomètre	NOUN	_	Gender=Masc|Number=Plur	3	ccomp	_	_
+
+# sent_id = SEFR2020_0055_SP1_trs_ann0028_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 28
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:46.330
+# end = 00:01:47.960
+# text = la lune c' est quatre cent mille
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	lune	lune	NOUN	_	Gender=Fem|Number=Sing	5	dislocated	_	_
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	quatre	quatre	NUM	_	Number=Plur	0	root	_	_
+6	cent	cent	NUM	_	Number=Plur	5	flat	_	_
+7	mille	mille	NUM	_	Number=Plur	5	flat	_	_
+
+# sent_id = SEFR2020_0056_SP1_trs_ann0029_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 29
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:47.960
+# end = 00:01:48.900
+# text = c' est autre chose
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	autre	autre	ADJ	_	Number=Sing	4	amod	_	_
+4	chose	chose	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2020_0057_SP1_trs_ann0030_iu01
+# source = SEFR2020.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 30
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:50.220
+# end = 00:01:53.970
+# text = il le sait parfaitement qu' on n' est jamais qu' on a n' a jamais dépassé
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Emph=No
+2	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Emph=No
+3	sait	savoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	parfaitement	parfaitement	ADV	_	_	3	advmod	_	_
+5	qu'	que	SCONJ	_	_	8	mark	_	_
+6	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	8	nsubj	_	_
+7	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	_
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	reparandum	_	_
+9	jamais	jamais	ADV	_	Polarity=Neg|PronType=Neg	8	advmod	_	_
+10	qu'	que	SCONJ	_	_	16	mark	_	_
+11	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	16	nsubj	_	_
+12	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	reparandum	_	_
+13	n'	ne	ADV	_	Polarity=Neg	16	advmod	_	_
+14	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux:tense	_	_
+15	jamais	jamais	ADV	_	Polarity=Neg|PronType=Neg	16	advmod	_	_
+16	dépassé	dépasser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	_
+

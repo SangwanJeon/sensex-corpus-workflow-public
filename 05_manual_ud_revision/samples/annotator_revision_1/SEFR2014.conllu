@@ -1,0 +1,688 @@
+# sent_id = SEFR2014_0001_SP1_trs_ann0001_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.000
+# end = 00:00:00.350
+# text = quoi
+1	quoi	quoi	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2014_0002_SP1_trs_ann0002_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.350
+# end = 00:00:01.668
+# text = tu dois partager tes brainrots
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Emph=No
+2	dois	devoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	partager	partager	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	tes	ton	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	5	det	_	_
+5	brainrots	brainrot	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+
+# sent_id = SEFR2014_0003_SP1_trs_ann0003_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:01.668
+# end = 00:00:02.660
+# text = comment ça jeanfille
+1	comment	comment	ADV	_	_	0	root	_	_
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	1	obl:mod	_	_
+3	jeanfille	jeanfille	PROPN	_	_	1	vocative	_	_
+
+# sent_id = SEFR2014_0004_SP1_trs_ann0004_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:02.660
+# end = 00:00:03.716
+# text = tu dois partager tes brainrots
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Emph=No
+2	dois	devoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	partager	partager	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	tes	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	5	det	_	_
+5	brainrots	brainrot	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+
+# sent_id = SEFR2014_0005_SP1_trs_ann0005_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:03.716
+# end = 00:00:04.547
+# text = non non non non non non
+1	non	non	ADV	_	Polarity=Neg	0	root	_	_
+2	non	non	ADV	_	Polarity=Neg	1	parataxis	_	_
+3	non	non	ADV	_	Polarity=Neg	2	parataxis	_	_
+4	non	non	ADV	_	Polarity=Neg	3	parataxis	_	_
+5	non	non	ADV	_	Polarity=Neg	4	parataxis	_	_
+6	non	non	ADV	_	Polarity=Neg	5	parataxis	_	_
+
+# sent_id = SEFR2014_0006_SP1_trs_ann0006_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:04.547
+# end = 00:00:04.920
+# text = comment ça
+1	comment	comment	ADV	_	_	0	root	_	_
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	1	obl:mod	_	_
+
+# sent_id = SEFR2014_0007_SP1_trs_ann0007_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:04.920
+# end = 00:00:06.020
+# text = je dois partager mes brainrots
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Emph=No
+2	dois	devoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	partager	partager	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	mes	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	brainrots	brainrot	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+
+# sent_id = SEFR2014_0008_SP1_trs_ann0008_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:06.020
+# end = 00:00:06.332
+# text = attends
+1	attends	attendre	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2014_0009_SP1_trs_ann0009_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 9
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:06.332
+# end = 00:00:10.768
+# text = mais il va me voler mon six seven festive exclusif que j' avais eu dans ma dernière vidéo
+1	mais	mais	CCONJ	_	_	3	cc	_	_
+2	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Emph=No
+3	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	iobj	_	Emph=No
+5	voler	voler	VERB	_	VerbForm=Inf	3	xcomp	_	_
+6	mon	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	9	det	_	_
+7	six	six	NUM	_	Foreign=Yes|Number=Plur	9	nummod	_	_
+8	seven	seven	NUM	_	Foreign=Yes|Number=Plur	7	flat	_	_
+9	festive	festive	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	5	obj	_	_
+10	exclusif	exclusif	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	_
+11	que	que	PRON	_	PronType=Rel	14	obj	_	_
+12	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	Emph=No
+13	avais	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	14	aux:tense	_	_
+14	eu	avoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	acl:relcl	_	_
+15	dans	dans	ADP	_	_	18	case	_	_
+16	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	18	det	_	_
+17	dernière	dernier	ADJ	_	Gender=Fem|Number=Sing	18	amod	_	_
+18	vidéo	vidéo	NOUN	_	Gender=Fem|Number=Sing	14	obl:mod	_	_
+
+# sent_id = SEFR2014_0010_SP1_trs_ann0010_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:10.768
+# end = 00:00:11.760
+# text = il est pas sérieux
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Emph=No
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	_
+4	sérieux	sérieux	ADJ	_	Gender=Masc	0	root	_	_
+
+# sent_id = SEFR2014_0011_SP1_trs_ann0011_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:11.760
+# end = 00:00:12.860
+# text = c' est quoi cette dinguerie
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	quoi	quoi	PRON	_	PronType=Int	0	root	_	_
+4	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
+5	dinguerie	dinguerie	NOUN	_	Gender=Fem|Number=Sing	3	dislocated	_	_
+
+# sent_id = SEFR2014_0012_SP1_trs_ann0012_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 12
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:12.860
+# end = 00:00:13.405
+# text = attends attends attends
+1	attends	attendre	VERB	_	_	0	root	_	_
+2	attends	attendre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+3	attends	attendre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+
+# sent_id = SEFR2014_0013_SP1_trs_ann0013_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 13
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:13.405
+# end = 00:00:14.460
+# text = maintenant il y a une chienne qui vole mes
+1	maintenant	maintenant	ADV	_	_	4	advmod	_	_
+2	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	Emph=No
+3	y	y	PRON	_	Person=3|PronType=Prs	4	expl:comp	_	_
+4	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	chienne	chienne	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	qui	qui	PRON	_	PronType=Rel	8	nsubj	_	_
+8	vole	voler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+9	mes	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	4	obj	_	_
+
+# sent_id = SEFR2014_0014_SP1_trs_ann0014_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 14
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:14.460
+# end = 00:00:14.642
+# text = attends
+1	attends	attendre	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2014_0015_SP1_trs_ann0015_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 15
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:14.642
+# end = 00:00:18.600
+# text = mais tout le monde est en train de me voler mes brainrots que j' ai eu dans ma dernière vidéo
+1	mais	mais	CCONJ	_	_	7	cc	_	_
+2	tout	tout	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	monde	monde	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	train	train	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+8	de	de	ADP	_	_	10	mark	_	_
+9	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	iobj	_	Emph=No
+10	voler	voler	VERB	_	VerbForm=Inf	7	xcomp	_	_
+11	mes	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	brainrots	brainrot	NOUN	_	Gender=Masc|Number=Plur	10	obj	_	_
+13	que	que	PRON	_	PronType=Rel	16	obj	_	_
+14	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	16	nsubj	_	Emph=No
+15	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	aux:tense	_	_
+16	eu	avoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	acl:relcl	_	_
+17	dans	dans	ADP	_	_	20	case	_	_
+18	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	20	det	_	_
+19	dernière	dernier	ADJ	_	Gender=Fem|Number=Sing	20	amod	_	_
+20	vidéo	vidéo	NOUN	_	Gender=Fem|Number=Sing	16	obl:mod	_	_
+
+# sent_id = SEFR2014_0016_SP1_trs_ann0016_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 16
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:18.600
+# end = 00:00:20.416
+# text = heureusement que c' est pas des brainrots de fou les gars
+1	heureusement	heureusement	ADV	_	_	0	root	_	_
+2	que	que	SCONJ	_	_	7	mark	_	_
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	_
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	_
+6	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	7	det	_	_
+7	brainrots	brainrot	NOUN	_	Gender=Masc|Number=Plur	1	ccomp	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	fou	fou	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
+11	gars	gars	NOUN	_	Gender=Masc|Number=Plur	7	vocative	_	_
+
+# sent_id = SEFR2014_0017_SP1_trs_ann0017_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 17
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:20.416
+# end = 00:00:21.700
+# text = mais c' est quoi cette arnaque
+1	mais	mais	CCONJ	_	_	4	cc	_	_
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	quoi	quoi	PRON	_	PronType=Int	0	root	_	_
+5	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
+6	arnaque	arnaque	NOUN	_	Gender=Fem|Number=Sing	4	dislocated	_	_
+
+# sent_id = SEFR2014_0018_SP1_trs_ann0018_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 18
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:21.705
+# end = 00:00:24.247
+# text = j' arrive ils me disent qu' on va faire des épreuves et tout
+1	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Emph=No
+2	arrive	arriver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	Emph=No
+4	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	iobj	_	Emph=No
+5	disent	dire	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+6	qu'	que	SCONJ	_	_	8	mark	_	_
+7	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	8	nsubj	_	_
+8	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+9	faire	faire	VERB	_	VerbForm=Inf	8	xcomp	_	_
+10	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	11	det	_	_
+11	épreuves	épreuve	NOUN	_	Gender=Fem|Number=Plur	9	obj	_	_
+12	et	et	CCONJ	_	ExtPos=ADV	11	conj	_	Idiom=Yes
+13	tout	tout	ADV	_	_	12	fixed	_	InIdiom=Yes
+
+# sent_id = SEFR2014_0019_SP1_trs_ann0019_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 19
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:24.247
+# end = 00:00:28.105
+# text = et là bah euh carrément je me fais dépouiller ma base frérot
+1	et	et	CCONJ	_	_	9	cc	_	_
+2	là	là	ADV	_	_	9	advmod	_	_
+3	bah	bah	INTJ	_	_	9	discourse	_	_
+4	euh	euh	INTJ	_	_	9	discourse	_	_
+5	carrément	carrément	ADV	_	_	9	advmod	_	_
+6	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj:caus	_	Emph=No
+7	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs|Reflex=Yes	9	expl:pass	_	Emph=No
+8	fais	faire	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux:caus	_	_
+9	dépouiller	dépouiller	VERB	_	VerbForm=Inf	0	root	_	_
+10	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	base	base	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+12	frérot	frérot	NOUN	_	Gender=Masc|Number=Sing	9	vocative	_	_
+
+# sent_id = SEFR2014_0020_SP1_trs_ann0020_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 20
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:28.105
+# end = 00:00:29.542
+# text = c' est vraiment n' importe quoi
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	vraiment	vraiment	ADV	_	_	4	advmod	_	_
+4	n'	ne	ADV	_	ExtPos=PRON|Polarity=Neg	0	root	_	Idiom=Yes
+5	importe	importer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	fixed	_	InIdiom=Yes
+6	quoi	quoi	PRON	_	PronType=Ind	4	fixed	_	InIdiom=Yes
+
+# sent_id = SEFR2014_0021_SP1_trs_ann0021_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 21
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:29.553
+# end = 00:00:31.805
+# text = oh ouais oh ouais là là ma base est complètement vide
+1	oh	oh	INTJ	_	_	3	reparandum	_	_
+2	ouais	ouais	INTJ	_	_	1	discourse	_	_
+3	oh	oh	INTJ	_	_	11	discourse	_	_
+4	ouais	ouais	INTJ	_	_	3	discourse	_	_
+5	là	là	ADV	_	_	6	reparandum	_	_
+6	là	là	ADV	_	_	11	advmod	_	_
+7	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	base	base	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	complètement	complètement	ADV	_	_	11	advmod	_	_
+11	vide	vide	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2014_0022_SP1_trs_ann0022_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 22
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:31.805
+# end = 00:00:33.280
+# text = c' est vraiment fou de fou
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	vraiment	vraiment	ADV	_	_	4	advmod	_	_
+4	fou	fou	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	fou	fou	NOUN	_	Gender=Masc|Number=Sing	4	obl:mod	_	_
+
+# sent_id = SEFR2014_0023_SP1_trs_ann0023_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 23
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:33.280
+# end = 00:00:35.620
+# text = on a la base d' unchained juste ici ok
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+2	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	base	base	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	d'	de	ADP	_	_	6	case	_	_
+6	unchained	unchained	PROPN	_	Foreign=Yes	4	nmod	_	_
+7	juste	juste	ADV	_	_	8	advmod	_	_
+8	ici	ici	ADV	_	_	2	advmod	_	_
+9	ok	ok	INTJ	_	_	8	discourse	_	_
+
+# sent_id = SEFR2014_0024_SP1_trs_ann0024_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 24
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:35.620
+# end = 00:00:37.420
+# text = il y a des brainrots pour faire les rituels
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	Emph=No
+2	y	y	PRON	_	Person=3|PronType=Prs	3	expl:comp	_	_
+3	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	5	det	_	_
+5	brainrots	brainrot	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	pour	pour	ADP	_	_	7	mark	_	_
+7	faire	faire	VERB	_	VerbForm=Inf	3	advcl	_	_
+8	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
+9	rituels	rituel	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+
+# sent_id = SEFR2014_0025_SP1_trs_ann0025_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 25
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:37.420
+# end = 00:00:38.180
+# text = et oh
+1	et	et	CCONJ	_	_	2	cc	_	_
+2	oh	oh	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2014_0026_SP1_trs_ann0026_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 26
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:38.180
+# end = 00:00:39.111
+# text = les gars regardez au-dessus
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
+2	gars	gars	NOUN	_	Gender=Masc|Number=Plur	3	vocative	_	_
+3	regardez	regarder	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	au-dessus	au-dessus	ADV	_	_	3	advmod	_	_
+
+# sent_id = SEFR2014_0027_SP1_trs_ann0027_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 27
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:39.111
+# end = 00:00:41.720
+# text = il a un éléphant strawberry en or
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Emph=No
+2	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	éléphant	éléphant	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	strawberry	strawberry	NOUN	_	Foreign=Yes	4	nmod:appos	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	or	or	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+
+# sent_id = SEFR2014_0028_SP1_trs_ann0028_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 28
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:41.720
+# end = 00:00:43.153
+# text = oh oh oh oh
+1	oh	oh	INTJ	_	_	0	root	_	_
+2	oh	oh	INTJ	_	_	1	dep	_	_
+3	oh	oh	INTJ	_	_	2	dep	_	_
+4	oh	oh	INTJ	_	_	3	dep	_	_
+
+# sent_id = SEFR2014_0029_SP1_trs_ann0029_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 29
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:43.153
+# end = 00:00:44.020
+# text = la vie de ma mère
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	vie	vie	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	mère	mère	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+
+# sent_id = SEFR2014_0030_SP1_trs_ann0030_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 30
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:44.020
+# end = 00:00:44.520
+# text = quoi
+1	quoi	quoi	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2014_0031_SP1_trs_ann0031_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 31
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:44.520
+# end = 00:00:45.920
+# text = les gars regardez toinelog
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
+2	gars	gars	NOUN	_	Gender=Masc|Number=Plur	3	vocative	_	_
+3	regardez	regarder	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	toinelog	toinelog	PROPN	_	Gender=Masc|Number=Sing	3	dislocated	_	_
+
+# sent_id = SEFR2014_0032_SP1_trs_ann0032_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 32
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:45.920
+# end = 00:00:47.111
+# text = la vie de ma mère toinelog
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	vie	vie	NOUN	_	Gender=Fem|Number=Sing	6	discourse	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	mère	mère	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+6	toinelog	toinelog	PROPN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2014_0033_SP1_trs_ann0033_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 33
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:47.111
+# end = 00:00:47.920
+# text = wesh
+1	wesh	wesh	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2014_0034_SP1_trs_ann0034_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 34
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:47.920
+# end = 00:00:49.050
+# text = c' est quoi cette base
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	quoi	quoi	PRON	_	PronType=Int	0	root	_	_
+4	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
+5	base	base	NOUN	_	Gender=Fem|Number=Sing	3	dislocated	_	_
+
+# sent_id = SEFR2014_0035_SP1_trs_ann0035_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 35
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:49.050
+# end = 00:00:50.830
+# text = bon on connaît toinelag les gars le vrai
+1	bon	bon	INTJ	_	_	3	discourse	_	_
+2	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_
+3	connaît	connaître	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	toinelag	toinelag	PROPN	_	_	3	obj	_	_
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+6	gars	gars	NOUN	_	Gender=Masc|Number=Plur	3	vocative	_	_
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	vrai	vrai	ADJ	_	Gender=Masc|Number=Sing	4	reparandum	_	_
+
+# sent_id = SEFR2014_0036_SP1_trs_ann0036_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 36
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:50.830
+# end = 00:00:51.684
+# text = il est très très riche
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Emph=No
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	très	très	ADV	_	_	4	advmod	_	_
+4	très	très	ADV	_	_	5	advmod	_	_
+5	riche	riche	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2014_0037_SP1_trs_ann0037_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 37
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:51.684
+# end = 00:00:53.647
+# text = par contre là les gars il y a le faux toinelag
+1	par	par	ADP	_	ExtPos=ADV	8	advmod	_	_
+2	contre	contre	NOUN	_	_	1	fixed	_	_
+3	là	là	ADV	_	_	8	advmod	_	_
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+5	gars	gars	NOUN	_	Gender=Masc|Number=Plur	8	vocative	_	_
+6	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl:subj	_	Emph=No
+7	y	y	PRON	_	Person=3|PronType=Prs	8	expl:comp	_	_
+8	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	faux	faux	ADJ	_	Gender=Masc	11	amod	_	_
+11	toinelag	toinelag	PROPN	_	Gender=Masc|Number=Sing	8	obj	_	_
+
+# sent_id = SEFR2014_0038_SP1_trs_ann0038_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 38
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:53.647
+# end = 00:00:55.610
+# text = il est aussi riche que toinelag les gars
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Emph=No
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	aussi	aussi	ADV	_	_	4	advmod	_	_
+4	riche	riche	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	que	que	SCONJ	_	_	6	case	_	_
+6	toinelag	toinelag	PROPN	_	_	3	obl:arg	_	_
+7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
+8	gars	gars	NOUN	_	Gender=Masc|Number=Plur	4	vocative	_	_
+
+# sent_id = SEFR2014_0039_SP1_trs_ann0039_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 39
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:55.610
+# end = 00:00:56.689
+# text = c' est juste une dinguerie
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	juste	juste	ADV	_	_	5	advmod	_	_
+4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	dinguerie	dinguerie	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2014_0040_SP1_trs_ann0040_iu01
+# source = SEFR2014.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 40
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:56.689
+# end = 00:00:56.980
+# text = wow
+1	wow	wow	INTJ	_	_	0	root	_	_
+

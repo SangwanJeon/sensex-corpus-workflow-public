@@ -1,0 +1,1350 @@
+# sent_id = SEFR2018_0001_SP1_trs_ann0001_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.010
+# end = 00:00:03.290
+# text = waouh les amis je suis face à l'escalier le plus dangereux du monde
+1	waouh	waouh	INTJ	_	_	5	discourse	_	_
+2	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+3	amis	ami	NOUN	_	Gender=Masc|Number=Plur	5	dislocated	_	_
+4	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Emph=No
+5	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	face	face	NOUN	_	ExtPos=ADP	9	case	_	_
+7	à	à	ADP	_	_	6	fixed	_	_
+8	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	escalier	escalier	NOUN	_	Gender=Masc|Number=Sing	5	obl:arg	_	_
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	plus	plus	ADV	_	_	12	advmod	_	_
+12	dangereux	dangereux	ADJ	_	Gender=Masc	9	nmod	_	_
+13	de	de	ADP	_	_	15	case	_	_
+14	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	monde	monde	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+
+# sent_id = SEFR2018_0002_SP1_trs_ann0002_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:03.330
+# end = 00:00:04.440
+# text = il est juste là
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Emph=No
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	juste	juste	ADV	_	_	4	advmod	_	_
+4	là	là	ADV	_	_	2	obl:arg	_	_
+
+# sent_id = SEFR2018_0003_SP1_trs_ann0003_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:04.480
+# end = 00:00:06.330
+# text = et en fait c'est pas l'escalier qui est le plus dangereux
+1	et	et	CCONJ	_	_	8	cc	_	_
+2	en	en	ADP	_	ExtPos=ADV	8	discourse	_	_
+3	fait	fait	NOUN	_	Gender=Masc|Number=Sing	2	fixed	_	_
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	_
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	_
+7	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
+8	escalier	escalier	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+9	qui	qui	PRON	_	PronType=Rel	13	nsubj	_	_
+10	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	plus	plus	ADV	_	_	13	advmod	_	_
+13	dangereux	dangereux	ADJ	_	Gender=Masc	8	acl:relcl	_	_
+
+# sent_id = SEFR2018_0004_SP1_trs_ann0004_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:06.350
+# end = 00:00:07.390
+# text = euh c'est chacune des marches
+1	euh	euh	INTJ	_	_	4	discourse	_	_
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	chacune	chacun	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Ind	0	root	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+7	marches	marche	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	_
+
+# sent_id = SEFR2018_0005_SP1_trs_ann0005_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:07.430
+# end = 00:00:10.950
+# text = comme par exemple la première marche qui a zéro pour cent de chance que je meurs
+1	comme	comme	ADP	_	_	6	case	_	_
+2	par	par	ADP	_	ExtPos=ADV	6	advmod	_	_
+3	exemple	exemple	NOUN	_	Gender=Masc|Number=Sing	2	fixed	_	_
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	première	premier	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+6	marche	marche	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+7	qui	qui	PRON	_	PronType=Rel	8	nsubj	_	_
+8	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+9	zéro	zéro	NUM	_	Number=Plur	8	obj	_	_
+10	pour	pour	ADP	_	_	11	case	_	_
+11	cent	cent	NUM	_	Number=Plur	9	nmod	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	chance	chance	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
+14	que	que	SCONJ	_	_	16	mark	_	_
+15	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	16	nsubj	_	Emph=No
+16	meurs	mourir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+
+# sent_id = SEFR2018_0006_SP1_trs_ann0006_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:11.020
+# end = 00:00:12.150
+# text = donc franchement on peut y aller
+1	donc	donc	ADV	_	_	4	advmod	_	_
+2	franchement	franchement	ADV	_	_	4	advmod	_	_
+3	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	_
+4	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	y	y	PRON	_	Person=3|PronType=Prs	6	iobj	_	_
+6	aller	aller	VERB	_	VerbForm=Inf	4	xcomp	_	_
+
+# sent_id = SEFR2018_0007_SP1_trs_ann0007_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:12.170
+# end = 00:00:12.820
+# text = il n'y a pas de problème
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	Emph=No
+2	n'	ne	ADV	_	Polarity=Neg	4	advmod	_	_
+3	y	y	PRON	_	Person=3|PronType=Prs	4	expl:comp	_	_
+4	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	_
+6	de	un	DET	_	Definite=Ind|Number=Sing|PronType=Art	7	det	_	_
+7	problème	problème	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+
+# sent_id = SEFR2018_0008_SP1_trs_ann0008_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:12.830
+# end = 00:00:16.430
+# text = par contre la deuxième marche c'est un pour cent de chance de mourir
+1	par	par	ADP	_	ExtPos=ADV	9	advmod	_	_
+2	contre	contre	NOUN	_	_	1	fixed	_	_
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	deuxième	deuxième	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+5	marche	marche	NOUN	_	Gender=Fem|Number=Sing	9	dislocated	_	_
+6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	_
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	pour	pour	ADP	_	_	0	root	_	_
+10	cent	cent	NUM	_	Number=Plur	9	fixed	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	chance	chance	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+13	de	de	ADP	_	_	14	mark	_	_
+14	mourir	mourir	VERB	_	VerbForm=Inf	12	acl	_	_
+
+# sent_id = SEFR2018_0009_SP1_trs_ann0009_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 9
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:17.130
+# end = 00:00:17.580
+# text = ok ça va
+1	ok	ok	INTJ	_	_	3	discourse	_	_
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+3	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2018_0010_SP1_trs_ann0010_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:17.610
+# end = 00:00:18.390
+# text = j'ai pris le risque
+1	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+2	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	pris	prendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	risque	risque	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+
+# sent_id = SEFR2018_0011_SP1_trs_ann0011_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:18.420
+# end = 00:00:20.540
+# text = franchement je ne le prendrai pas dans la vraie vie
+1	franchement	franchement	ADV	_	_	5	advmod	_	_
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Emph=No
+3	ne	ne	ADV	_	Polarity=Neg	5	advmod	_	_
+4	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	Emph=No
+5	prendrai	prendre	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	_
+7	dans	dans	ADP	_	_	10	case	_	_
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	vraie	vrai	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
+10	vie	vie	NOUN	_	Gender=Fem|Number=Sing	5	obl:mod	_	_
+
+# sent_id = SEFR2018_0012_SP1_trs_ann0012_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 12
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:20.620
+# end = 00:00:21.890
+# text = le prochain c'est deux pour cent
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	prochain	prochain	ADJ	_	Gender=Masc|Number=Sing	6	dislocated	_	_
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	deux	deux	NUM	_	Number=Plur	6	nummod	_	_
+6	pour	pour	ADP	_	_	0	root	_	_
+7	cent	cent	NUM	_	Number=Plur	6	fixed	_	_
+
+# sent_id = SEFR2018_0013_SP1_trs_ann0013_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 13
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:21.910
+# end = 00:00:22.760
+# text = on est dans roblox
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dans	dans	ADP	_	_	4	case	_	_
+4	roblox	roblox	NOUN	_	Gender=Masc|Number=Sing	2	obl:arg	_	_
+
+# sent_id = SEFR2018_0014_SP1_trs_ann0014_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 14
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:22.780
+# end = 00:00:23.480
+# text = on peut le tenter
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+2	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Emph=No
+4	tenter	tenter	VERB	_	VerbForm=Inf	2	xcomp	_	_
+
+# sent_id = SEFR2018_0015_SP1_trs_ann0015_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 15
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:23.500
+# end = 00:00:23.790
+# text = voilà
+1	voilà	voilà	VERB	_	_	0	root	_	_
+
+# sent_id = SEFR2018_0016_SP1_trs_ann0016_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 16
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:23.820
+# end = 00:00:25.434
+# text = je ne l'aurais pas pris dans la vraie vie mate
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Emph=No
+2	ne	ne	ADV	_	Polarity=Neg	6	advmod	_	_
+3	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	6	obj	_	Emph=No
+4	aurais	avoir	AUX	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux:tense	_	_
+5	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	_
+6	pris	prendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	dans	dans	ADP	_	_	10	case	_	_
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	vraie	vrai	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
+10	vie	vie	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	_
+11	mate	mate	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
+
+# sent_id = SEFR2018_0017_SP1_trs_ann0017_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 17
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:25.434
+# end = 00:00:26.540
+# text = trois pour cent
+1	trois	trois	NUM	_	Number=Plur	2	nummod	_	_
+2	pour	pour	ADP	_	_	0	root	_	_
+3	cent	cent	NUM	_	Number=Plur	2	nmod	_	_
+
+# sent_id = SEFR2018_0018_SP1_trs_ann0018_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 18
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:26.660
+# end = 00:00:27.110
+# text = ok
+1	ok	ok	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2018_0019_SP1_trs_ann0019_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 19
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:27.279
+# end = 00:00:27.566
+# text = quatre pour cent
+1	quatre	quatre	NUM	_	Number=Plur	2	nummod	_	_
+2	pour	pour	ADP	_	_	0	root	_	_
+3	cent	cent	NUM	_	Number=Plur	2	nmod	_	_
+
+# sent_id = SEFR2018_0020_SP1_trs_ann0020_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 20
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:27.581
+# end = 00:00:32.600
+# text = et et les amis si vous avez quatre pour cent de chance de mourir mais vous devenez millionnaire vous choisissez quoi
+1	et	et	CCONJ	_	_	4	cc	_	_
+2	et	et	CCONJ	_	_	1	fixed	_	_
+3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+4	amis	ami	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+5	si	si	SCONJ	_	_	7	mark	_	_
+6	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_
+7	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	acl	_	_
+8	quatre	quatre	NUM	_	Number=Plur	9	nummod	_	_
+9	pour	pour	ADP	_	_	7	obj	_	_
+10	cent	cent	NUM	_	Number=Plur	8	flat	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	chance	chance	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+13	de	de	ADP	_	_	14	mark	_	_
+14	mourir	mourir	VERB	_	VerbForm=Inf	12	acl	_	_
+15	mais	mais	CCONJ	_	_	17	cc	_	_
+16	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	17	nsubj	_	_
+17	devenez	devenir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7	conj	_	_
+18	millionnaire	millionnaire	NOUN	_	Gender=Masc|Number=Sing	17	xcomp	_	_
+19	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	20	nsubj	_	_
+20	choisissez	choisseser	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	17	conj	_	_
+21	quoi	quoi	INTJ	_	_	20	discourse	_	_
+
+# sent_id = SEFR2018_0021_SP1_trs_ann0021_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 21
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:32.718
+# end = 00:00:33.308
+# text = bon je le tente
+1	bon	bon	INTJ	_	_	4	discourse	_	_
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Emph=No
+3	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Emph=No
+4	tente	tenter	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2018_0022_SP1_trs_ann0022_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 22
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:33.308
+# end = 00:00:33.919
+# text = je le tente
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+2	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Emph=No
+3	tente	tenter	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2018_0023_display_trs_ann0001_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = display_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:34.130
+# end = 00:00:34.850
+# text = uh
+1	uh	uh	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2018_0024_SP1_trs_ann0023_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 23
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:34.800
+# end = 00:00:35.270
+# text = c'est passé
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	passé	passer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+
+# sent_id = SEFR2018_0025_SP1_trs_ann0024_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 24
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:35.270
+# end = 00:00:35.650
+# text = oh
+1	oh	oh	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2018_0026_SP1_trs_ann0025_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 25
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:35.790
+# end = 00:00:36.840
+# text = waouh
+1	waouh	waouh	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2018_0027_SP1_trs_ann0026_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 26
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:36.860
+# end = 00:00:38.340
+# text = ah lui il n'a vraiment pas de chance pour le coup
+1	ah	ah	INTJ	_	_	5	discourse	_	_
+2	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	dislocated	_	Emph=Yes
+3	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Emph=No
+4	n'	ne	ADV	_	Polarity=Neg	5	advmod	_	_
+5	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	vraiment	vraiment	ADV	_	_	7	advmod	_	_
+7	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	_
+8	de	un	DET	_	Definite=Ind|Number=Sing|PronType=Art	9	det	_	_
+9	chance	chance	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+10	pour	pour	ADP	_	_	12	case	_	_
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	coup	coup	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	_
+
+# sent_id = SEFR2018_0028_SP1_trs_ann0027_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 27
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:38.380
+# end = 00:00:39.680
+# text = cinq pour cent de chance
+1	cinq	cinq	NUM	_	Number=Plur	0	root	_	_
+2	pour	pour	ADP	_	_	3	case	_	_
+3	cent	cent	NUM	_	Number=Plur	1	flat	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	chance	chance	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+
+# sent_id = SEFR2018_0029_SP1_trs_ann0028_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 28
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:39.700
+# end = 00:00:40.360
+# text = hop là
+1	hop	hop	INTJ	_	_	0	root	_	_
+2	là	là	ADV	_	_	1	advmod	_	_
+
+# sent_id = SEFR2018_0030_SP1_trs_ann0029_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 29
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:40.850
+# end = 00:00:41.510
+# text = yes
+1	yes	ye	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2018_0031_SP1_trs_ann0030_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 30
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:41.530
+# end = 00:00:42.600
+# text = six pour cent peut-être
+1	six	six	NUM	_	Number=Plur	2	nummod	_	_
+2	pour	pour	ADP	_	_	0	root	_	_
+3	cent	cent	NUM	_	Number=Plur	2	fixed	_	_
+4	peut-être	peut-être	ADV	_	_	2	advmod	_	_
+
+# sent_id = SEFR2018_0032_SP1_trs_ann0031_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 31
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:42.660
+# end = 00:00:44.090
+# text = oh incroyable
+1	oh	oh	INTJ	_	_	2	discourse	_	_
+2	incroyable	incroyable	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2018_0033_SP1_trs_ann0032_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 32
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:44.190
+# end = 00:00:45.280
+# text = sept pour cent
+1	sept	sept	NUM	_	Number=Plur	2	nummod	_	_
+2	pour	pour	ADP	_	_	0	root	_	_
+3	cent	cent	NUM	_	Number=Plur	2	nmod	_	_
+
+# sent_id = SEFR2018_0034_SP1_trs_ann0033_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 33
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:45.380
+# end = 00:00:45.880
+# text = ok ça va
+1	ok	ok	INTJ	_	_	3	discourse	_	_
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+3	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2018_0035_SP1_trs_ann0034_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 34
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:45.890
+# end = 00:00:46.460
+# text = c'est huit
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	huit	huit	NUM	_	Number=Plur	0	root	_	_
+
+# sent_id = SEFR2018_0036_SP1_trs_ann0035_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 35
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:46.660
+# end = 00:00:47.680
+# text = neuf
+1	neuf	neuf	NUM	_	Number=Plur	0	root	_	_
+
+# sent_id = SEFR2018_0037_SP1_trs_ann0036_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 36
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:47.878
+# end = 00:00:48.047
+# text = ok
+1	ok	ok	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2018_0038_SP1_trs_ann0037_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 37
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:48.047
+# end = 00:00:49.976
+# text = là on commence à arriver sur du sérieux
+1	là	là	ADV	_	_	3	advmod	_	_
+2	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_
+3	commence	commencer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	à	à	ADP	_	_	5	mark	_	_
+5	arriver	arriver	VERB	_	VerbForm=Inf	3	xcomp	_	_
+6	sur	sur	ADP	_	_	8	case	_	_
+7	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	sérieux	sérieux	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	_
+
+# sent_id = SEFR2018_0039_SP1_trs_ann0038_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 38
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:50.080
+# end = 00:00:51.420
+# text = une chance sur dix que je meurs
+1	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	chance	chance	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	sur	sur	ADP	_	_	4	case	_	_
+4	dix	dix	NUM	_	Number=Plur	2	nmod	_	_
+5	que	que	SCONJ	_	_	7	mark	_	_
+6	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Emph=No
+7	meurs	mourir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl	_	_
+
+# sent_id = SEFR2018_0040_SP1_trs_ann0039_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 39
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:51.800
+# end = 00:00:52.840
+# text = hop là
+1	hop	hop	INTJ	_	_	0	root	_	_
+2	là	là	ADV	_	_	1	advmod	_	_
+
+# sent_id = SEFR2018_0041_SP1_trs_ann0040_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 40
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:53.230
+# end = 00:00:53.990
+# text = incroyable
+1	incroyable	incroyable	ADJ	_	Number=Sing	0	root	_	_
+
+# sent_id = SEFR2018_0042_SP1_trs_ann0041_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 41
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:54.040
+# end = 00:00:56.550
+# text = une chance sur euh un un peu moins de dix
+1	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	chance	chance	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	sur	sur	ADP	_	_	8	case	_	_
+4	euh	euh	INTJ	_	_	8	discourse	_	_
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+6	un	un	DET	_	Definite=Ind|ExtPos=ADV|Gender=Masc|Number=Sing|PronType=Art	8	advmod	_	_
+7	peu	peu	NOUN	_	_	6	fixed	_	_
+8	moins	moins	ADV	_	ExtPos=PRON	2	nmod	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	dix	dix	NUM	_	Number=Plur	8	obl:arg	_	_
+
+# sent_id = SEFR2018_0043_SP1_trs_ann0042_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 42
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:56.620
+# end = 00:00:57.220
+# text = ok
+1	ok	ok	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2018_0044_SP1_trs_ann0043_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 43
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:57.480
+# end = 00:00:58.000
+# text = douze
+1	douze	douze	NUM	_	Number=Plur	0	root	_	_
+
+# sent_id = SEFR2018_0045_SP1_trs_ann0044_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 44
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:58.020
+# end = 00:00:58.530
+# text = ça va
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
+2	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2018_0046_SP1_trs_ann0045_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 45
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:58.680
+# end = 00:00:59.360
+# text = treize pour cent
+1	treize	treize	NUM	_	Number=Plur	2	nummod	_	_
+2	pour	pour	ADP	_	_	0	root	_	_
+3	cent	cent	NUM	_	Number=Plur	2	fixed	_	_
+
+# sent_id = SEFR2018_0047_SP1_trs_ann0046_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 46
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:59.660
+# end = 00:01:00.580
+# text = quatorze pour cent
+1	quatorze	quatorze	NUM	_	Number=Plur	2	nummod	_	_
+2	pour	pour	ADP	_	_	0	root	_	_
+3	cent	cent	NUM	_	Number=Plur	2	nmod	_	_
+
+# sent_id = SEFR2018_0048_SP1_trs_ann0047_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 47
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:00.930
+# end = 00:01:01.780
+# text = quinze pour cent
+1	quinze	quinze	NUM	_	Number=Plur	2	nummod	_	_
+2	pour	pour	ADP	_	_	0	root	_	_
+3	cent	cent	NUM	_	Number=Plur	2	nmod	_	_
+
+# sent_id = SEFR2018_0049_SP1_trs_ann0048_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 48
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:02.000
+# end = 00:01:02.940
+# text = seize pour cent
+1	seize	seize	NUM	_	Number=Plur	0	root	_	_
+2	pour	pour	ADP	_	_	1	nmod	_	_
+3	cent	cent	NUM	_	Number=Plur	1	flat	_	_
+
+# sent_id = SEFR2018_0050_SP1_trs_ann0049_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 49
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:03.370
+# end = 00:01:04.000
+# text = mais qu'est-ce qui se passe
+1	mais	mais	CCONJ	_	_	2	cc	_	_
+2	qu'	que	PRON	_	PronType=Int	0	root	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+4	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	expl:subj	_	_
+5	qui	qui	PRON	_	PronType=Rel	7	nsubj	_	_
+6	se	soi	PRON	_	Person=3|PronType=Prs	7	expl:comp	_	_
+7	passe	passer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl:cleft	_	_
+
+# sent_id = SEFR2018_0051_SP1_trs_ann0050_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 50
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:04.020
+# end = 00:01:05.000
+# text = mais il y en a qui sont complètement fous
+1	mais	mais	CCONJ	_	_	5	cc	_	_
+2	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl:subj	_	Emph=No
+3	y	y	PRON	_	Person=3|PronType=Prs	5	expl:comp	_	_
+4	en	en	PRON	_	Person=3|PronType=Prs	5	expl:comp	_	_
+5	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	qui	qui	PRON	_	PronType=Rel	9	nsubj	_	_
+7	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	complètement	complètement	ADV	_	_	9	advmod	_	_
+9	fous	fou	ADJ	_	Gender=Masc|Number=Plur	5	ccomp	_	_
+
+# sent_id = SEFR2018_0052_SP1_trs_ann0051_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 51
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:05.020
+# end = 00:01:05.870
+# text = il y en a qui rushent comme ça
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	Emph=No
+2	y	y	PRON	_	Person=3|PronType=Prs	4	expl:comp	_	_
+3	en	en	PRON	_	Person=3|PronType=Prs	4	expl:comp	_	_
+4	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	qui	qui	PRON	_	PronType=Rel	6	nsubj	_	_
+6	rushent	rusher	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+7	comme	comme	ADP	_	_	8	case	_	_
+8	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	obl:mod	_	_
+
+# sent_id = SEFR2018_0053_SP1_trs_ann0052_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 52
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:05.890
+# end = 00:01:07.650
+# text = ah waouh lui est mort à dix-sept pour cent
+1	ah	ah	INTJ	_	_	5	discourse	_	_
+2	waouh	waouh	INTJ	_	_	5	discourse	_	_
+3	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	Emph=No
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
+5	mort	mourir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	à	à	ADP	_	_	8	case	_	_
+7	dix-sept	dix-sept	NUM	_	Number=Plur	8	nummod	_	_
+8	pour	pour	ADP	_	_	5	obl:arg	_	_
+9	cent	cent	NUM	_	Number=Plur	5	obl:mod	_	_
+
+# sent_id = SEFR2018_0054_SP1_trs_ann0053_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 53
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:07.840
+# end = 00:01:10.000
+# text = moi je vais passer les dix-sept pour cent héhé
+1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	Emph=Yes
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+3	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	passer	passer	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+6	dix-sept	dix-sept	NUM	_	Number=Plur	4	obj	_	_
+7	pour	pour	ADP	_	_	8	case	_	_
+8	cent	cent	NUM	_	Number=Plur	6	flat	_	_
+9	héhé	héhé	INTJ	_	_	3	discourse	_	_
+
+# sent_id = SEFR2018_0055_SP1_trs_ann0054_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 54
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:10.050
+# end = 00:01:11.670
+# text = je suis même à dix-huit pour cent
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Emph=No
+2	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	même	même	ADV	_	_	2	advmod	_	_
+4	à	à	ADP	_	_	6	case	_	_
+5	dix-huit	dix-huit	NUM	_	Number=Plur	6	nummod	_	_
+6	pour	pour	ADP	_	_	2	obl:arg	_	_
+7	cent	cent	NUM	_	Number=Plur	6	nmod	_	_
+
+# sent_id = SEFR2018_0056_SP1_trs_ann0055_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 55
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:11.740
+# end = 00:01:12.580
+# text = dix-neuf pour cent
+1	dix-neuf	dix-neuf	NUM	_	Number=Plur	2	nummod	_	_
+2	pour	pour	ADP	_	_	0	root	_	_
+3	cent	cent	NUM	_	Number=Plur	2	nmod	_	_
+
+# sent_id = SEFR2018_0057_SP1_trs_ann0056_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 56
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:12.730
+# end = 00:01:14.780
+# text = et là c'est une chance sur cinq de mourir
+1	et	et	CCONJ	_	_	6	cc	_	_
+2	là	là	ADV	_	_	6	advmod	_	_
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	chance	chance	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+7	sur	sur	ADP	_	_	8	case	_	_
+8	cinq	cinq	NUM	_	Number=Plur	6	nmod	_	_
+9	de	de	ADP	_	_	10	mark	_	_
+10	mourir	mourir	VERB	_	VerbForm=Inf	6	acl	_	_
+
+# sent_id = SEFR2018_0058_SP1_trs_ann0057_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 57
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:15.130
+# end = 00:01:15.580
+# text = bon voilà
+1	bon	bon	INTJ	_	_	2	discourse	_	_
+2	voilà	voilà	VERB	_	_	0	root	_	_
+
+# sent_id = SEFR2018_0059_SP1_trs_ann0058_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 58
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:15.580
+# end = 00:01:20.440
+# text = euh est-ce que si vous pouvez être milliardaire et que vous sautez là-dessus waouh
+1	euh	euh	INTJ	_	_	2	discourse	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+3	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	expl:subj	_	_
+4	que	que	SCONJ	_	_	7	mark	_	_
+5	si	si	SCONJ	_	_	7	mark	_	_
+6	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_
+7	pouvez	pouvoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	être	être	AUX	_	VerbForm=Inf	9	cop	_	_
+9	milliardaire	milliardaire	NOUN	_	Gender=Masc|Number=Sing	7	xcomp	_	_
+10	et	et	CCONJ	_	_	13	cc	_	_
+11	que	que	SCONJ	_	_	13	mark	_	_
+12	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	13	nsubj	_	_
+13	sautez	sauter	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7	conj	_	_
+14	là-dessus	là-dessus	ADV	_	_	13	advmod	_	_
+15	waouh	waouh	INTJ	_	_	13	discourse	_	_
+
+# sent_id = SEFR2018_0060_SP1_trs_ann0059_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 59
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:20.580
+# end = 00:01:21.190
+# text = vous le faites
+1	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
+2	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Emph=No
+3	faites	faire	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2018_0061_SP1_trs_ann0060_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 60
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:21.570
+# end = 00:01:22.070
+# text = hop là
+1	hop	hop	INTJ	_	_	0	root	_	_
+2	là	là	ADV	_	_	1	advmod	_	_
+
+# sent_id = SEFR2018_0062_SP1_trs_ann0061_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 61
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:22.080
+# end = 00:01:22.650
+# text = moi je le fais
+1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	dislocated	_	Emph=Yes
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Emph=No
+3	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Emph=No
+4	fais	faire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2018_0063_SP1_trs_ann0062_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 62
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:22.780
+# end = 00:01:24.125
+# text = non enfin non pas dans la vie
+1	non	non	ADV	_	Polarity=Neg	7	discourse	_	_
+2	enfin	enfin	ADV	_	ExtPos=INTJ	7	discourse	_	_
+3	non	non	ADV	_	Polarity=Neg	7	advmod	_	_
+4	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	_
+5	dans	dans	ADP	_	_	7	case	_	_
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	vie	vie	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2018_0064_SP1_trs_ann0063_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 63
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:24.125
+# end = 00:01:25.190
+# text = non je le fais pas dans la vraie vie
+1	non	non	ADV	_	Polarity=Neg	4	discourse	_	_
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Emph=No
+3	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Emph=No
+4	fais	faire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	_
+6	dans	dans	ADP	_	_	9	case	_	_
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	vraie	vrai	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
+9	vie	vie	NOUN	_	Gender=Fem|Number=Sing	4	obl:mod	_	_
+
+# sent_id = SEFR2018_0065_SP1_trs_ann0064_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 64
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:25.230
+# end = 00:01:26.060
+# text = sur roblox je le fais
+1	sur	sur	ADP	_	_	2	case	_	_
+2	roblox	roblox	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	_
+3	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Emph=No
+4	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	Emph=No
+5	fais	faire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2018_0066_SP1_trs_ann0065_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 65
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:26.170
+# end = 00:01:26.660
+# text = vingt-et-un pour cent
+1	vingt-et-un	vingt-et-un	NUM	_	Number=Plur	0	root	_	_
+2	pour	pour	ADP	_	_	1	nmod	_	_
+3	cent	cent	NUM	_	Number=Plur	1	flat	_	_
+
+# sent_id = SEFR2018_0067_display_trs_ann0002_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = display_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:26.470
+# end = 00:01:26.960
+# text = uh
+1	uh	uh	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2018_0068_SP1_trs_ann0066_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 66
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:26.670
+# end = 00:01:27.060
+# text = vingt deux
+1	vingt	vingt	NUM	_	Number=Plur	2	nummod	_	_
+2	deux	deux	NUM	_	Number=Plur	0	root	_	_
+
+# sent_id = SEFR2018_0069_SP1_trs_ann0067_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 67
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:27.090
+# end = 00:01:28.800
+# text = non
+1	non	non	ADV	_	Polarity=Neg	0	root	_	_
+
+# sent_id = SEFR2018_0070_SP1_trs_ann0068_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 68
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:29.180
+# end = 00:01:30.770
+# text = mille deux cent quatre-vingt-cinq
+1	mille	mille	NUM	_	Number=Plur	2	flat	_	_
+2	deux	deux	NUM	_	Number=Plur	0	root	_	_
+3	cent	cent	NUM	_	Number=Plur	4	nummod	_	_
+4	quatre-vingt-cinq	quatre-vingt-cinq	NUM	_	Number=Plur	2	flat	_	_
+
+# sent_id = SEFR2018_0071_SP1_trs_ann0069_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 69
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:31.070
+# end = 00:01:31.960
+# text = bon je n'ai rien à faire
+1	bon	bon	INTJ	_	_	4	discourse	_	_
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Emph=No
+3	n'	ne	ADV	_	Polarity=Neg	4	advmod	_	_
+4	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	rien	rien	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	4	obj	_	_
+6	à	à	ADP	_	_	7	mark	_	_
+7	faire	faire	VERB	_	VerbForm=Inf	5	acl	_	_
+
+# sent_id = SEFR2018_0072_SP1_trs_ann0070_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 70
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:31.960
+# end = 00:01:33.630
+# text = de toute façon je suis déjà milliardaire
+1	de	de	ADP	_	_	3	case	_	_
+2	toute	tout	DET	_	Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
+3	façon	façon	NOUN	_	Gender=Fem|Number=Sing	7	obl:mod	_	_
+4	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Emph=No
+5	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	déjà	déjà	ADV	_	_	7	advmod	_	_
+7	milliardaire	milliardaire	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2018_0073_SP1_trs_ann0071_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 71
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:33.850
+# end = 00:01:34.300
+# text = alors
+1	alors	alors	ADV	_	_	0	root	_	_
+
+# sent_id = SEFR2018_0074_SP1_trs_ann0072_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 72
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:34.450
+# end = 00:01:34.691
+# text = euh
+1	euh	euh	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2018_0075_SP1_trs_ann0073_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 73
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:34.691
+# end = 00:01:35.257
+# text = ah waouh
+1	ah	ah	INTJ	_	_	0	root	_	_
+2	waouh	waouh	INTJ	_	_	1	fixed	_	_
+
+# sent_id = SEFR2018_0076_SP1_trs_ann0074_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 74
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:35.480
+# end = 00:01:37.570
+# text = on a la possibilité d'avoir plus de vitesse apparemment
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+2	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	possibilité	possibilité	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	d'	de	ADP	_	_	6	mark	_	_
+6	avoir	avoir	VERB	_	VerbForm=Inf	4	acl	_	_
+7	plus	plus	ADV	_	ExtPos=PRON	6	obj	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	vitesse	vitesse	NOUN	_	Gender=Fem|Number=Sing	7	obl:arg	_	_
+10	apparemment	apparemment	ADV	_	_	6	advmod	_	_
+
+# sent_id = SEFR2018_0077_SP1_trs_ann0075_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 75
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:37.610
+# end = 00:01:39.520
+# text = sauf qu'il faut d'abord acheter la première mise à niveau
+1	sauf	sauf	ADP	_	_	4	mark	_	_
+2	qu'	que	SCONJ	_	_	1	fixed	_	_
+3	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	Emph=No
+4	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	d'	de	ADP	_	ExtPos=ADV	4	advmod	_	_
+6	abord	abord	NOUN	_	Gender=Masc|Number=Sing	5	fixed	_	_
+7	acheter	acheter	VERB	_	VerbForm=Inf	4	ccomp	_	_
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	première	premier	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
+10	mise	mise	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+11	à	à	ADP	_	_	12	case	_	_
+12	niveau	niveau	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+
+# sent_id = SEFR2018_0078_SP1_trs_ann0076_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 76
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:39.590
+# end = 00:01:40.250
+# text = huh
+1	huh	huh	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2018_0079_SP1_trs_ann0077_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 77
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:40.350
+# end = 00:01:41.900
+# text = ouais je suis plus rapide maintenant
+1	ouais	ouais	INTJ	_	_	5	discourse	_	_
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Emph=No
+3	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	plus	plus	ADV	_	_	5	advmod	_	_
+5	rapide	rapide	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	maintenant	maintenant	ADV	_	_	5	advmod	_	_
+
+# sent_id = SEFR2018_0080_SP1_trs_ann0078_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 78
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:42.160
+# end = 00:01:44.370
+# text = ce qui va me permettre d'affronter les marches un peu plus rapidement
+1	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_
+2	qui	qui	PRON	_	PronType=Rel	3	nsubj	_	_
+3	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	iobj	_	Emph=No
+5	permettre	permettre	VERB	_	VerbForm=Inf	3	xcomp	_	_
+6	d'	de	ADP	_	_	7	mark	_	_
+7	affronter	affronter	VERB	_	VerbForm=Inf	5	xcomp	_	_
+8	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
+9	marches	marche	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_
+10	un	un	DET	_	Definite=Ind|ExtPos=ADV|Gender=Masc|Number=Sing|PronType=Art	13	advmod	_	_
+11	peu	peu	NOUN	_	_	10	fixed	_	_
+12	plus	plus	ADV	_	_	13	advmod	_	_
+13	rapidement	rapidement	ADV	_	_	7	advmod	_	_
+
+# sent_id = SEFR2018_0081_SP1_trs_ann0079_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 79
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:44.720
+# end = 00:01:45.040
+# text = waouh
+1	waouh	waouh	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2018_0082_SP1_trs_ann0080_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 80
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:45.060
+# end = 00:01:46.240
+# text = et non
+1	et	et	CCONJ	_	_	2	cc	_	_
+2	non	non	ADV	_	Polarity=Neg	0	root	_	_
+
+# sent_id = SEFR2018_0083_SP1_trs_ann0081_iu01
+# source = SEFR2018.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 81
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:46.810
+# end = 00:01:48.530
+# text = six pour cent de chance
+1	six	six	NUM	_	Number=Plur	0	root	_	_
+2	pour	pour	ADP	_	_	3	case	_	_
+3	cent	cent	NUM	_	Number=Plur	1	flat	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	chance	chance	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+

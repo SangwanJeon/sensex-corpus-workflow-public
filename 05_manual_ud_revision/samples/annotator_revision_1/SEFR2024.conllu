@@ -1,0 +1,2719 @@
+# sent_id = SEFR2024_0001_SP1_trs_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.000
+# end = 00:00:00.590
+# text = trop cool hein
+1	trop	trop	ADV	_	_	2	advmod	_	_
+2	cool	cool	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	hein	hein	INTJ	_	_	2	discourse	_	_
+
+# sent_id = SEFR2024_0002_SP1_trs_ann0002_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.830
+# end = 00:00:04.980
+# text = si un jour on a l' occasion de faire ça euh dans un autre type de musée euh
+1	si	si	SCONJ	_	_	5	mark	_	_
+2	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	jour	jour	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	_
+4	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj	_	_
+5	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+7	occasion	occasion	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	de	de	ADP	_	_	9	mark	_	_
+9	faire	faire	VERB	_	VerbForm=Inf	7	acl	_	_
+10	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	obj	_	_
+11	euh	euh	INTJ	_	_	9	discourse	_	_
+12	dans	dans	ADP	_	_	15	case	_	_
+13	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	autre	autre	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	_
+15	type	type	NOUN	_	Gender=Masc|Number=Sing	9	obl:mod	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	musée	musée	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
+18	euh	euh	INTJ	_	_	17	discourse	_	_
+
+# sent_id = SEFR2024_0003_User258_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User258
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 2
+# start = 00:00:05.129
+# end = 00:00:07.128
+# text = PurpleLovelyCats is gifting 10 Tier 1 Subs to Joueur_du_Grenier's community!
+# original_annotation = PurpleLovelyCats is gifting 10 Tier 1 Subs to Joueur_du_Grenier's community! // They've gifted a total of 10 in the channel!
+1	PurpleLovelyCats	PurpleLovelyCats	PROPN	_	Foreign=Yes	0	root	_	_
+2	is	is	AUX	_	Foreign=Yes	1	flat:foreign	_	_
+3	gifting	gifting	VERB	_	Foreign=Yes	1	flat:foreign	_	_
+4	10	10	NUM	_	Foreign=Yes	1	flat:foreign	_	_
+5	Tier	Tier	X	_	Foreign=Yes	1	flat:foreign	_	_
+6	1	1	X	_	Foreign=Yes	1	flat:foreign	_	_
+7	Subs	Subs	X	_	Foreign=Yes	1	flat:foreign	_	_
+8	to	to	ADP	_	Foreign=Yes	1	flat:foreign	_	_
+9	Joueur_du_Grenier's	Joueur_du_Grenier's	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+10	community	community	NOUN	_	Foreign=Yes	1	flat:foreign	_	_
+11	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0004_User258_ann0001_iu02
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User258
+# annotation_index = 1
+# iu_index = 2
+# iu_count = 2
+# start = 00:00:05.129
+# end = 00:00:07.128
+# text = They've gifted a total of 10 in the channel !
+# original_annotation = PurpleLovelyCats is gifting 10 Tier 1 Subs to Joueur_du_Grenier's community! // They've gifted a total of 10 in the channel!
+1	They've	They've	X	_	Foreign=Yes	0	root	_	_
+2	gifted	gifted	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	a	a	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	total	total	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	of	of	X	_	Foreign=Yes	1	flat:foreign	_	_
+6	10	10	X	_	Foreign=Yes	1	flat:foreign	_	_
+7	in	in	X	_	Foreign=Yes	1	flat:foreign	_	_
+8	the	the	X	_	Foreign=Yes	1	flat:foreign	_	_
+9	channel	channel	X	_	Foreign=Yes	1	flat:foreign	_	_
+10	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0005_User150_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User150
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:05.129
+# end = 00:00:07.129
+# text = Legolas qui voudra devenir un tank et plus un panneau
+1	Legolas	Legolas	PROPN	_	_	0	root	_	_
+2	qui	qui	PRON	_	PronType=Rel	3	nsubj	_	_
+3	voudra	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	acl:relcl	_	_
+4	devenir	devenir	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	tank	tank	NOUN	_	Gender=Masc|Number=Sing	4	xcomp	_	_
+7	et	et	CCONJ	_	_	10	cc	_	_
+8	plus	plus	ADV	_	_	10	advmod	_	_
+9	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	panneau	panneau	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
+
+# sent_id = SEFR2024_0006_User222_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User222
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:05.129
+# end = 00:00:07.129
+# text = Les véhicules de spore
+1	Les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
+2	véhicules	véhicule	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	spore	spore	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+
+# sent_id = SEFR2024_0007_Moderator4_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = Moderator4
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:05.129
+# end = 00:00:43.128
+# text = @User71 Comment qu' il va ?
+1	@User71	@User71	PROPN	_	_	5	vocative	_	_
+2	Comment	comment	ADV	_	PronType=Int	5	advmod	_	_
+3	qu'	que	SCONJ	_	_	5	mark	_	_
+4	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Emph=No
+5	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	?	?	PUNCT	_	_	5	punct	_	_
+
+# sent_id = SEFR2024_0008_User257_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User257
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:05.129
+# end = 00:01:03.128
+# text = le vespa a canon était juste WAT
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	vespa	vespa	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+3	a	à	ADP	_	_	4	case	_	_
+4	canon	canon	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
+6	juste	juste	ADV	_	_	7	advmod	_	_
+7	WAT	WAT	X	_	_	0	root	_	_
+
+# sent_id = SEFR2024_0009_SP1_trs_ann0003_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:05.460
+# end = 00:00:09.190
+# text = peut-être pour les prochains events je remettrai un un goal dans dans l' esprit
+1	peut-être	peut-être	ADV	_	_	7	advmod	_	_
+2	pour	pour	ADP	_	_	5	case	_	_
+3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	prochains	prochain	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	_
+5	events	event	NOUN	_	Gender=Masc|Number=Plur	7	obl:mod	_	_
+6	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Emph=No
+7	remettrai	remettre	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+8	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	reparandum	_	_
+9	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	goal	goal	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+11	dans	dans	ADP	_	_	14	reparandum	_	_
+12	dans	dans	ADP	_	_	14	case	_	_
+13	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	14	det	_	_
+14	esprit	esprit	NOUN	_	Gender=Masc|Number=Sing	7	obl:mod	_	_
+
+# sent_id = SEFR2024_0010_User139_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User139
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:06.129
+# end = 00:00:08.129
+# text = Le vespa c' était le meilleur {emote:u001}
+1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	vespa	vespa	NOUN	_	Gender=Masc|Number=Sing	6	dislocated	_	_
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
+4	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	meilleur	meilleur	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+7	{emote:u001}	{emote}	SYM	EMOTE	_	6	discourse	_	EmoteID=u001
+
+# sent_id = SEFR2024_0011_User259_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User259
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:06.129
+# end = 00:00:08.129
+# text = bloofi subscribed with Prime . They've subscribed for 35 months !
+1	bloofi	bloofi	X	_	Foreign=Yes	0	root	_	_
+2	subscribed	subscribed	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	with	with	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	Prime	Prime	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+6	They've	They've	X	_	Foreign=Yes	1	flat:foreign	_	_
+7	subscribed	subscribed	X	_	Foreign=Yes	1	flat:foreign	_	_
+8	for	for	X	_	Foreign=Yes	1	flat:foreign	_	_
+9	35	35	X	_	Foreign=Yes	1	flat:foreign	_	_
+10	months	months	X	_	Foreign=Yes	1	flat:foreign	_	_
+11	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0012_User258_ann0002_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User258
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:07.129
+# end = 00:00:07.130
+# text = PurpleLovelyCats gifted a Tier 1 sub to ptinico86 !
+1	PurpleLovelyCats	PurpleLovelyCats	X	_	Foreign=Yes	0	root	_	_
+2	gifted	gifted	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	a	a	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	Tier	Tier	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	1	1	X	_	Foreign=Yes	1	flat:foreign	_	_
+6	sub	sub	X	_	Foreign=Yes	1	flat:foreign	_	_
+7	to	to	X	_	Foreign=Yes	1	flat:foreign	_	_
+8	ptinico86	ptinico86	X	_	Foreign=Yes	1	flat:foreign	_	_
+9	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0013_User258_ann0003_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User258
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:07.129
+# end = 00:00:07.130
+# text = PurpleLovelyCats gifted a Tier 1 sub to paulosticooo !
+1	PurpleLovelyCats	PurpleLovelyCats	X	_	Foreign=Yes	0	root	_	_
+2	gifted	gifted	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	a	a	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	Tier	Tier	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	1	1	X	_	Foreign=Yes	1	flat:foreign	_	_
+6	sub	sub	X	_	Foreign=Yes	1	flat:foreign	_	_
+7	to	to	X	_	Foreign=Yes	1	flat:foreign	_	_
+8	paulosticooo	paulosticooo	X	_	Foreign=Yes	1	flat:foreign	_	_
+9	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0014_User258_ann0004_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User258
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:07.129
+# end = 00:00:07.130
+# text = PurpleLovelyCats gifted a Tier 1 sub to clairekana !
+1	PurpleLovelyCats	PurpleLovelyCats	X	_	Foreign=Yes	0	root	_	_
+2	gifted	gifted	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	a	a	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	Tier	Tier	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	1	1	X	_	Foreign=Yes	1	flat:foreign	_	_
+6	sub	sub	X	_	Foreign=Yes	1	flat:foreign	_	_
+7	to	to	X	_	Foreign=Yes	1	flat:foreign	_	_
+8	clairekana	clairekana	X	_	Foreign=Yes	1	flat:foreign	_	_
+9	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0015_User258_ann0005_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User258
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:07.129
+# end = 00:00:07.130
+# text = PurpleLovelyCats gifted a Tier 1 sub to MaffinDClown !
+1	PurpleLovelyCats	PurpleLovelyCats	X	_	Foreign=Yes	0	root	_	_
+2	gifted	gifted	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	a	a	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	Tier	Tier	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	1	1	X	_	Foreign=Yes	1	flat:foreign	_	_
+6	sub	sub	X	_	Foreign=Yes	1	flat:foreign	_	_
+7	to	to	X	_	Foreign=Yes	1	flat:foreign	_	_
+8	MaffinDClown	MaffinDClown	X	_	Foreign=Yes	1	flat:foreign	_	_
+9	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0016_User258_ann0006_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User258
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:07.129
+# end = 00:00:08.128
+# text = PurpleLovelyCats gifted a Tier 1 sub to yharnamshop !
+1	PurpleLovelyCats	PurpleLovelyCats	X	_	Foreign=Yes	0	root	_	_
+2	gifted	gifted	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	a	a	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	Tier	Tier	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	1	1	X	_	Foreign=Yes	1	flat:foreign	_	_
+6	sub	sub	X	_	Foreign=Yes	1	flat:foreign	_	_
+7	to	to	X	_	Foreign=Yes	1	flat:foreign	_	_
+8	yharnamshop	yharnamshop	X	_	Foreign=Yes	1	flat:foreign	_	_
+9	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0017_User258_ann0007_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User258
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:08.129
+# end = 00:00:08.130
+# text = PurpleLovelyCats gifted a Tier 1 sub to Xorisj !
+1	PurpleLovelyCats	PurpleLovelyCats	X	_	Foreign=Yes	0	root	_	_
+2	gifted	gifted	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	a	a	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	Tier	Tier	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	1	1	X	_	Foreign=Yes	1	flat:foreign	_	_
+6	sub	sub	X	_	Foreign=Yes	1	flat:foreign	_	_
+7	to	to	X	_	Foreign=Yes	1	flat:foreign	_	_
+8	Xorisj	Xorisj	X	_	Foreign=Yes	1	flat:foreign	_	_
+9	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0018_User258_ann0008_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User258
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:08.129
+# end = 00:00:08.130
+# text = PurpleLovelyCats gifted a Tier 1 sub to arnaudius !
+1	PurpleLovelyCats	PurpleLovelyCats	X	_	Foreign=Yes	0	root	_	_
+2	gifted	gifted	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	a	a	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	Tier	Tier	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	1	1	X	_	Foreign=Yes	1	flat:foreign	_	_
+6	sub	sub	X	_	Foreign=Yes	1	flat:foreign	_	_
+7	to	to	X	_	Foreign=Yes	1	flat:foreign	_	_
+8	arnaudius	arnaudius	X	_	Foreign=Yes	1	flat:foreign	_	_
+9	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0019_User258_ann0009_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User258
+# annotation_index = 9
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:08.129
+# end = 00:00:08.130
+# text = PurpleLovelyCats gifted a Tier 1 sub to maheime !
+1	PurpleLovelyCats	PurpleLovelyCats	X	_	Foreign=Yes	0	root	_	_
+2	gifted	gifted	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	a	a	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	Tier	Tier	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	1	1	X	_	Foreign=Yes	1	flat:foreign	_	_
+6	sub	sub	X	_	Foreign=Yes	1	flat:foreign	_	_
+7	to	to	X	_	Foreign=Yes	1	flat:foreign	_	_
+8	maheime	maheime	X	_	Foreign=Yes	1	flat:foreign	_	_
+9	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0020_User258_ann0010_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User258
+# annotation_index = 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:08.129
+# end = 00:00:08.130
+# text = PurpleLovelyCats gifted a Tier 1 sub to ludusmedicus !
+1	PurpleLovelyCats	PurpleLovelyCats	X	_	Foreign=Yes	0	root	_	_
+2	gifted	gifted	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	a	a	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	Tier	Tier	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	1	1	X	_	Foreign=Yes	1	flat:foreign	_	_
+6	sub	sub	X	_	Foreign=Yes	1	flat:foreign	_	_
+7	to	to	X	_	Foreign=Yes	1	flat:foreign	_	_
+8	ludusmedicus	ludusmedicus	X	_	Foreign=Yes	1	flat:foreign	_	_
+9	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0021_User258_ann0011_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User258
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:08.129
+# end = 00:00:10.129
+# text = PurpleLovelyCats gifted a Tier 1 sub to alwest_007 _ !
+1	PurpleLovelyCats	PurpleLovelyCats	X	_	Foreign=Yes	0	root	_	_
+2	gifted	gifted	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	a	a	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	Tier	Tier	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	1	1	X	_	Foreign=Yes	1	flat:foreign	_	_
+6	sub	sub	X	_	Foreign=Yes	1	flat:foreign	_	_
+7	to	to	X	_	Foreign=Yes	1	flat:foreign	_	_
+8	alwest_007	alwest_007	X	_	Foreign=Yes	1	flat:foreign	_	_
+9	_	_	PUNCT	_	_	1	flat:foreign	_	_
+10	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0022_User195_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User195
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:08.129
+# end = 00:00:24.128
+# text = T' as encore des questions que t' as pu poser hors camera ?
+1	T'	moi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Emph=No
+2	as	avoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	encore	encore	ADV	_	_	2	advmod	_	_
+4	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	5	det	_	_
+5	questions	question	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+6	que	que	PRON	_	PronType=Rel	10	obj	_	_
+7	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	9	nsubj	_	Emph=No
+8	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	aux:tense	_	_
+9	pu	pouvoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	acl:relcl	_	_
+10	poser	poser	VERB	_	VerbForm=Inf	9	xcomp	_	_
+11	hors	hors	ADP	_	_	12	case	_	_
+12	camera	camera	NOUN	_	Gender=Fem|Number=Sing	10	obl:mod	_	_
+13	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = SEFR2024_0023_User220_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User220
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:09.129
+# end = 00:00:11.129
+# text = en tout c' était top
+1	en	en	ADP	_	_	2	case	_	_
+2	tout	tout	PRON	_	Gender=Masc|Number=Sing	5	obl:mod	_	_
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+4	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+5	top	top	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2024_0024_User3_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User3
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:09.129
+# end = 00:01:20.500
+# text = un vrai passionné {emote:u001}
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	vrai	vrai	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+3	passionné	passionner	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	{emote:u001}	{emote}	SYM	EMOTE	_	3	discourse	_	EmoteID=u001
+
+# sent_id = SEFR2024_0025_SP1_trs_ann0004_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:09.310
+# end = 00:00:10.710
+# text = le musée de l' espace ou j' en sais rien
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	musée	musée	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	espace	espace	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+6	ou	ou	CCONJ	_	_	9	cc	_	_
+7	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Emph=No
+8	en	en	PRON	_	Person=3|PronType=Prs	9	expl:comp	_	_
+9	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+10	rien	rien	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	9	obj	_	_
+
+# sent_id = SEFR2024_0026_User126_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User126
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:10.129
+# end = 00:01:20.500
+# text = vespa avec le canon xd
+1	vespa	vespa	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	avec	avec	ADP	_	_	4	case	_	_
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	canon	canon	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+5	xd	XD	SYM	_	_	1	discourse	_	_
+
+# sent_id = SEFR2024_0027_SP1_trs_ann0005_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:10.710
+# end = 00:00:11.540
+# text = merci drofon
+1	merci	merci	INTJ	_	_	0	root	_	_
+2	drofon	drofon	PROPN	_	Gender=Masc|Number=Sing	1	vocative	_	_
+
+# sent_id = SEFR2024_0028_User260_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User260
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 2
+# start = 00:00:11.129
+# end = 00:00:13.129
+# text = Bonjour ! !
+# original_annotation = Bonjour !! // Et félicitations pour la visite du Musée des blindés !!
+1	Bonjour	bonjour	INTJ	_	_	0	root	_	_
+2	!	!	PUNCT	_	_	1	punct	_	_
+3	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0029_User260_ann0001_iu02
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User260
+# annotation_index = 1
+# iu_index = 2
+# iu_count = 2
+# start = 00:00:11.129
+# end = 00:00:13.129
+# text = Et félicitations pour la visite de le Musée de les blindés ! !
+# original_annotation = Bonjour !! // Et félicitations pour la visite du Musée des blindés !!
+1	Et	et	CCONJ	_	_	2	cc	_	_
+2	félicitations	félicitation	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+3	pour	pour	ADP	_	_	5	case	_	_
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	visite	visite	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Musée	musée	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
+11	blindés	blindé	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	_
+12	!	!	PUNCT	_	_	2	punct	_	_
+13	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = SEFR2024_0030_User33_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User33
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:11.129
+# end = 00:00:13.129
+# text = {emote:u001} {emote:u002} {emote:u003} {emote:u004}
+1	{emote:u001}	{emote}	SYM	EMOTE	_	0	root	_	EmoteID=u001
+2	{emote:u002}	{emote}	SYM	EMOTE	_	1	flat	_	EmoteID=u002
+3	{emote:u003}	{emote}	SYM	EMOTE	_	2	flat	_	EmoteID=u003
+4	{emote:u004}	{emote}	SYM	EMOTE	_	3	flat	_	EmoteID=u004
+
+# sent_id = SEFR2024_0031_SP1_trs_ann0006_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:11.540
+# end = 00:00:12.700
+# text = merci pour les cinquante deux mois
+1	merci	merci	INTJ	_	_	0	root	_	_
+2	pour	pour	ADP	_	_	6	case	_	_
+3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+4	cinquante	cinquante	NUM	_	Number=Plur	6	nummod	_	_
+5	deux	deux	NUM	_	Number=Plur	4	flat	_	_
+6	mois	mois	NOUN	_	Gender=Masc|Number=Plur	1	obl:mod	_	_
+
+# sent_id = SEFR2024_0032_User103_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User103
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:12.129
+# end = 00:00:14.129
+# text = Est ce que y a des moment où tu étais surpris ?
+1	Est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+2	ce	ce	PRON	_	Gender=Masc|Person=3|PronType=Dem	5	expl:subj	_	_
+3	que	que	SCONJ	_	_	5	obj	_	_
+4	y	y	PRON	_	Person=3|PronType=Prs	5	expl:comp	_	Emph=No
+5	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	7	det	_	_
+7	moment	moment	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+8	où	où	PRON	_	PronType=Rel	11	obl:mod	_	_
+9	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	11	nsubj:pass	_	Emph=No
+10	étais	être	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	11	aux:pass	_	_
+11	surpris	surprendre	VERB	_	Gender=Masc|Tense=Past|VerbForm=Part|Voice=Pass	7	acl:relcl	_	_
+12	?	?	PUNCT	_	_	5	punct	_	_
+
+# sent_id = SEFR2024_0033_SP1_trs_ann0007_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:13.100
+# end = 00:00:14.480
+# text = merci boltage pour les cent bits
+1	merci	merci	INTJ	_	_	0	root	_	_
+2	boltage	boltage	PROPN	_	Gender=Masc|Number=Sing	1	vocative	_	_
+3	pour	pour	ADP	_	_	6	case	_	_
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+5	cent	cent	NUM	_	Number=Plur	6	nummod	_	_
+6	bits	bit	NOUN	_	Gender=Masc|Number=Plur	1	obl:mod	_	_
+
+# sent_id = SEFR2024_0034_SP1_trs_ann0008_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:14.490
+# end = 00:00:15.970
+# text = merci zabzam pour les quatre mois
+1	merci	merci	INTJ	_	_	0	root	_	_
+2	zabzam	zabzam	PROPN	_	_	1	vocative	_	_
+3	pour	pour	ADP	_	_	6	case	_	_
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+5	quatre	quatre	NUM	_	Number=Plur	6	nummod	_	_
+6	mois	mois	NOUN	_	Gender=Masc|Number=Plur	1	obl:mod	_	_
+
+# sent_id = SEFR2024_0035_User122_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User122
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:15.129
+# end = 00:00:17.129
+# text = Ou de command and conquer {emote:u001} {emote:u002}
+1	Ou	ou	CCONJ	_	_	3	cc	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	command	command	VERB	_	Foreign=Yes	0	root	_	_
+4	and	and	CCONJ	_	Foreign=Yes	3	flat:name	_	_
+5	conquer	conquer	VERB	_	Foreign=Yes	3	flat:name	_	_
+6	{emote:u001}	{emote}	SYM	EMOTE	_	3	discourse	_	EmoteID=u001
+7	{emote:u002}	{emote}	SYM	EMOTE	_	6	flat	_	EmoteID=u002
+
+# sent_id = SEFR2024_0036_User235_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User235
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 3
+# start = 00:00:15.129
+# end = 00:00:17.129
+# text = J' y connais rien en chars
+# original_annotation = J'y connais rien en chars // mais super intéressant, // merci !
+1	J'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+2	y	y	PRON	_	Person=3|PronType=Prs	3	expl:comp	_	Emph=No
+3	connais	connaître	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	rien	rien	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	3	obj	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	chars	char	NOUN	_	Gender=Masc|Number=Plur	3	obl:mod	_	_
+
+# sent_id = SEFR2024_0037_User235_ann0001_iu02
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User235
+# annotation_index = 1
+# iu_index = 2
+# iu_count = 3
+# start = 00:00:15.129
+# end = 00:00:17.129
+# text = mais super intéressant ,
+# original_annotation = J'y connais rien en chars // mais super intéressant, // merci !
+1	mais	mais	CCONJ	_	_	3	cc	_	_
+2	super	super	ADV	_	_	3	advmod	_	_
+3	intéressant	intéressant	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+
+# sent_id = SEFR2024_0038_User235_ann0001_iu03
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User235
+# annotation_index = 1
+# iu_index = 3
+# iu_count = 3
+# start = 00:00:15.129
+# end = 00:00:17.129
+# text = merci !
+# original_annotation = J'y connais rien en chars // mais super intéressant, // merci !
+1	merci	merci	INTJ	_	_	0	root	_	_
+2	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0039_SP1_trs_ann0009_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 9
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:15.970
+# end = 00:00:17.320
+# text = merci petit jus pour les trente mois
+1	merci	merci	INTJ	_	_	0	root	_	_
+2	petit	petit	ADJ	_	Gender=Masc|Number=Sing	1	vocative	_	_
+3	jus	jus	NOUN	_	Gender=Masc|Number=Sing	2	flat:name	_	_
+4	pour	pour	ADP	_	_	7	case	_	_
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+6	trente	trente	NUM	_	Number=Plur	7	nummod	_	_
+7	mois	mois	NOUN	_	Gender=Masc|Number=Plur	1	obl:mod	_	_
+
+# sent_id = SEFR2024_0040_SP1_trs_ann0010_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:17.700
+# end = 00:00:18.940
+# text = merci percine pour les trois mois
+1	merci	merci	INTJ	_	_	0	root	_	_
+2	percine	percine	PROPN	_	_	1	amod	_	_
+3	pour	pour	ADP	_	_	6	case	_	_
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+5	trois	trois	NUM	_	Number=Plur	6	nummod	_	_
+6	mois	mois	NOUN	_	Gender=Masc|Number=Plur	1	obl:mod	_	_
+
+# sent_id = SEFR2024_0041_User181_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User181
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:18.129
+# end = 00:00:20.129
+# text = La jeep lance missile {emote:u001}
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	jeep	jeep	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	lance	lancer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	missile	missile	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	{emote:u001}	{emote}	SYM	EMOTE	_	3	discourse	_	EmoteID=u001
+
+# sent_id = SEFR2024_0042_User247_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User247
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:18.129
+# end = 00:00:20.129
+# text = @User4 le scooter aussi {emote:u001}
+1	@User4	@User4	PROPN	_	_	3	vocative	_	_
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	scooter	scooter	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	aussi	aussi	ADV	_	_	3	advmod	_	_
+5	{emote:u001}	{emote}	SYM	EMOTE	_	3	discourse	_	EmoteID=u001
+
+# sent_id = SEFR2024_0043_User261_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User261
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 4
+# start = 00:00:18.129
+# end = 00:00:20.129
+# text = mon père est général
+# original_annotation = mon père est général // et je vais lui envoyer la vidéo // parce que c’est un gros geek de tout ça. // et les remarques de Sylvain étaient tellement pertinentes
+1	mon	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	père	père	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	général	général	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2024_0044_User261_ann0001_iu02
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User261
+# annotation_index = 1
+# iu_index = 2
+# iu_count = 4
+# start = 00:00:18.129
+# end = 00:00:20.129
+# text = et je vais lui envoyer la vidéo
+# original_annotation = mon père est général // et je vais lui envoyer la vidéo // parce que c’est un gros geek de tout ça. // et les remarques de Sylvain étaient tellement pertinentes
+1	et	et	CCONJ	_	_	3	cc	_	_
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+3	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	Emph=No
+5	envoyer	envoyer	VERB	_	VerbForm=Inf	3	xcomp	_	_
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	vidéo	vidéo	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+
+# sent_id = SEFR2024_0045_User261_ann0001_iu03
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User261
+# annotation_index = 1
+# iu_index = 3
+# iu_count = 4
+# start = 00:00:18.129
+# end = 00:00:20.129
+# text = parce que c’ est un gros geek de tout ça .
+# original_annotation = mon père est général // et je vais lui envoyer la vidéo // parce que c’est un gros geek de tout ça. // et les remarques de Sylvain étaient tellement pertinentes
+1	parce	parce	ADV	_	ExtPos=SCONJ	7	mark	_	_
+2	que	que	SCONJ	_	_	1	fixed	_	_
+3	c’	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	_
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	gros	gros	ADJ	_	Gender=Masc	7	amod	_	_
+7	geek	geek	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	tout	tout	ADJ	_	Gender=Masc|Number=Sing|PronType=Ind	10	amod	_	_
+10	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nmod	_	_
+11	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = SEFR2024_0046_User261_ann0001_iu04
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User261
+# annotation_index = 1
+# iu_index = 4
+# iu_count = 4
+# start = 00:00:18.129
+# end = 00:00:20.129
+# text = et les remarques de Sylvain étaient tellement pertinentes
+# original_annotation = mon père est général // et je vais lui envoyer la vidéo // parce que c’est un gros geek de tout ça. // et les remarques de Sylvain étaient tellement pertinentes
+1	et	et	CCONJ	_	_	8	cc	_	_
+2	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+3	remarques	remarque	NOUN	_	Gender=Fem|Number=Plur	8	nsubj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	Sylvain	Sylvain	PROPN	_	_	3	nmod	_	_
+6	étaient	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
+7	tellement	tellement	ADV	_	_	8	advmod	_	_
+8	pertinentes	pertinent	ADJ	_	Gender=Fem|Number=Plur	0	root	_	_
+
+# sent_id = SEFR2024_0047_User162_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User162
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:18.129
+# end = 00:01:15.128
+# text = la " blague " quand tu tend le bras pour toucher le canon , j' étais écroulé {emote:u001}
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	"	"	PUNCT	_	_	3	punct	_	_
+3	blague	blague	NOUN	_	Gender=Fem|Number=Sing	17	dislocated	_	_
+4	"	"	PUNCT	_	_	3	punct	_	_
+5	quand	quand	SCONJ	_	_	7	mark	_	_
+6	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	7	nsubj	_	Emph=No
+7	tend	tendre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	bras	bras	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	pour	pour	ADP	_	_	11	mark	_	_
+11	toucher	toucher	VERB	_	VerbForm=Inf	7	advcl	_	_
+12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	canon	canon	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+14	,	,	PUNCT	_	_	7	punct	_	_
+15	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	17	nsubj:pass	_	Emph=No
+16	étais	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	17	aux:pass	_	_
+17	écroulé	écrouler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+18	{emote:u001}	{emote}	SYM	EMOTE	_	17	discourse	_	EmoteID=u001
+
+# sent_id = SEFR2024_0048_SP1_trs_ann0011_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:18.940
+# end = 00:00:19.500
+# text = merci beaucoup
+1	merci	merci	INTJ	_	_	0	root	_	_
+2	beaucoup	beaucoup	ADV	_	_	1	advmod	_	_
+
+# sent_id = SEFR2024_0049_User67_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User67
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 2
+# start = 00:00:19.129
+# end = 00:00:21.129
+# text = Calèche a chenilles qui fait pete pete
+# original_annotation = Calèche a chenilles qui fait pete pete // on voit qui explose le plus vite
+1	Calèche	calèche	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+2	a	à	ADP	_	_	3	case	_	_
+3	chenilles	chenille	NOUN	_	Gender=Fem|Number=Plur	1	nmod	_	_
+4	qui	qui	PRON	_	PronType=Rel	5	nsubj	_	_
+5	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+6	pete	pète	NOUN	_	_	5	obj	_	_
+7	pete	pète	NOUN	_	_	6	dep	_	_
+
+# sent_id = SEFR2024_0050_User67_ann0001_iu02
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User67
+# annotation_index = 1
+# iu_index = 2
+# iu_count = 2
+# start = 00:00:19.129
+# end = 00:00:21.129
+# text = on voit qui explose le plus vite
+# original_annotation = Calèche a chenilles qui fait pete pete // on voit qui explose le plus vite
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+2	voit	voir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	qui	qui	PRON	_	PronType=Rel	4	nsubj	_	_
+4	explose	exploser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	plus	plus	ADV	_	_	7	advmod	_	_
+7	vite	vite	ADV	_	_	4	advmod	_	_
+
+# sent_id = SEFR2024_0051_User262_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User262
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 2
+# start = 00:00:19.129
+# end = 00:01:07.128
+# text = c' était INCROYABLE
+# original_annotation = c'était INCROYABLE // merci beaucoup
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	INCROYABLE	incroyable	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2024_0052_User262_ann0001_iu02
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User262
+# annotation_index = 1
+# iu_index = 2
+# iu_count = 2
+# start = 00:00:19.129
+# end = 00:01:07.128
+# text = merci beaucoup
+# original_annotation = c'était INCROYABLE // merci beaucoup
+1	merci	merci	INTJ	_	_	0	root	_	_
+2	beaucoup	beaucoup	ADV	_	_	1	advmod	_	_
+
+# sent_id = SEFR2024_0053_User125_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User125
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:20.129
+# end = 00:00:22.129
+# text = le guide a l' air super cool
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	guide	guide	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	air	air	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	super	super	ADV	_	_	7	advmod	_	_
+7	cool	cool	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+
+# sent_id = SEFR2024_0054_User129_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User129
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:20.129
+# end = 00:00:22.129
+# text = Ah le Vespa Bazooka ! ! {emote:u001}
+1	Ah	ah	INTJ	_	_	3	discourse	_	_
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Vespa	Vespa	PROPN	_	_	0	root	_	_
+4	Bazooka	Bazooka	PROPN	_	_	3	flat:name	_	_
+5	!	!	PUNCT	_	_	3	punct	_	_
+6	!	!	PUNCT	_	_	3	punct	_	_
+7	{emote:u001}	{emote}	SYM	EMOTE	_	3	discourse	_	EmoteID=u001
+
+# sent_id = SEFR2024_0055_User63_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User63
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:20.129
+# end = 00:00:22.129
+# text = @User6 D' ailleurs il fait aussi des vidéo sur la chaîne de le musée {emote:u001}
+1	@User6	@User6	PROPN	_	_	5	vocative	_	_
+2	D'	de	ADP	_	ExtPos=ADV	3	case	_	_
+3	ailleurs	ailleurs	ADV	_	_	5	advmod	_	_
+4	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Emph=No
+5	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	aussi	aussi	ADV	_	_	5	advmod	_	_
+7	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	8	det	_	_
+8	vidéo	vidéo	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
+9	sur	sur	ADP	_	_	11	case	_	_
+10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	chaîne	chaîne	NOUN	_	Gender=Fem|Number=Sing	5	obl:mod	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	musée	musée	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+15	{emote:u001}	{emote}	SYM	EMOTE	_	5	discourse	_	EmoteID=u001
+
+# sent_id = SEFR2024_0056_User263_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User263
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 2
+# start = 00:00:20.129
+# end = 00:01:13.128
+# text = Très théâtral ce guide ,
+# original_annotation = Très théâtral ce guide, // il était génial !
+1	Très	très	ADV	_	_	2	advmod	_	_
+2	théâtral	théâtral	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	guide	guide	NOUN	_	Gender=Masc|Number=Sing	2	dislocated	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+
+# sent_id = SEFR2024_0057_User263_ann0001_iu02
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User263
+# annotation_index = 1
+# iu_index = 2
+# iu_count = 2
+# start = 00:00:20.129
+# end = 00:01:13.128
+# text = il était génial !
+# original_annotation = Très théâtral ce guide, // il était génial !
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Emph=No
+2	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	génial	génial	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	!	!	PUNCT	_	_	3	punct	_	_
+
+# sent_id = SEFR2024_0058_User217_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User217
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 2
+# start = 00:00:21.129
+# end = 00:00:23.129
+# text = Quand quelqu'un est passionné , tu le sens et t' écoutes ,
+# original_annotation = Quand quelqu'un est passionné, tu le sens et t'écoutes, // top tier le guide
+1	Quand	quand	SCONJ	_	_	4	mark	_	_
+2	quelqu'un	quelqu'un	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	passionné	passionner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	advcl	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	8	nsubj	_	Emph=No
+7	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	Emph=No
+8	sens	sentir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	et	et	CCONJ	_	_	11	cc	_	_
+10	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	11	nsubj	_	Emph=No
+11	écoutes	écouter	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	conj	_	_
+12	,	,	PUNCT	_	_	8	punct	_	_
+
+# sent_id = SEFR2024_0059_User217_ann0001_iu02
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User217
+# annotation_index = 1
+# iu_index = 2
+# iu_count = 2
+# start = 00:00:21.129
+# end = 00:00:23.129
+# text = top tier le guide
+# original_annotation = Quand quelqu'un est passionné, tu le sens et t'écoutes, // top tier le guide
+1	top	top	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	tier	tier	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	guide	guide	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	_
+
+# sent_id = SEFR2024_0060_User264_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User264
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:21.129
+# end = 00:00:23.129
+# text = petergriffin____ _ watched 5 consecutive streams and sparked a watch streak !
+1	petergriffin____	petergriffin____	X	_	Foreign=Yes	0	root	_	_
+2	_	_	X	_	_	1	flat	_	_
+3	watched	watched	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	5	5	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	consecutive	consecutive	X	_	Foreign=Yes	1	flat:foreign	_	_
+6	streams	streams	X	_	Foreign=Yes	1	flat:foreign	_	_
+7	and	and	X	_	Foreign=Yes	1	flat:foreign	_	_
+8	sparked	sparked	X	_	Foreign=Yes	1	flat:foreign	_	_
+9	a	a	X	_	Foreign=Yes	1	flat:foreign	_	_
+10	watch	watch	X	_	Foreign=Yes	1	flat:foreign	_	_
+11	streak	streak	X	_	Foreign=Yes	1	flat:foreign	_	_
+12	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0061_User105_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User105
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:22.129
+# end = 00:00:24.129
+# text = Immersion dans arma 3 mdr
+1	Immersion	Immersion	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+2	dans	dans	ADP	_	_	3	case	_	_
+3	arma	arma	PROPN	_	_	1	nmod	_	_
+4	3	3	NUM	_	Number=Plur	3	flat:name	_	_
+5	mdr	merde	INTJ	_	_	1	discourse	_	_
+
+# sent_id = SEFR2024_0062_User265_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User265
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:22.129
+# end = 00:00:24.129
+# text = une visite à l' ESA ?
+1	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	visite	visite	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	à	à	ADP	_	_	5	case	_	_
+4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	ESA	ESA	PROPN	_	Number=Sing	2	nmod	_	_
+6	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = SEFR2024_0063_User19_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User19
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:22.129
+# end = 00:00:46.128
+# text = le meme musée mais à les US {emote:u001}
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	meme	même	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+3	musée	musée	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	mais	mais	CCONJ	_	_	7	cc	_	_
+5	à	à	ADP	_	_	7	case	_	_
+6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+7	US	US	PROPN	_	_	3	nmod	_	_
+8	{emote:u001}	{emote}	SYM	EMOTE	_	3	discourse	_	EmoteID=u001
+
+# sent_id = SEFR2024_0064_User266_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User266
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 2
+# start = 00:00:23.129
+# end = 00:00:25.129
+# text = L' aspect théâtrale de le guide j' ai d' abord cru que cela allait être trop
+# original_annotation = L'aspect théâtrale du guide j'ai d'abord cru que cela allait être trop // mais non, c'était vraiment très sympa !
+1	L'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	2	det	_	_
+2	aspect	aspect	NOUN	_	Gender=Masc|Number=Sing	11	dislocated	_	_
+3	théâtrale	théâtral	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	guide	guide	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+7	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	Emph=No
+8	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux:tense	_	_
+9	d'	de	ADP	_	_	10	case	_	_
+10	abord	abord	NOUN	_	Gender=Masc|Number=Sing	11	obl:mod	_	_
+11	cru	croire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+12	que	que	SCONJ	_	_	14	mark	_	_
+13	cela	cela	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	nsubj	_	_
+14	allait	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	ccomp	_	_
+15	être	être	AUX	_	VerbForm=Inf	16	cop	_	_
+16	trop	trop	ADV	_	_	14	xcomp	_	_
+
+# sent_id = SEFR2024_0065_User266_ann0001_iu02
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User266
+# annotation_index = 1
+# iu_index = 2
+# iu_count = 2
+# start = 00:00:23.129
+# end = 00:00:25.129
+# text = mais non , c' était vraiment très sympa !
+# original_annotation = L'aspect théâtrale du guide j'ai d'abord cru que cela allait être trop // mais non, c'était vraiment très sympa !
+1	mais	mais	CCONJ	_	_	2	cc	_	_
+2	non	non	ADV	_	Polarity=Neg	8	discourse	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	_
+5	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
+6	vraiment	vraiment	ADV	_	_	8	advmod	_	_
+7	très	très	ADV	_	_	8	advmod	_	_
+8	sympa	sympa	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+9	!	!	PUNCT	_	_	8	punct	_	_
+
+# sent_id = SEFR2024_0066_User34_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User34
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:23.129
+# end = 00:00:25.129
+# text = Le lanceur d' ogive nucléaire incroyable
+1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	lanceur	lanceur	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	d'	de	ADP	_	_	4	case	_	_
+4	ogive	ogive	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+5	nucléaire	nucléaire	ADJ	_	Number=Sing	4	amod	_	_
+6	incroyable	incroyable	ADJ	_	Number=Sing	2	amod	_	_
+
+# sent_id = SEFR2024_0067_SP1_trs_ann0012_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 12
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:23.860
+# end = 00:00:24.180
+# text = ouais
+1	ouais	ouais	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2024_0068_User151_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User151
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:24.129
+# end = 00:00:26.129
+# text = Content de savoir qu' on a des bons monuments blindés en France
+1	Content	content	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+2	de	de	ADP	_	_	3	mark	_	_
+3	savoir	savoir	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	qu'	que	SCONJ	_	_	6	mark	_	_
+5	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	6	nsubj	_	Emph=No
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	9	det	_	_
+8	bons	bon	ADJ	_	Gender=Masc|Number=Plur	9	amod	_	_
+9	monuments	monument	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+10	blindés	blindé	NOUN	_	Gender=Masc|Number=Plur	9	appos	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	France	France	PROPN	_	_	9	nmod	_	_
+
+# sent_id = SEFR2024_0069_User195_ann0002_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User195
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:24.129
+# end = 00:00:26.129
+# text = T' as posé des questions hors caméra ?
+1	T'	moi	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Emph=No
+2	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	posé	poser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+4	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	5	det	_	_
+5	questions	question	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+6	hors	hors	ADP	_	_	7	case	_	_
+7	caméra	caméra	NOUN	_	Gender=Fem|Number=Sing	3	obl:mod	_	_
+8	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = SEFR2024_0070_User5_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User5
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:24.129
+# end = 00:00:26.129
+# text = le Vespa avec le canon {emote:u001}
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Vespa	vespa	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	avec	avec	ADP	_	_	5	case	_	_
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	canon	canon	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+6	{emote:u001}	{emote}	SYM	EMOTE	_	2	discourse	_	EmoteID=u001
+
+# sent_id = SEFR2024_0071_SP1_trs_ann0013_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 13
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:24.180
+# end = 00:00:26.020
+# text = alors j' ai j' ai vu plein de choses
+1	alors	alors	ADV	_	_	6	advmod	_	_
+2	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+3	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	reparandum	_	_
+4	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Emph=No
+5	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux:tense	_	_
+6	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	plein	plein	ADV	_	_	6	obj	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	choses	chose	NOUN	_	Gender=Fem|Number=Plur	7	obl:arg	_	_
+
+# sent_id = SEFR2024_0072_User267_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User267
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 2
+# start = 00:00:25.129
+# end = 00:00:27.129
+# text = Bonjour !
+# original_annotation = Bonjour ! // {emote:u001} Bravo pour le dernier live ! {emote:u002}
+1	Bonjour	bonjour	INTJ	_	_	0	root	_	_
+2	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0073_User267_ann0001_iu02
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User267
+# annotation_index = 1
+# iu_index = 2
+# iu_count = 2
+# start = 00:00:25.129
+# end = 00:00:27.129
+# text = {emote:u001} Bravo pour le dernier live ! {emote:u002}
+# original_annotation = Bonjour ! // {emote:u001} Bravo pour le dernier live ! {emote:u002}
+1	{emote:u001}	{emote}	SYM	EMOTE	_	2	discourse	_	EmoteID=u001
+2	Bravo	bravo	INTJ	_	Foreign=Yes	0	root	_	_
+3	pour	pour	ADP	_	_	6	case	_	_
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	dernier	dernier	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+6	live	live	NOUN	_	Gender=Masc|Number=Sing	2	obl:arg	_	_
+7	!	!	PUNCT	_	_	2	punct	_	_
+8	{emote:u002}	{emote}	SYM	EMOTE	_	2	discourse	_	EmoteID=u002
+
+# sent_id = SEFR2024_0074_User97_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User97
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 2
+# start = 00:00:25.129
+# end = 00:00:27.129
+# text = c' était trop bien franchement
+# original_annotation = c'était trop bien franchement // et le trio, Sylvain et Rivenzi était cool aussi
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+2	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	trop	trop	ADV	_	_	4	advmod	_	_
+4	bien	bien	ADV	_	_	0	root	_	_
+5	franchement	franchement	ADV	_	_	4	advmod	_	_
+
+# sent_id = SEFR2024_0075_User97_ann0001_iu02
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User97
+# annotation_index = 1
+# iu_index = 2
+# iu_count = 2
+# start = 00:00:25.129
+# end = 00:00:27.129
+# text = et le trio , Sylvain et Rivenzi était cool aussi
+# original_annotation = c'était trop bien franchement // et le trio, Sylvain et Rivenzi était cool aussi
+1	et	et	CCONJ	_	_	9	cc	_	_
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	trio	trio	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	Sylvain	Sylvain	PROPN	_	_	3	appos	_	_
+6	et	et	CCONJ	_	_	7	cc	_	_
+7	Rivenzi	Rivenzi	PROPN	_	_	5	conj	_	_
+8	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+9	cool	cool	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+10	aussi	aussi	ADV	_	_	9	advmod	_	_
+
+# sent_id = SEFR2024_0076_SP1_trs_ann0014_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 14
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:26.020
+# end = 00:00:27.670
+# text = est -ce qu' il y a des moments où tu étais surpris
+1	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+2	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	expl:subj	_	_
+3	qu'	que	SCONJ	_	_	6	mark	_	_
+4	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	Emph=No
+5	y	y	PRON	_	Person=3|PronType=Prs	6	expl:comp	_	_
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	8	det	_	_
+8	moments	moment	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+9	où	où	PRON	_	PronType=Rel	12	obl:mod	_	_
+10	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	12	nsubj:pass	_	Emph=No
+11	étais	être	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	12	aux:pass	_	_
+12	surpris	surprendre	VERB	_	Gender=Masc|Tense=Past|VerbForm=Part	8	acl:relcl	_	_
+
+# sent_id = SEFR2024_0077_SP1_trs_ann0015_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 15
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:28.060
+# end = 00:00:34.210
+# text = euh je je crois c' est sur les chars de la guerre froide où ils étaient vraiment débilement gros
+1	euh	euh	INTJ	_	_	9	discourse	_	_
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	reparandum	_	Emph=No
+3	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Emph=No
+4	crois	croire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	discourse	_	_
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	_
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+7	sur	sur	ADP	_	_	9	case	_	_
+8	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
+9	chars	char	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	guerre	guerre	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+13	froide	froid	ADJ	_	Gender=Fem|Number=Sing	12	amod	_	_
+14	où	où	PRON	_	PronType=Rel	19	obl:mod	_	_
+15	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	Emph=No
+16	étaient	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	19	cop	_	_
+17	vraiment	vraiment	ADV	_	_	19	advmod	_	_
+18	débilement	débilement	ADV	_	_	19	advmod	_	_
+19	gros	gros	ADJ	_	Gender=Masc	12	acl:relcl	_	_
+
+# sent_id = SEFR2024_0078_Moderator7_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = Moderator7
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:28.129
+# end = 00:01:20.500
+# text = Tu devrais faire les musées de Normandie
+1	Tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Emph=No
+2	devrais	devoir	VERB	_	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	faire	faire	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+5	musées	musée	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	Normandie	Normandie	PROPN	_	_	5	nmod	_	_
+
+# sent_id = SEFR2024_0079_User268_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User268
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:29.129
+# end = 00:00:31.129
+# text = La vespatate
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	vespatate	vespatate	PROPN	_	_	0	root	_	_
+
+# sent_id = SEFR2024_0080_Moderator5_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = Moderator5
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:31.129
+# end = 00:00:33.129
+# text = {emote:u001} {emote:u002} {emote:u003}
+1	{emote:u001}	{emote}	SYM	EMOTE	_	0	root	_	EmoteID=u001
+2	{emote:u002}	{emote}	SYM	EMOTE	_	1	flat	_	EmoteID=u002
+3	{emote:u003}	{emote}	SYM	EMOTE	_	2	flat	_	EmoteID=u003
+
+# sent_id = SEFR2024_0081_User249_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User249
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 2
+# start = 00:00:31.129
+# end = 00:00:33.129
+# text = Arnoulff subscribed with Prime .
+# original_annotation = Arnoulff subscribed with Prime. // They've subscribed for 32 months!
+1	Arnoulff	Arnoulff	X	_	Foreign=Yes	0	root	_	_
+2	subscribed	subscribed	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	with	with	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	Prime	Prime	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0082_User249_ann0001_iu02
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User249
+# annotation_index = 1
+# iu_index = 2
+# iu_count = 2
+# start = 00:00:31.129
+# end = 00:00:33.129
+# text = They've subscribed for 32 months !
+# original_annotation = Arnoulff subscribed with Prime. // They've subscribed for 32 months!
+1	They've	They've	X	_	Foreign=Yes	0	root	_	_
+2	subscribed	subscribed	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	for	for	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	32	32	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	months	months	X	_	Foreign=Yes	1	flat:foreign	_	_
+6	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0083_User269_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User269
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:31.129
+# end = 00:00:33.129
+# text = Musée de le chapeau ?
+1	Musée	musée	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	chapeau	chapeau	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+5	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0084_User270_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User270
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 3
+# start = 00:00:32.129
+# end = 00:00:34.129
+# text = Bonjour ,
+# original_annotation = Bonjour, // pas encore vu la vod // mais c'est prevu ^^
+1	Bonjour	bonjour	INTJ	_	_	0	root	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0085_User270_ann0001_iu02
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User270
+# annotation_index = 1
+# iu_index = 2
+# iu_count = 3
+# start = 00:00:32.129
+# end = 00:00:34.129
+# text = pas encore vu la vod
+# original_annotation = Bonjour, // pas encore vu la vod // mais c'est prevu ^^
+1	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_
+2	encore	encore	ADV	_	_	3	advmod	_	_
+3	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	vod	vod	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+
+# sent_id = SEFR2024_0086_User270_ann0001_iu03
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User270
+# annotation_index = 1
+# iu_index = 3
+# iu_count = 3
+# start = 00:00:32.129
+# end = 00:00:34.129
+# text = mais c' est prevu ^^
+# original_annotation = Bonjour, // pas encore vu la vod // mais c'est prevu ^^
+1	mais	mais	CCONJ	_	_	4	cc	_	_
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	prevu	prevoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	^^	^^	SYM	_	_	4	discourse	_	_
+
+# sent_id = SEFR2024_0087_User271_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User271
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:33.129
+# end = 00:00:35.129
+# text = @User258 merci {emote:u001}
+1	@User258	@User258	PROPN	_	_	2	vocative	_	_
+2	merci	merci	INTJ	_	_	0	root	_	_
+3	{emote:u001}	{emote}	SYM	EMOTE	_	2	discourse	_	EmoteID=u001
+
+# sent_id = SEFR2024_0088_SP1_trs_ann0016_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 16
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:34.210
+# end = 00:00:35.580
+# text = mais c' est des maisons en fait
+1	mais	mais	CCONJ	_	_	5	cc	_	_
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	5	det	_	_
+5	maisons	maison	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+6	en	en	ADP	_	ExtPos=ADV	5	discourse	_	Idiom=Yes
+7	fait	fait	NOUN	_	Gender=Masc|Number=Sing	6	fixed	_	InIdiom=Yes
+
+# sent_id = SEFR2024_0089_User193_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User193
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:35.129
+# end = 00:00:37.129
+# text = La CIté de l' Espace à Toulouse ? Ou le Futuroscope ?
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	CIté	cité	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	Espace	espace	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+6	à	à	ADP	_	_	7	case	_	_
+7	Toulouse	Toulouse	PROPN	_	_	2	nmod	_	_
+8	?	?	PUNCT	_	_	2	punct	_	_
+9	Ou	ou	CCONJ	_	_	11	cc	_	_
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	Futuroscope	Futuroscope	PROPN	_	Gender=Masc|Number=Sing	2	conj	_	_
+12	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = SEFR2024_0090_User272_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User272
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 2
+# start = 00:00:35.129
+# end = 00:00:37.129
+# text = J' ai vu la rediff de la visite de le musée de les blindées
+# original_annotation = J'ai vu la rediff de la visite du musée des blindées // c'était incroyable
+1	J'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+2	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	rediff	rediff	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	visite	visite	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	musée	musée	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	14	det	_	_
+14	blindées	blindé	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	_
+
+# sent_id = SEFR2024_0091_User272_ann0001_iu02
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User272
+# annotation_index = 1
+# iu_index = 2
+# iu_count = 2
+# start = 00:00:35.129
+# end = 00:00:37.129
+# text = c' était incroyable
+# original_annotation = J'ai vu la rediff de la visite du musée des blindées // c'était incroyable
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	incroyable	incroyable	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2024_0092_SP1_trs_ann0017_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 17
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:35.730
+# end = 00:00:38.130
+# text = c' est vraiment des des c' est des tailles de on
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	reparandum	_	_
+3	vraiment	vraiment	ADV	_	_	9	advmod	_	_
+4	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	5	reparandum	_	_
+5	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	9	reparandum	_	_
+6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	_
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	9	det	_	_
+9	tailles	taille	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	9	nmod	_	_
+
+# sent_id = SEFR2024_0093_Moderator6_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = Moderator6
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:36.129
+# end = 00:00:38.129
+# text = @Moderator7 mais oui
+1	@Moderator7	@Moderator7	PROPN	_	_	3	discourse	_	_
+2	mais	mais	CCONJ	_	_	3	cc	_	_
+3	oui	oui	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2024_0094_User273_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User273
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:37.129
+# end = 00:00:39.129
+# text = Ah ouais , la cité de l' espace
+1	Ah	ah	INTJ	_	_	5	discourse	_	_
+2	ouais	ouais	INTJ	_	_	5	discourse	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	cité	cité	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
+8	espace	espace	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+
+# sent_id = SEFR2024_0095_SP1_trs_ann0018_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 18
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:38.130
+# end = 00:00:39.850
+# text = en fait j' ai regardé un petit peu la redif
+1	en	en	ADP	_	ExtPos=ADV	5	discourse	_	Idiom=Yes
+2	fait	fait	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	InIdiom=Yes
+3	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Emph=No
+4	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
+5	regardé	regarder	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	petit	petit	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
+8	peu	peu	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	_
+9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	redif	redif	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+
+# sent_id = SEFR2024_0096_User79_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User79
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:39.129
+# end = 00:00:41.129
+# text = le vespatator {emote:u001}
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	vespatator	vespatator	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	{emote:u001}	{emote}	SYM	EMOTE	_	2	discourse	_	EmoteID=u001
+
+# sent_id = SEFR2024_0097_SP1_trs_ann0019_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 19
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:39.860
+# end = 00:00:42.660
+# text = et je trouve que la la caméra écrase un petit peu les tailles
+1	et	et	CCONJ	_	_	3	cc	_	_
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+3	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	8	mark	_	_
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	reparandum	_	_
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	caméra	caméra	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+8	écrase	écraser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+9	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	petit	petit	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_
+11	peu	peu	NOUN	_	Gender=Masc|Number=Sing	8	obl:mod	_	_
+12	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
+13	tailles	taille	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
+
+# sent_id = SEFR2024_0098_User274_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User274
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 2
+# start = 00:00:40.129
+# end = 00:00:42.129
+# text = C etais tellement bien
+# original_annotation = Cetais tellement bien // jaurais bien pris 1 h de plus
+1	C	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+2	etais	être	AUX	_	Mood=Ind|Number=Sing|Tense=Imp|VerbForm=Fin	4	aux	_	_
+3	tellement	tellement	ADV	_	_	4	advmod	_	_
+4	bien	bien	ADV	_	_	0	root	_	_
+
+# sent_id = SEFR2024_0099_User274_ann0001_iu02
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User274
+# annotation_index = 1
+# iu_index = 2
+# iu_count = 2
+# start = 00:00:40.129
+# end = 00:00:42.129
+# text = j aurais bien pris 1 h de plus
+# original_annotation = Cetais tellement bien // jaurais bien pris 1 h de plus
+1	j	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	discourse	_	Emph=No
+2	aurais	avoir	AUX	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
+3	bien	bien	ADV	_	_	4	advmod	_	_
+4	pris	prendre	VERB	_	Gender=Masc|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+5	1	1	NUM	_	Number=Sing	6	nummod	_	_
+6	h	h	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	plus	plus	ADV	_	_	6	obl:mod	_	_
+
+# sent_id = SEFR2024_0100_Moderator4_ann0002_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = Moderator4
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:43.129
+# end = 00:00:45.129
+# text = @Moderator7 Et tomber malade , ouais , ouais
+1	@Moderator7	@Moderator7	PROPN	_	_	3	vocative	_	_
+2	Et	et	CCONJ	_	_	3	cc	_	_
+3	tomber	tomber	VERB	_	VerbForm=Inf	0	root	_	_
+4	malade	malade	ADJ	_	Number=Sing	3	xcomp	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	ouais	ouais	INTJ	_	_	3	discourse	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	ouais	ouais	INTJ	_	_	6	conj	_	_
+
+# sent_id = SEFR2024_0101_SP1_trs_ann0020_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 20
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:43.180
+# end = 00:00:45.250
+# text = mais les euh les euh
+1	mais	mais	CCONJ	_	_	5	cc	_	_
+2	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	reparandum	_	_
+3	euh	euh	INTJ	_	_	5	reparandum	_	_
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+5	euh	euh	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2024_0102_User6_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User6
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:45.129
+# end = 00:01:12.128
+# text = Les char de l' Operation sandstorm
+1	Les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
+2	char	char	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	Operation	opération	NOUN	_	_	2	nmod	_	_
+6	sandstorm	sandstorm	PROPN	_	Foreign=Yes	5	appos	_	_
+
+# sent_id = SEFR2024_0103_SP1_trs_ann0021_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 21
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:45.250
+# end = 00:00:49.310
+# text = quand t' es à côté euh le déjà le tigre deux il est immense
+1	quand	quand	SCONJ	_	_	3	mark	_	_
+2	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Emph=No
+3	es	être	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+4	à	à	ADP	_	_	5	case	_	_
+5	côté	côté	NOUN	_	Gender=Masc|Number=Sing	3	obl:arg	_	_
+6	euh	euh	INTJ	_	_	3	discourse	_	_
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	reparandum	_	_
+8	déjà	déjà	ADV	_	_	10	advmod	_	_
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	tigre	tigre	NOUN	_	Gender=Masc|Number=Sing	14	dislocated	_	_
+11	deux	deux	NUM	_	Number=Plur	10	nmod	_	_
+12	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Emph=No
+13	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	immense	immense	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2024_0104_User19_ann0002_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User19
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:46.129
+# end = 00:01:16.128
+# text = les gros tanks {emote:u001}
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+2	gros	gros	ADJ	_	Gender=Masc	3	amod	_	_
+3	tanks	tank	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+4	{emote:u001}	{emote}	SYM	EMOTE	Gender=Masc|Number=Sing	3	discourse	_	EmoteID=u001
+
+# sent_id = SEFR2024_0105_SP1_trs_ann0022_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 22
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:49.760
+# end = 00:00:55.180
+# text = mais même les euh les les ceux ceux qui sont après là les chars de la guerre froide ils sont vraiment
+1	mais	mais	CCONJ	_	_	20	cc	_	_
+2	même	même	ADV	_	_	8	advmod	_	_
+3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	8	reparandum	_	_
+4	euh	euh	INTJ	_	_	3	discourse	_	_
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	reparandum	_	_
+6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	8	reparandum	_	_
+7	ceux	celui	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Dem	8	reparandum	_	_
+8	ceux	celui	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Dem	20	dislocated	_	_
+9	qui	qui	PRON	_	PronType=Rel	10	nsubj	_	_
+10	sont	être	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+11	après	après	ADP	_	_	12	case	_	_
+12	là	là	ADV	_	_	10	advmod	_	_
+13	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	14	det	_	_
+14	chars	char	NOUN	_	Gender=Masc|Number=Plur	8	appos	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	guerre	guerre	NOUN	_	Gender=Fem|Number=Sing	14	nmod	_	_
+18	froide	froid	ADJ	_	Gender=Fem|Number=Sing	17	amod	_	_
+19	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	Emph=No
+20	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+21	vraiment	vraiment	ADV	_	_	20	advmod	_	_
+
+# sent_id = SEFR2024_0106_User197_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User197
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:54.129
+# end = 00:00:56.129
+# text = Les géants russes
+1	Les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
+2	géants	géant	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+3	russes	russe	ADJ	_	Number=Plur	2	amod	_	_
+
+# sent_id = SEFR2024_0107_SP1_trs_ann0023_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 23
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:55.540
+# end = 00:00:58.540
+# text = enfin c' est c' est vraiment c' est c' est des c' est des tailles de camping car quoi
+1	enfin	enfin	ADV	_	ExtPos=INTJ	3	discourse	_	_
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	reparandum	_	_
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	reparandum	_	_
+6	vraiment	vraiment	ADV	_	_	5	advmod	_	_
+7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	_
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	reparandum	_	_
+9	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	nsubj	_	_
+10	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	reparandum	_	_
+11	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	15	reparandum	_	_
+12	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	15	nsubj	_	_
+13	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+14	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	15	det	_	_
+15	tailles	taille	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	camping	camping	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	15	nmod	_	_
+18	car	car	NOUN	_	Foreign=Yes	17	flat	_	_
+19	quoi	quoi	INTJ	_	_	15	discourse	_	_
+
+# sent_id = SEFR2024_0108_User275_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User275
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:58.129
+# end = 00:01:00.129
+# text = N' empêche les véhicules les plus improbables étaient de conception française !
+1	N'	ne	ADV	_	Polarity=Neg	2	advmod	_	_
+2	empêche	empêcher	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	discourse	_	_
+3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+4	véhicules	véhicule	NOUN	_	Gender=Masc|Number=Plur	10	nsubj	_	_
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+6	plus	plus	ADV	_	_	7	advmod	_	_
+7	improbables	improbable	ADJ	_	Number=Plur	4	nmod	_	_
+8	étaient	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	conception	conception	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+11	française	français	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
+12	!	!	PUNCT	_	_	10	punct	_	_
+
+# sent_id = SEFR2024_0109_SP1_trs_ann0024_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 24
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:58.550
+# end = 00:00:59.630
+# text = tu vois c' est vraiment des
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Emph=No
+2	vois	voir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	discourse	_	_
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	vraiment	vraiment	ADV	_	_	6	advmod	_	_
+6	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	0	root	_	_
+
+# sent_id = SEFR2024_0110_User276_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User276
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:59.129
+# end = 00:01:01.129
+# text = super la video de le musée
+1	super	super	ADJ	_	Number=Sing	0	root	_	_
+2	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	video	video	NOUN	_	Gender=Fem|Number=Sing	1	appos	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	musée	musée	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+
+# sent_id = SEFR2024_0111_SP1_trs_ann0025_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 25
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:59.630
+# end = 00:01:02.020
+# text = et c' est un truc de dingue comment c' est gros quoi
+1	et	et	CCONJ	_	_	5	cc	_	_
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	truc	truc	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	dingue	dingue	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+8	comment	comment	ADV	_	PronType=Int	11	advmod	_	_
+9	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	_
+10	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	gros	gros	ADJ	_	Gender=Masc|Number=Sing	5	conj	_	_
+12	quoi	quoi	INTJ	_	_	11	discourse	_	_
+
+# sent_id = SEFR2024_0112_SP1_trs_ann0026_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 26
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:02.600
+# end = 00:01:05.100
+# text = le char leclerc à côté je le trouve plutôt petit en vrai quoi
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	char	char	NOUN	_	Gender=Masc|Number=Sing	8	dislocated	_	_
+3	leclerc	leclerc	PROPN	_	Gender=Masc|Number=Sing	2	appos	_	_
+4	à	à	ADP	_	_	5	case	_	_
+5	côté	côté	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+6	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Emph=No
+7	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	Emph=No
+8	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	plutôt	plutôt	ADV	_	_	10	advmod	_	_
+10	petit	petit	ADJ	_	Gender=Masc|Number=Sing	8	xcomp	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	vrai	vrai	ADJ	_	Gender=Masc|Number=Sing	8	advcl	_	_
+13	quoi	quoi	INTJ	_	_	8	discourse	_	_
+
+# sent_id = SEFR2024_0113_User257_ann0002_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User257
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:03.129
+# end = 00:01:05.129
+# text = on se souvient de le bras levé pour atteidnre le canon XD
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_
+2	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
+3	souvient	souvenir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	bras	bras	NOUN	_	Gender=Masc|Number=Sing	3	obl:arg	_	_
+7	levé	lever	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	_
+8	pour	pour	ADP	_	_	9	mark	_	_
+9	atteidnre	atteindre	VERB	_	VerbForm=Inf	3	advcl	_	_
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	canon	canon	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+12	XD	XD	SYM	_	_	3	discourse	_	_
+
+# sent_id = SEFR2024_0114_User277_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User277
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:05.129
+# end = 00:01:07.129
+# text = La caméra écrase surtout Sylvain je trouve
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	caméra	caméra	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	écrase	écraser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	surtout	surtout	ADV	_	_	3	advmod	_	_
+5	Sylvain	Sylvain	PROPN	_	_	3	obj	_	_
+6	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Emph=No
+7	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	discourse	_	_
+
+# sent_id = SEFR2024_0115_SP1_trs_ann0027_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 27
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:05.500
+# end = 00:01:12.490
+# text = alors que tous les chars de la guerre froide là les trucs qui sont censés être anti-nucléaires les a emme ixe trente ou je sais pas quoi là j' ai oublié le nom
+1	alors	alors	ADV	_	ExtPos=SCONJ	31	mark	_	_
+2	que	que	SCONJ	_	_	1	fixed	_	_
+3	tous	tout	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	_
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+5	chars	char	NOUN	_	Gender=Masc|Number=Plur	31	dislocated	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	guerre	guerre	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+9	froide	froid	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_
+10	là	là	ADV	_	_	5	advmod	_	_
+11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
+12	trucs	truc	NOUN	_	Gender=Masc|Number=Plur	5	appos	_	_
+13	qui	qui	PRON	_	PronType=Rel	15	nsubj	_	_
+14	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux:tense	_	_
+15	censés	censé	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	acl:relcl	_	_
+16	être	être	AUX	_	VerbForm=Inf	17	cop	_	_
+17	anti-nucléaires	anti-nucléaire	ADJ	_	Gender=Masc|Number=Plur	15	xcomp	_	_
+18	les	eux	PRON	_	Number=Plur|Person=3|PronType=Prs	19	det	_	Emph=No
+19	a	a	X	_	_	12	appos	_	_
+20	emme	emme	X	_	_	19	flat:name	_	_
+21	ixe	ixe	X	_	_	19	flat:name	_	_
+22	trente	trente	NUM	_	_	19	flat:name	_	_
+23	ou	ou	CCONJ	_	_	25	cc	_	_
+24	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	25	nsubj	_	Emph=No
+25	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	conj	_	_
+26	pas	pas	ADV	_	Polarity=Neg	25	advmod	_	_
+27	quoi	quoi	PRON	_	PronType=Int	25	obj	_	_
+28	là	là	ADV	_	_	31	advmod	_	_
+29	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	31	nsubj	_	Emph=No
+30	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	31	aux:tense	_	_
+31	oublié	oublier	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+32	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
+33	nom	nom	NOUN	_	Gender=Masc|Number=Sing	31	obj	_	_
+
+# sent_id = SEFR2024_0116_User194_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User194
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:06.129
+# end = 00:01:08.129
+# text = y a eu un Tigre 2 ?
+1	y	y	PRON	_	Person=3|PronType=Prs	3	expl:comp	_	_
+2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	eu	avoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Tigre	tigre	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	2	2	NUM	_	Number=Plur	5	nmod	_	_
+7	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = SEFR2024_0117_User262_ann0002_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User262
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:07.129
+# end = 00:01:09.129
+# text = vous avez continué la visite après le stream ?
+1	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
+2	avez	avoir	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	continué	continuer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	visite	visite	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	après	après	ADP	_	_	8	case	_	_
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	stream	stream	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	_
+9	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = SEFR2024_0118_User278_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User278
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:11.129
+# end = 00:01:13.129
+# text = @lardodon non , c' est jdg
+1	@lardodon	@lardodon	PROPN	_	_	6	vocative	_	_
+2	non	non	ADV	_	Polarity=Neg	6	discourse	_	_
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	jdg	jdg	NOUN	_	_	0	root	_	_
+
+# sent_id = SEFR2024_0119_User6_ann0002_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User6
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:12.129
+# end = 00:01:14.129
+# text = Maison sur chenilles {emote:u001}
+1	Maison	maison	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+2	sur	sur	ADP	_	_	3	case	_	_
+3	chenilles	chenille	NOUN	_	Gender=Fem|Number=Plur	1	nmod	_	_
+4	{emote:u001}	{emote}	SYM	EMOTE	_	1	discourse	_	EmoteID=u001
+
+# sent_id = SEFR2024_0120_SP1_trs_ann0028_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 28
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:12.490
+# end = 00:01:13.040
+# text = c' était euh
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
+2	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	euh	euh	INTJ	_	_	2	discourse	_	_
+
+# sent_id = SEFR2024_0121_SP1_trs_ann0029_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 29
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:13.040
+# end = 00:01:15.510
+# text = c' est vraiment c' est des maisons sur des chenilles quoi en fait
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	reparandum	_	_
+3	vraiment	vraiment	ADV	_	_	7	advmod	_	_
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	_
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	7	det	_	_
+7	maisons	maison	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+8	sur	sur	ADP	_	_	10	case	_	_
+9	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	10	det	_	_
+10	chenilles	chenille	NOUN	_	Gender=Fem|Number=Plur	7	nmod	_	_
+11	quoi	quoi	INTJ	_	_	10	discourse	_	_
+12	en	en	ADP	_	ExtPos=ADV	7	discourse	_	Idiom=Yes
+13	fait	fait	NOUN	_	Gender=Masc|Number=Sing	12	fixed	_	InIdiom=Yes
+
+# sent_id = SEFR2024_0122_User263_ann0002_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User263
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:13.129
+# end = 00:01:15.129
+# text = Le tigre de ?
+1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	tigre	tigre	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	de	de	ADP	_	_	2	dep	_	_
+4	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = SEFR2024_0123_User279_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User279
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 2
+# start = 00:01:13.129
+# end = 00:01:15.129
+# text = @Joueur_du_Grenier go faire lem usée de l' espace avec Thomas Pesquet !
+# original_annotation = @Joueur_du_Grenier go faire lem usée de l'espace avec Thomas Pesquet ! // Je suis sure qu'il serait chaud
+1	@Joueur_du_Grenier	@Joueur_du_Grenier	PROPN	_	_	2	vocative	_	_
+2	go	go	VERB	_	Foreign=Yes	0	root	_	_
+3	faire	faire	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	lem	lem	X	_	_	3	obj	_	_
+5	usée	usée	X	_	_	4	flat	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
+8	espace	espace	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+9	avec	avec	ADP	_	_	10	case	_	_
+10	Thomas	Thomas	PROPN	_	_	3	obl:mod	_	_
+11	Pesquet	Pesquet	PROPN	_	_	10	flat:name	_	_
+12	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = SEFR2024_0124_User279_ann0001_iu02
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User279
+# annotation_index = 1
+# iu_index = 2
+# iu_count = 2
+# start = 00:01:13.129
+# end = 00:01:15.129
+# text = Je suis sure qu' il serait chaud
+# original_annotation = @Joueur_du_Grenier go faire lem usée de l'espace avec Thomas Pesquet ! // Je suis sure qu'il serait chaud
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+2	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	sure	sur	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	qu'	que	SCONJ	_	_	7	mark	_	_
+5	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Emph=No
+6	serait	être	AUX	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	chaud	chaud	ADJ	_	Gender=Masc|Number=Sing	3	ccomp	_	_
+
+# sent_id = SEFR2024_0125_User162_ann0002_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User162
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 2
+# start = 00:01:15.129
+# end = 00:01:17.129
+# text = le plus impressionnant c' est pendant le caroussel quand ils roulent ,
+# original_annotation = le plus impressionnant c'est pendant le caroussel quand ils roulent, // tu te demande comment c'est possible
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	plus	plus	ADV	_	_	3	advmod	_	_
+3	impressionnant	impressionnant	ADJ	_	Gender=Masc|Number=Sing	8	dislocated	_	_
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	_
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	pendant	pendant	ADP	_	_	8	case	_	_
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	caroussel	caroussel	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+9	quand	quand	SCONJ	_	_	11	mark	_	_
+10	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	Emph=No
+11	roulent	rouler	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+12	,	,	PUNCT	_	_	8	punct	_	_
+
+# sent_id = SEFR2024_0126_User162_ann0002_iu02
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User162
+# annotation_index = 2
+# iu_index = 2
+# iu_count = 2
+# start = 00:01:15.129
+# end = 00:01:17.129
+# text = tu te demande comment c' est possible
+# original_annotation = le plus impressionnant c'est pendant le caroussel quand ils roulent, // tu te demande comment c'est possible
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Emph=No
+2	te	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	3	iobj	_	Emph=No
+3	demande	demander	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	comment	comment	ADV	_	PronType=Int	7	advmod	_	_
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	_
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	possible	possible	ADJ	_	Gender=Masc|Number=Sing	3	ccomp	_	_
+
+# sent_id = SEFR2024_0127_User280_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User280
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:15.129
+# end = 00:01:17.129
+# text = Salut !
+1	Salut	salut	INTJ	_	_	0	root	_	_
+2	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0128_User281_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User281
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:15.129
+# end = 00:01:17.129
+# text = ! programme
+1	!	!	PUNCT	_	_	2	punct	_	_
+2	programme	programme	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2024_0129_Moderator2_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = Moderator2
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 2
+# start = 00:01:16.129
+# end = 00:01:18.129
+# text = {emote:u001} Le programme de les lives ( quand il y en a un ) se trouve ici : https://www.twitch.tv/joueur_du_grenier/schedule
+# original_annotation = {emote:u001} Le programme des lives (quand il y en a un) se trouve ici: https://www.twitch.tv/joueur_du_grenier/schedule {emote:u002} Sinon regardez le titre du stream et le message épinglé dans le tchat {emote:u003}
+1	{emote:u001}	{emote}	SYM	EMOTE	_	16	discourse	_	EmoteID=u001
+2	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	programme	programme	NOUN	_	Gender=Masc|Number=Sing	16	nsubj	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+6	lives	live	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	_
+7	(	(	PUNCT	_	_	12	punct	_	_
+8	quand	quand	SCONJ	_	_	12	mark	_	_
+9	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl:subj	_	Emph=No
+10	y	y	PRON	_	Person=3|PronType=Prs	12	expl:comp	_	Emph=No
+11	en	en	PRON	_	Person=3|PronType=Prs	13	nmod	_	Emph=No
+12	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+13	un	un	NUM	_	Number=Sing	12	obj	_	_
+14	)	)	PUNCT	_	_	12	punct	_	_
+15	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	16	expl:pv	_	_
+16	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+17	ici	ici	ADV	_	_	16	advmod	_	_
+18	:	:	PUNCT	_	_	19	punct	_	_
+19	https://www.twitch.tv/joueur_du_grenier/schedule	https:www.twitch.tv/joueur_du_grenier/schedule	PROPN	_	_	17	appos	_	_
+
+# sent_id = SEFR2024_0130_Moderator2_ann0001_iu02
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = Moderator2
+# annotation_index = 1
+# iu_index = 2
+# iu_count = 2
+# start = 00:01:16.129
+# end = 00:01:18.129
+# text = {emote:u002} Sinon regardez le titre de le stream et le message épinglé dans le tchat {emote:u003}
+# original_annotation = {emote:u001} Le programme des lives (quand il y en a un) se trouve ici: https://www.twitch.tv/joueur_du_grenier/schedule {emote:u002} Sinon regardez le titre du stream et le message épinglé dans le tchat {emote:u003}
+1	{emote:u002}	{emote}	SYM	EMOTE	_	3	discourse	_	EmoteID=u002
+2	Sinon	sinon	ADV	_	_	3	advmod	_	_
+3	regardez	regarder	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	titre	titre	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	stream	stream	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+9	et	et	CCONJ	_	_	11	cc	_	_
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	message	message	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	_
+12	épinglé	épingler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	acl	_	_
+13	dans	dans	ADP	_	_	15	case	_	_
+14	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	tchat	tchat	NOUN	_	Gender=Masc|Number=Sing	12	obl:mod	_	_
+16	{emote:u003}	{emote}	SYM	EMOTE	_	3	discourse	_	EmoteID=u003
+
+# sent_id = SEFR2024_0131_Moderator3_ann0001_iu01_SEFR2024_0132_Moderator3_ann0001_iu02_split1
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = Moderator3
+# annotation_index = 1
+# iu_index = 1 2
+# iu_count = 2
+# start = 00:01:16.129
+# end = 00:01:18.129
+# text = {emote:u001} Le programme de les lives ( quand il y en a un ) se trouve ici : https://www.twitch.tv/joueur_du_grenier/schedule
+# original_annotation = {emote:u001} Le programme des lives (quand il y en a un) se trouve ici: https://www.twitch.tv/joueur_du_grenier/schedule {emote:u002} Sinon regardez le titre du stream et le message épinglé dans le tchat {emote:u003} [📛 15s 👤 10m]
+1	{emote:u001}	{emote}	SYM	EMOTE	_	16	discourse	_	EmoteID=u001
+2	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	programme	programme	NOUN	_	Gender=Masc|Number=Sing	16	nsubj	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+6	lives	live	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	_
+7	(	(	PUNCT	_	_	12	punct	_	_
+8	quand	quand	SCONJ	_	_	12	mark	_	_
+9	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl:subj	_	Emph=No
+10	y	y	PRON	_	Person=3|PronType=Prs	12	expl:comp	_	Emph=No
+11	en	en	PRON	_	Person=3|PronType=Prs	13	nmod	_	Emph=No
+12	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+13	un	un	NUM	_	Number=Sing	12	obj	_	_
+14	)	)	PUNCT	_	_	12	punct	_	_
+15	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	16	expl:pv	_	_
+16	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+17	ici	ici	ADV	_	_	16	advmod	_	_
+18	:	:	PUNCT	_	_	19	punct	_	_
+19	https://www.twitch.tv/joueur_du_grenier/schedule	https://www.twitch.tv/joueur_du_grenier/schedule	PROPN	_	_	17	appos	_	_
+
+# sent_id = SEFR2024_0131_Moderator3_ann0001_iu01_SEFR2024_0132_Moderator3_ann0001_iu02_split2
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = Moderator3
+# annotation_index = 1
+# iu_index = 1 2
+# iu_count = 2
+# start = 00:01:16.129
+# end = 00:01:18.129
+# text = {emote:u002} Sinon regardez le titre de le stream et le message épinglé dans le tchat {emote:u003} [ 📛 15 s 👤 10 m ]
+# original_annotation = {emote:u001} Le programme des lives (quand il y en a un) se trouve ici: https://www.twitch.tv/joueur_du_grenier/schedule {emote:u002} Sinon regardez le titre du stream et le message épinglé dans le tchat {emote:u003} [📛 15s 👤 10m]
+1	{emote:u002}	{emote}	SYM	EMOTE	_	3	discourse	_	EmoteID=u002
+2	Sinon	sinon	ADV	_	_	3	advmod	_	_
+3	regardez	regarder	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	titre	titre	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	stream	stream	NOUN	_	Foreign=Yes	5	nmod	_	_
+9	et	et	CCONJ	_	_	11	cc	_	_
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	message	message	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	_
+12	épinglé	épingler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	acl	_	_
+13	dans	dans	ADP	_	_	15	case	_	_
+14	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	tchat	tchat	NOUN	_	Gender=Masc|Number=Sing	12	obl:mod	_	_
+16	{emote:u003}	{emote}	SYM	EMOTE	_	3	discourse	_	EmoteID=u003
+17	[	[	PUNCT	_	_	18	punct	_	_
+18	📛	📛	SYM	_	ExtPos=ADV	3	parataxis	_	_
+19	15	15	SYM	_	_	20	nummod	_	_
+20	s	s	SYM	_	_	18	appos	_	_
+21	👤	👤	SYM	_	ExtPos=ADV	20	list	_	_
+22	10	10	NUM	_	Number=Plur	23	nummod	_	_
+23	m	m	NOUN	_	_	21	appos	_	_
+24	]	]	PUNCT	_	_	23	punct	_	_
+
+# sent_id = SEFR2024_0133_User19_ann0003_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User19
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:16.129
+# end = 00:01:18.129
+# text = 20k personnes ont vu ta lune {emote:u001}
+1	20k	20k	NUM	_	Number=Plur	2	nummod	_	_
+2	personnes	personne	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
+4	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+5	ta	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	lune	lune	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	{emote:u001}	{emote}	SYM	EMOTE	_	4	discourse	_	EmoteID=u001
+
+# sent_id = SEFR2024_0134_User282_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User282
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 3
+# start = 00:01:16.129
+# end = 00:01:18.129
+# text = taalrum subscribed with Prime .
+# original_annotation = taalrum subscribed with Prime. // They've subscribed for 23 months! // la vespa antichar dans un jeu, ca serait dingue
+1	taalrum	taalrum	X	_	Foreign=Yes	0	root	_	_
+2	subscribed	subscribed	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	with	with	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	Prime	Prime	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0135_User282_ann0001_iu02
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User282
+# annotation_index = 1
+# iu_index = 2
+# iu_count = 3
+# start = 00:01:16.129
+# end = 00:01:18.129
+# text = They've subscribed for 23 months !
+# original_annotation = taalrum subscribed with Prime. // They've subscribed for 23 months! // la vespa antichar dans un jeu, ca serait dingue
+1	They've	They've	X	_	Foreign=Yes	0	root	_	_
+2	subscribed	subscribed	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	for	for	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	23	23	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	months	months	X	_	Foreign=Yes	1	flat:foreign	_	_
+6	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2024_0136_User282_ann0001_iu03
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User282
+# annotation_index = 1
+# iu_index = 3
+# iu_count = 3
+# start = 00:01:16.129
+# end = 00:01:18.129
+# text = la vespa antichar dans un jeu , ca serait dingue
+# original_annotation = taalrum subscribed with Prime. // They've subscribed for 23 months! // la vespa antichar dans un jeu, ca serait dingue
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	vespa	vespa	NOUN	_	Gender=Fem|Number=Sing	10	dislocated	_	_
+3	antichar	antichar	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	dans	dans	ADP	_	_	6	case	_	_
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	jeu	jeu	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+7	,	,	PUNCT	_	_	2	punct	_	_
+8	ca	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	nsubj	_	_
+9	serait	être	AUX	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	dingue	dingue	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2024_0137_User202_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User202
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:17.129
+# end = 00:01:19.129
+# text = Des tanks qui flottent , c’ est fou !
+1	Des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	2	det	_	_
+2	tanks	tank	NOUN	_	Gender=Masc|Number=Plur	8	dislocated	_	_
+3	qui	qui	PRON	_	PronType=Rel	4	nsubj	_	_
+4	flottent	flotter	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	c’	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	_
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	fou	fou	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+9	!	!	PUNCT	_	_	8	punct	_	_
+
+# sent_id = SEFR2024_0138_User76_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User76
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:18.129
+# end = 00:01:20.129
+# text = Le Leclerc est considéré comme un petit char par rapport à ses concurrents
+1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Leclerc	Leclerc	PROPN	_	Gender=Masc|Number=Sing	4	nsubj:pass	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	considéré	considérer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+5	comme	comme	ADP	_	_	8	case	_	_
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	petit	petit	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
+8	char	char	NOUN	_	Gender=Masc|Number=Sing	4	xcomp	_	_
+9	par	par	ADP	_	_	10	case	_	_
+10	rapport	rapport	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+11	à	à	ADP	_	_	13	case	_	_
+12	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	13	det	_	_
+13	concurrents	concurrent	NOUN	_	Gender=Masc|Number=Plur	10	nmod	_	_
+
+# sent_id = SEFR2024_0139_User283_ann0001_iu01
+# source = SEFR2024.eaf
+# tool = Stanza
+# tier = User283
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:20.129
+# end = 00:01:20.500
+# text = alors c est comme dans world of tank ?
+1	alors	alors	ADV	_	_	6	discourse	_	_
+2	c	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	comme	comme	SCONJ	_	_	6	mark	_	_
+5	dans	dans	ADP	_	_	6	case	_	_
+6	world	world	NOUN	_	Foreign=Yes	0	root	_	_
+7	of	of	ADP	_	Foreign=Yes	6	flat:name	_	_
+8	tank	tank	NOUN	_	Foreign=Yes	6	flat:name	_	_
+9	?	?	PUNCT	_	_	6	punct	_	_
+

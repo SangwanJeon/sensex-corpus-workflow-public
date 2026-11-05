@@ -1,0 +1,259 @@
+# sent_id = SEFR2015_0001_SP1_trs_ann0001_iu01
+# source = SEFR2015.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.000
+# end = 00:00:01.080
+# text = c' est parti
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	parti	partir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+
+# sent_id = SEFR2015_0002_SP1_trs_ann0002_iu01
+# source = SEFR2015.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:01.080
+# end = 00:00:06.920
+# text = alors bien sûr avant de commencer voici le menu avec notre petite granny préférée avec son piège à loup
+1	alors	alors	ADV	_	_	7	advmod	_	_
+2	bien	bien	ADV	_	ExtPos=ADV	4	advmod	_	Idiom=Yes
+3	sûr	sûr	ADV	_	_	2	fixed	_	InIdiom=Yes
+4	avant	avant	ADV	_	_	7	advmod	_	_
+5	de	de	ADP	_	_	6	mark	_	_
+6	commencer	commencer	VERB	_	VerbForm=Inf	4	xcomp	_	_
+7	voici	voici	VERB	_	_	0	root	_	_
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	menu	menu	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	avec	avec	ADP	_	_	13	case	_	_
+11	notre	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	13	det	_	_
+12	petite	petit	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	_
+13	granny	granny	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+14	préférée	préféré	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	_
+15	avec	avec	ADP	_	_	17	case	_	_
+16	son	son	DET	_	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	17	det	_	_
+17	piège	piège	NOUN	_	Gender=Masc|Number=Sing	13	parataxis	_	_
+18	à	à	ADP	_	_	19	case	_	_
+19	loup	loup	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	_
+
+# sent_id = SEFR2015_0003_SP1_trs_ann0003_iu01
+# source = SEFR2015.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:06.920
+# end = 00:00:07.730
+# text = piège à ours
+1	piège	piège	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	à	à	ADP	_	_	3	case	_	_
+3	ours	ours	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+
+# sent_id = SEFR2015_0004_SP1_trs_ann0004_iu01
+# source = SEFR2015.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:07.730
+# end = 00:00:10.530
+# text = que tu sois un loup ou un ours ne mets pas les pieds dedans ça peut faire mal
+1	que	que	SCONJ	_	_	5	mark	_	_
+2	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Emph=No
+3	sois	être	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	loup	loup	NOUN	_	Gender=Masc|Number=Sing	10	advcl	_	_
+6	ou	ou	CCONJ	_	_	8	cc	_	_
+7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	ours	ours	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	_
+9	ne	ne	ADV	_	Polarity=Neg	10	advmod	_	_
+10	mets	mettre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	pas	pas	ADV	_	Polarity=Neg	10	advmod	_	_
+12	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
+13	pieds	pied	NOUN	_	Gender=Masc|Number=Plur	10	obj	_	_
+14	dedans	dedans	ADV	_	_	10	advmod	_	_
+15	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	16	nsubj	_	_
+16	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	parataxis	_	_
+17	faire	faire	VERB	_	VerbForm=Inf	16	xcomp	_	_
+18	mal	mal	NOUN	_	Gender=Masc|Number=Sing	17	obj:lvc	_	_
+
+# sent_id = SEFR2015_0005_SP1_trs_ann0005_iu01
+# source = SEFR2015.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:10.530
+# end = 00:00:12.590
+# text = et elle tient bien sûr sa batte de baseball fétiche hein
+1	et	et	CCONJ	_	_	3	cc	_	_
+2	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Emph=No
+3	tient	tenir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	bien	bien	ADV	_	ExtPos=ADV	3	advmod	_	Idiom=Yes
+5	sûr	sûr	ADV	_	_	4	fixed	_	InIdiom=Yes
+6	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	batte	batte	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	baseball	baseball	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+10	fétiche	fétiche	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
+11	hein	hein	INTJ	_	_	3	discourse	_	_
+
+# sent_id = SEFR2015_0006_SP1_trs_ann0006_iu01
+# source = SEFR2015.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:12.590
+# end = 00:00:14.960
+# text = celle avec laquelle elle nous a bien fracassé la tête
+1	celle	celui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Dem	0	root	_	_
+2	avec	avec	ADP	_	_	3	case	_	_
+3	laquelle	lequel	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	8	obl:mod	_	_
+4	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Emph=No
+5	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	8	iobj	_	_
+6	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:tense	_	_
+7	bien	bien	ADV	_	_	8	advmod	_	_
+8	fracassé	fracasser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl:relcl	_	_
+9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	tête	tête	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+
+# sent_id = SEFR2015_0007_SP1_trs_ann0007_iu01
+# source = SEFR2015.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:14.960
+# end = 00:00:15.810
+# text = et oh
+1	et	et	CCONJ	_	_	2	cc	_	_
+2	oh	oh	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2015_0008_SP1_trs_ann0008_iu01
+# source = SEFR2015.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:15.820
+# end = 00:00:19.360
+# text = oh j' ai eu peur de ce petit euh teddy là qui a surgi à coté
+1	oh	oh	INTJ	_	_	4	discourse	_	_
+2	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Emph=No
+3	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
+4	eu	avoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	peur	peur	NOUN	_	Gender=Fem|Number=Sing	4	obj:lvc	_	_
+6	de	de	ADP	_	_	10	case	_	_
+7	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
+8	petit	petit	ADJ	_	Gender=Masc|Number=Sing	10	amod	_	_
+9	euh	euh	INTJ	_	_	10	discourse	_	_
+10	teddy	teddy	NOUN	_	Gender=Masc|Number=Sing	5	obl:arg	_	_
+11	là	là	ADV	_	_	10	advmod	_	_
+12	qui	qui	PRON	_	PronType=Rel	14	nsubj	_	_
+13	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux:tense	_	_
+14	surgi	surgir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl:relcl	_	_
+15	à	à	ADP	_	_	16	case	_	_
+16	coté	côté	NOUN	_	Gender=Masc|Number=Sing	14	obl:mod	_	_
+
+# sent_id = SEFR2015_0009_SP1_trs_ann0009_iu01
+# source = SEFR2015.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 9
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:19.360
+# end = 00:00:21.840
+# text = rah et puis la musique bien sûr hein chère à granny
+1	rah	rah	INTJ	_	_	5	discourse	_	_
+2	et	et	CCONJ	_	ExtPos=CCONJ	5	cc	_	Idiom=Yes
+3	puis	puis	CCONJ	_	_	2	fixed	_	InIdiom=Yes
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	musique	musique	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	bien	bien	ADV	_	ExtPos=ADV	9	advmod	_	Idiom=Yes
+7	sûr	sûr	ADV	_	_	6	fixed	_	InIdiom=Yes
+8	hein	hein	INTJ	_	_	9	discourse	_	_
+9	chère	cher	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+10	à	à	ADP	_	_	11	case	_	_
+11	granny	granny	NOUN	_	Gender=Masc|Number=Sing	9	obl:arg	_	_
+
+# sent_id = SEFR2015_0010_SP1_trs_ann0010_iu01
+# source = SEFR2015.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:26.390
+# end = 00:00:27.439
+# text = voilà
+1	voilà	voilà	VERB	_	_	0	root	_	_
+
+# sent_id = SEFR2015_0011_SP1_trs_ann0011_iu01
+# source = SEFR2015.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:27.439
+# end = 00:00:29.100
+# text = ahah elle me rend complètement dingue cette musique
+1	ahah	ahah	INTJ	_	_	4	discourse	_	_
+2	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Emph=No
+3	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	obj	_	Emph=No
+4	rend	rendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	complètement	complètement	ADV	_	_	4	advmod	_	_
+6	dingue	dingue	ADJ	_	Gender=Fem|Number=Sing	4	xcomp	_	_
+7	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+8	musique	musique	NOUN	_	Gender=Fem|Number=Sing	4	dislocated	_	_
+
+# sent_id = SEFR2015_0012_SP1_trs_ann0012_iu01
+# source = SEFR2015.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 12
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:29.100
+# end = 00:00:29.840
+# text = je l' adore
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+2	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	3	obj	_	Emph=No
+3	adore	adorer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2015_0013_SP1_trs_ann0013_iu01
+# source = SEFR2015.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 13
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:29.840
+# end = 00:00:32.040
+# text = euh donc euh bah écoutez on va player tout de suite
+1	euh	euh	INTJ	_	_	7	discourse	_	_
+2	donc	donc	ADV	_	_	7	advmod	_	_
+3	euh	euh	INTJ	_	_	4	reparandum	_	_
+4	bah	bah	INTJ	_	_	7	discourse	_	_
+5	écoutez	écoutrir	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7	discourse	_	_
+6	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	7	nsubj	_	_
+7	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	player	player	VERB	_	VerbForm=Inf	7	xcomp	_	_
+9	tout	tout	ADV	_	_	11	advmod	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	suite	suite	NOUN	_	Gender=Fem|Number=Sing	8	obl:mod	_	_
+

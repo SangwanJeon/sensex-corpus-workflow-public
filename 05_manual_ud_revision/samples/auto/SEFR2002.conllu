@@ -1,0 +1,923 @@
+# sent_id = SEFR2002_0001_SP_trs_ann0001_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.000
+# end = 00:00:01.940
+# text = c'était pas le classique
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+2	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+3	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	_
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	classique	classique	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2002_0002_default_ann0001_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = default
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.000
+# end = 00:01:46.529
+# text = Ligue 1 - Aujourd'hui Terminé. Paris-SG 5 - 0 Marseille
+1	Ligue	ligue	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	1	1	NUM	_	Number=Sing	1	nmod	_	_
+3	-	-	PUNCT	_	_	5	punct	_	_
+4	Aujourd'hui	aujourd'hui	ADV	_	_	5	advmod	_	_
+5	Terminé	terminer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	acl	_	_
+6	.	.	PUNCT	_	_	7	punct	_	_
+7	Paris-SG	Paris-SG	PROPN	_	_	1	nmod	_	_
+8	5	5	NUM	_	Number=Plur	7	nmod	_	_
+9	-	-	PUNCT	_	_	11	punct	_	_
+10	0	0	NUM	_	Number=Plur	11	nummod	_	_
+11	Marseille	Marseille	PROPN	_	_	7	nmod	_	_
+
+# sent_id = SEFR2002_0003_SP_trs_ann0002_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:02.060
+# end = 00:00:04.270
+# text = c'était le cla-cirque
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+2	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	cla-cirque	cla-cirque	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2002_0004_SP_trs_ann0003_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:04.330
+# end = 00:00:05.910
+# text = un cirque bande de clowns
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	cirque	cirque	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	bande	bande	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	clowns	clown	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	_
+
+# sent_id = SEFR2002_0005_SP_trs_ann0004_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:06.190
+# end = 00:00:06.760
+# text = nul
+1	nul	nul	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2002_0006_SP_trs_ann0005_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:06.787
+# end = 00:00:07.650
+# text = et nul
+1	et	et	CCONJ	_	_	2	cc	_	_
+2	nul	nul	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2002_0007_SP_trs_ann0006_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:07.690
+# end = 00:00:08.515
+# text = nul balerdi
+1	nul	nul	DET	_	Gender=Masc|Number=Sing|PronType=Neg	2	det	_	_
+2	balerdi	balerdi	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2002_0008_SP_trs_ann0007_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:08.517
+# end = 00:00:08.960
+# text = nul
+1	nul	nul	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2002_0009_SP_trs_ann0008_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:09.290
+# end = 00:00:10.270
+# text = nul de-zerbi
+1	nul	nul	DET	_	Gender=Masc|Number=Sing|PronType=Neg	2	det	_	_
+2	de-zerbi	de-zerbi	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2002_0010_SP_trs_ann0009_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 9
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:10.370
+# end = 00:00:11.240
+# text = nul balerdi
+1	nul	nul	DET	_	Gender=Masc|Number=Sing|PronType=Neg	2	det	_	_
+2	balerdi	balerdi	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2002_0011_SP_trs_ann0010_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:11.350
+# end = 00:00:11.990
+# text = nul
+1	nul	nul	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2002_0012_SP_trs_ann0011_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:12.180
+# end = 00:00:13.920
+# text = vous avez pas cadré une frappe
+1	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
+2	avez	avoir	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
+3	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	_
+4	cadré	cadrer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	frappe	frappe	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+
+# sent_id = SEFR2002_0013_SP_trs_ann0012_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 12
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:14.270
+# end = 00:00:16.400
+# text = les seules frappes cadrées des marseillais
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+2	seules	seul	ADJ	_	Gender=Fem|Number=Plur	3	amod	_	_
+3	frappes	frappe	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+4	cadrées	cadrer	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+7	marseillais	marseillais	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	_
+
+# sent_id = SEFR2002_0014_SP_trs_ann0013_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 13
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:16.580
+# end = 00:00:18.100
+# text = c'est les frappes sur ma télé
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+4	frappes	frappe	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+5	sur	sur	ADP	_	_	7	case	_	_
+6	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	télé	télé	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+
+# sent_id = SEFR2002_0015_SP_trs_ann0014_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 14
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:18.580
+# end = 00:00:19.080
+# text = nul
+1	nul	nul	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2002_0016_SP_trs_ann0015_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 15
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:19.085
+# end = 00:00:28.154
+# text = tu peux avoir dix mason greenhood dans l'équipe si le onzième c'est benjamin pavard ça sert à rien les gars
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Emph=No
+2	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	avoir	avoir	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	dix	dix	NUM	_	Number=Plur	5	nummod	_	_
+5	mason	mason	X	_	Foreign=Yes	3	obj	_	_
+6	greenhood	greenhood	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+7	dans	dans	ADP	_	_	9	case	_	_
+8	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	équipe	équipe	NOUN	_	Gender=Fem|Number=Sing	3	obl:mod	_	_
+10	si	si	SCONJ	_	_	18	mark	_	_
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	onzième	onzième	ADJ	_	Gender=Masc|Number=Sing	15	dislocated	_	_
+13	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	15	nsubj	_	_
+14	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	benjamin	benjamin	NOUN	_	Gender=Masc|Number=Sing	18	advcl	_	_
+16	pavard	pavard	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	_
+17	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	18	nsubj	_	_
+18	sert	servir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+19	à	à	ADP	_	_	20	case	_	_
+20	rien	rien	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	18	obl:arg	_	_
+21	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	22	det	_	_
+22	gars	gars	NOUN	_	Gender=Masc|Number=Plur	18	obj	_	_
+
+# sent_id = SEFR2002_0017_SP_trs_ann0016_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 16
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:28.260
+# end = 00:00:35.960
+# text = ça sert à rien de recruter des attaquants  de recruter des milieux de terrain se faire prêter des joueurs par arsenal si tu laisses la même défense
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
+2	sert	servir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	à	à	ADP	_	_	4	case	_	_
+4	rien	rien	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	2	obl:arg	_	_
+5	de	de	ADP	_	_	6	mark	_	_
+6	recruter	recruter	VERB	_	VerbForm=Inf	2	xcomp	_	_
+7	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	8	det	_	_
+8	attaquants	attaquant	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+9	de	de	ADP	_	_	10	mark	_	_
+10	recruter	recruter	VERB	_	VerbForm=Inf	8	acl	_	_
+11	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	12	det	_	_
+12	milieux	milieu	NOUN	_	Gender=Masc|Number=Plur	10	obj	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	terrain	terrain	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+15	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	17	obj	_	_
+16	faire	faire	AUX	_	VerbForm=Inf	17	aux:caus	_	_
+17	prêter	prêter	VERB	_	VerbForm=Inf	10	xcomp	_	_
+18	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	19	det	_	_
+19	joueurs	joueur	NOUN	_	Gender=Masc|Number=Plur	17	obj:agent	_	_
+20	par	par	ADP	_	_	21	case	_	_
+21	arsenal	arsenal	NOUN	_	Gender=Masc|Number=Sing	17	obl:mod	_	_
+22	si	si	SCONJ	_	_	24	mark	_	_
+23	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	24	nsubj	_	Emph=No
+24	laisses	laisser	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+25	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+26	même	même	ADJ	_	Gender=Fem|Number=Sing	27	amod	_	_
+27	défense	défense	NOUN	_	Gender=Fem|Number=Sing	24	obj	_	_
+
+# sent_id = SEFR2002_0018_SP_trs_ann0017_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 17
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:35.970
+# end = 00:00:36.981
+# text = c'est pas une défense
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	_
+4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	défense	défense	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2002_0019_SP_trs_ann0018_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 18
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:36.983
+# end = 00:00:38.077
+# text = c'est une dépense
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	dépense	dépense	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2002_0020_SP_trs_ann0019_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 19
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:38.085
+# end = 00:00:40.420
+# text = il faut dépenser de l'argent au bout d'un moment
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	Emph=No
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dépenser	dépenser	VERB	_	VerbForm=Inf	2	ccomp	_	_
+4	de	de	ADP	_	ExtPos=DET	6	det	_	_
+5	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	4	fixed	_	_
+6	argent	argent	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+7	à	à	ADP	_	_	9	case	_	_
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	bout	bout	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	_
+10	d'	de	ADP	_	_	12	case	_	_
+11	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	moment	moment	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+
+# sent_id = SEFR2002_0021_SP_trs_ann0020_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 20
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:40.610
+# end = 00:00:43.359
+# text = benjamin pavard benjamin placard
+1	benjamin	benjamin	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	pavard	pavard	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+3	benjamin	benjamin	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+4	placard	placard	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+
+# sent_id = SEFR2002_0022_SP_trs_ann0021_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 21
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:43.359
+# end = 00:00:44.800
+# text = mais il est nul
+1	mais	mais	CCONJ	_	_	4	cc	_	_
+2	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Emph=No
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	nul	nul	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2002_0023_SP_trs_ann0022_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 22
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:45.250
+# end = 00:00:46.413
+# text = mais il est pourri
+1	mais	mais	CCONJ	_	_	4	cc	_	_
+2	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Emph=No
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	pourri	pourri	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+
+# sent_id = SEFR2002_0024_SP_trs_ann0023_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 23
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:46.423
+# end = 00:00:47.043
+# text = wallah
+1	wallah	wallah	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2002_0025_SP_trs_ann0024_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 24
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:47.046
+# end = 00:00:47.261
+# text = c'est
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2002_0026_SP_trs_ann0025_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 25
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:47.264
+# end = 00:00:49.430
+# text = mais qu'est-ce qu'il a ce dépressif
+1	mais	mais	CCONJ	_	_	2	cc	_	_
+2	qu'	que	PRON	_	PronType=Int	0	root	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+4	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	expl:subj	_	_
+5	qu'	que	SCONJ	_	_	7	mark	_	_
+6	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Emph=No
+7	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl:cleft	_	_
+8	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
+9	dépressif	dépressif	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+
+# sent_id = SEFR2002_0027_SP_trs_ann0026_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 26
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:49.629
+# end = 00:00:50.980
+# text = il est zéro
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Emph=No
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	zéro	zéro	NUM	_	Number=Plur	0	root	_	_
+
+# sent_id = SEFR2002_0028_SP_trs_ann0027_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 27
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:51.020
+# end = 00:00:52.790
+# text = et il nous a tué notre saison
+1	et	et	CCONJ	_	_	5	cc	_	_
+2	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Emph=No
+3	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	5	iobj	_	_
+4	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
+5	tué	tuer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	notre	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	saison	saison	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+
+# sent_id = SEFR2002_0029_SP_trs_ann0028_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 28
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:53.076
+# end = 00:00:54.590
+# text = wallah benjamin batard
+1	wallah	wallah	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	benjamin	benjamin	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	batard	batard	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+
+# sent_id = SEFR2002_0030_SP_trs_ann0029_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 29
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:54.872
+# end = 00:00:56.470
+# text = mais qu'est-ce qu'il fait à marseille
+1	mais	mais	CCONJ	_	_	2	cc	_	_
+2	qu'	que	PRON	_	PronType=Int	0	root	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+4	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	expl:subj	_	_
+5	qu'	que	PRON	_	PronType=Rel	7	obj	_	_
+6	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Emph=No
+7	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl:cleft	_	_
+8	à	à	ADP	_	_	9	case	_	_
+9	marseille	marseille	PROPN	_	_	7	obl:arg	_	_
+
+# sent_id = SEFR2002_0031_SP_trs_ann0030_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 30
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:56.599
+# end = 00:00:58.137
+# text = qu'est-ce qu'il fait là les gars
+1	qu'	que	PRON	_	PronType=Int	0	root	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	1	expl:subj	_	_
+4	qu'	que	SCONJ	_	_	6	mark	_	_
+5	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Emph=No
+6	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl:cleft	_	_
+7	là	là	ADV	_	_	6	advmod	_	_
+8	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
+9	gars	gars	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+
+# sent_id = SEFR2002_0032_SP_trs_ann0031_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 31
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:58.164
+# end = 00:01:00.600
+# text = au bout d'un moment il est là sur le terrain
+1	à	à	ADP	_	_	3	case	_	_
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	bout	bout	NOUN	_	Gender=Masc|Number=Sing	8	obl:mod	_	_
+4	d'	de	ADP	_	_	6	case	_	_
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	moment	moment	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+7	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Emph=No
+8	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	là	là	ADV	_	_	8	advmod	_	_
+10	sur	sur	ADP	_	_	12	case	_	_
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	terrain	terrain	NOUN	_	Gender=Masc|Number=Sing	8	obl:mod	_	_
+
+# sent_id = SEFR2002_0033_SP_trs_ann0032_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 32
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:00.681
+# end = 00:01:03.143
+# text = moi je suis comme lui quand il était choqué en début de saison
+1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	dislocated	_	Emph=Yes
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Emph=No
+3	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	comme	comme	ADP	_	_	5	case	_	_
+5	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	Emph=Yes
+6	quand	quand	SCONJ	_	_	9	mark	_	_
+7	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj:pass	_	Emph=No
+8	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	aux:pass	_	_
+9	choqué	choquer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	début	début	NOUN	_	Gender=Masc|Number=Sing	9	obl:mod	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	saison	saison	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
+
+# sent_id = SEFR2002_0034_SP_trs_ann0033_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 33
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:03.149
+# end = 00:01:04.505
+# text = je suis choqué les gars
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+2	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	choqué	choquer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+5	gars	gars	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+
+# sent_id = SEFR2002_0035_SP_trs_ann0034_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 34
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:04.740
+# end = 00:01:06.550
+# text = je suis choqué
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj:pass	_	Emph=No
+2	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
+3	choqué	choquer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+
+# sent_id = SEFR2002_0036_SP_trs_ann0035_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 35
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:06.550
+# end = 00:01:08.710
+# text = mais c'est pareil toute la défense
+1	mais	mais	CCONJ	_	_	4	cc	_	_
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	pareil	pareil	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	toute	tout	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	défense	défense	NOUN	_	Gender=Fem|Number=Sing	4	dislocated	_	_
+
+# sent_id = SEFR2002_0037_SP_trs_ann0036_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 36
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:08.945
+# end = 00:01:10.570
+# text = tous au même niveau que pavard
+1	tous	tout	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Ind	5	obl:mod	_	_
+2	à	à	ADP	_	_	5	case	_	_
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	même	même	ADJ	_	Number=Sing	5	amod	_	_
+5	niveau	niveau	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	que	que	SCONJ	_	_	7	mark	_	_
+7	pavard	pavard	ADJ	_	Gender=Masc|Number=Sing	4	ccomp	_	_
+
+# sent_id = SEFR2002_0038_SP_trs_ann0037_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 37
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:10.740
+# end = 00:01:11.334
+# text = nul
+1	nul	nul	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2002_0039_SP_trs_ann0038_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 38
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:11.343
+# end = 00:01:12.096
+# text = dégueulasse
+1	dégueulasse	dégueulass	ADJ	_	Number=Sing	0	root	_	_
+
+# sent_id = SEFR2002_0040_SP_trs_ann0039_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 39
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:12.680
+# end = 00:01:18.152
+# text = toute façon benjamin pavard balerdi et medina c'est le triangle des bermudes
+1	toute	tout	DET	_	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	façon	façon	NOUN	_	Gender=Fem|Number=Sing	11	dislocated	_	_
+3	benjamin	benjamin	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	pavard	pavard	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5	balerdi	balerdi	X	_	_	4	flat:name	_	_
+6	et	et	CCONJ	_	_	7	cc	_	_
+7	medina	medina	X	_	_	5	conj	_	_
+8	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	_
+9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	triangle	triangle	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	14	det	_	_
+14	bermudes	bermude	NOUN	_	Gender=Fem|Number=Plur	11	nmod	_	_
+
+# sent_id = SEFR2002_0041_SP_trs_ann0040_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 40
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:18.456
+# end = 00:01:20.392
+# text = le triangle des bernules
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	triangle	triangle	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+5	bernules	bernule	NOUN	_	Gender=Fem|Number=Plur	2	nmod	_	_
+
+# sent_id = SEFR2002_0042_SP_trs_ann0041_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 41
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:20.410
+# end = 00:01:21.432
+# text = ils sont nuls
+1	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Emph=No
+2	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	nuls	nul	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+
+# sent_id = SEFR2002_0043_SP_trs_ann0042_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 42
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:21.464
+# end = 00:01:22.812
+# text = ils sont zéro
+1	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Emph=No
+2	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	zéro	zéro	NUM	_	Number=Plur	0	root	_	_
+
+# sent_id = SEFR2002_0044_SP_trs_ann0043_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 43
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:23.030
+# end = 00:01:24.176
+# text = ils ne savent pas défendre
+1	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Emph=No
+2	ne	ne	ADV	_	Polarity=Neg	3	advmod	_	_
+3	savent	savoir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_
+5	défendre	défendre	VERB	_	VerbForm=Inf	3	xcomp	_	_
+
+# sent_id = SEFR2002_0045_SP_trs_ann0044_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 44
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:24.218
+# end = 00:01:24.882
+# text = wallah
+1	wallah	wallah	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2002_0046_SP_trs_ann0045_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 45
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:25.290
+# end = 00:01:29.050
+# text = le meilleur défenseur de l'o emme ce soir c'était le poteau les gars
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	meilleur	meilleur	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+3	défenseur	défenseur	NOUN	_	Gender=Masc|Number=Sing	13	dislocated	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	o	o	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+7	emme	emme	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+8	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
+9	soir	soir	NOUN	_	Gender=Masc|Number=Sing	13	obl:mod	_	_
+10	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	nsubj	_	_
+11	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	cop	_	_
+12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	poteau	poteau	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+14	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	15	det	_	_
+15	gars	gars	NOUN	_	Gender=Masc|Number=Plur	13	vocative	_	_
+
+# sent_id = SEFR2002_0047_SP_trs_ann0046_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 46
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:29.130
+# end = 00:01:31.560
+# text = le poteau nous a plus sauvé que la défense
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	poteau	poteau	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	6	obj	_	_
+4	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:tense	_	_
+5	plus	plus	ADV	_	_	6	advmod	_	_
+6	sauvé	sauver	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	que	que	SCONJ	_	_	9	case	_	_
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	défense	défense	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+
+# sent_id = SEFR2002_0048_SP_trs_ann0047_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 47
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:31.778
+# end = 00:01:33.271
+# text = wallah que c'est incroyable
+1	wallah	wallah	INTJ	_	_	5	discourse	_	_
+2	que	que	SCONJ	_	_	5	mark	_	_
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	incroyable	incroyable	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2002_0049_SP_trs_ann0048_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 48
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:33.271
+# end = 00:01:34.225
+# text = allez dégagez
+1	allez	aller	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	dégagez	dégager	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	xcomp	_	_
+
+# sent_id = SEFR2002_0050_SP_trs_ann0049_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 49
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:34.261
+# end = 00:01:35.492
+# text = dégagez tous
+1	dégagez	dégager	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	tous	tout	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Ind	1	obl:mod	_	_
+
+# sent_id = SEFR2002_0051_SP_trs_ann0050_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 50
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:35.670
+# end = 00:01:39.611
+# text = on met balerdi pavard et medina dans le même taxi
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+2	met	mettre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	balerdi	balerdi	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	pavard	pavard	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	et	et	CCONJ	_	_	6	cc	_	_
+6	medina	medina	X	_	_	4	conj	_	_
+7	dans	dans	ADP	_	_	10	case	_	_
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	même	même	ADJ	_	Gender=Masc|Number=Sing	10	amod	_	_
+10	taxi	taxi	NOUN	_	Gender=Masc|Number=Sing	2	obl:mod	_	_
+
+# sent_id = SEFR2002_0052_SP_trs_ann0051_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 51
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:39.810
+# end = 00:01:41.711
+# text = au moins on divise la course par trois les gars
+1	à	à	ADP	_	ExtPos=ADV	5	advmod	_	_
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	fixed	_	_
+3	moins	moins	ADV	_	_	1	fixed	_	_
+4	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj	_	_
+5	divise	diviser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	course	course	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	par	par	ADP	_	_	11	case	_	_
+9	trois	trois	NUM	_	Number=Plur	11	nummod	_	_
+10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
+11	gars	gars	NOUN	_	Gender=Masc|Number=Plur	5	obl:arg	_	_
+
+# sent_id = SEFR2002_0053_SP_trs_ann0052_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 52
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:41.788
+# end = 00:01:43.038
+# text = au moins on économise
+1	à	à	ADP	_	ExtPos=ADV	5	advmod	_	_
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	fixed	_	_
+3	moins	moins	ADV	_	_	1	fixed	_	_
+4	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj	_	_
+5	économise	économiser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2002_0054_SP_trs_ann0053_iu01
+# source = SEFR2002.eaf
+# tool = Stanza
+# tier = SP_trs
+# annotation_index = 53
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:43.252
+# end = 00:01:44.980
+# text = on n'en veut plus de ces clochards
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	_
+2	n'	ne	ADV	_	Polarity=Neg	4	advmod	_	_
+3	en	en	PRON	_	Person=3|PronType=Prs	4	expl:comp	_	_
+4	veut	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	plus	plus	ADV	_	Polarity=Neg	4	advmod	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	ces	ce	DET	_	Number=Plur|PronType=Dem	8	det	_	_
+8	clochards	clochard	NOUN	_	Gender=Masc|Number=Plur	4	obl:arg	_	_
+

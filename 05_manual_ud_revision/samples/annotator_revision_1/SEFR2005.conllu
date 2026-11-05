@@ -1,0 +1,574 @@
+# sent_id = SEFR2005_0001_default_ann0001_iu01
+# source = SEFR2005.eaf
+# tool = Stanza
+# tier = default
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.000
+# end = 00:01:06.880
+# text = C' est réel .
+1	C'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	réel	réel	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = SEFR2005_0002_SP1_trs_ann0001_iu01
+# source = SEFR2005.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.104
+# end = 00:00:03.191
+# text = parce qu' en deux mille vingt-six il faut arrêter de se soucier de le regard de les autres
+1	parce	parce	ADV	_	ExtPos=SCONJ	8	mark	_	_
+2	qu'	que	SCONJ	_	_	1	fixed	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	deux	deux	NUM	_	Number=Plur	8	obl:mod	_	_
+5	mille	mille	NUM	_	Number=Plur	4	flat	_	_
+6	vingt-six	vingt-six	NUM	_	Number=Plur	4	flat	_	_
+7	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl:subj	_	Emph=No
+8	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	arrêter	arrêter	VERB	_	VerbForm=Inf	8	xcomp	_	_
+10	de	de	ADP	_	_	12	mark	_	_
+11	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	12	expl:pv	_	_
+12	soucier	soucier	VERB	_	VerbForm=Inf	9	xcomp	_	_
+13	de	de	ADP	_	_	15	case	_	_
+14	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	regard	regard	NOUN	_	Gender=Masc|Number=Sing	12	obl:arg	_	_
+16	de	de	ADP	_	_	18	case	_	_
+17	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
+18	autres	autre	PRON	_	Number=Plur|Person=3|PronType=Ind	15	nmod	_	_
+
+# sent_id = SEFR2005_0003_SP1_trs_ann0002_iu01
+# source = SEFR2005.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:03.626
+# end = 00:00:07.274
+# text = parce qu' en deux mille vingt-six il faut arrêter de se soucier de ce que les autres pensent de nous
+1	parce	parce	ADV	_	ExtPos=SCONJ	8	mark	_	_
+2	qu'	que	SCONJ	_	_	1	fixed	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	deux	deux	NUM	_	Number=Plur	8	obl:mod	_	_
+5	mille	mille	NUM	_	Number=Plur	4	flat	_	_
+6	vingt-six	vingt-six	NUM	_	Number=Plur	4	flat	_	_
+7	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl:subj	_	Emph=No
+8	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	arrêter	arrêter	VERB	_	VerbForm=Inf	8	xcomp	_	_
+10	de	de	ADP	_	_	12	mark	_	_
+11	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	12	expl:pv	_	_
+12	soucier	soucier	VERB	_	VerbForm=Inf	9	xcomp	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	obl:arg	_	_
+15	que	que	PRON	_	PronType=Rel	18	obj	_	_
+16	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	17	det	_	_
+17	autres	autre	PRON	_	Number=Plur|Person=3|PronType=Ind	18	nsubj	_	_
+18	pensent	penser	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
+19	de	de	ADP	_	_	20	case	_	_
+20	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	18	obl:arg	_	_
+
+# sent_id = SEFR2005_0004_SP1_trs_ann0003_iu01
+# source = SEFR2005.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:07.683
+# end = 00:00:11.675
+# text = parce qu' en deux mille vingt-six il faut arrêter de se soucier de le regard de les inconnus
+1	parce	parce	ADV	_	ExtPos=SCONJ	8	mark	_	_
+2	qu'	que	SCONJ	_	_	1	fixed	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	deux	deux	NUM	_	Number=Plur	8	obl:mod	_	_
+5	mille	mille	NUM	_	Number=Plur	4	flat	_	_
+6	vingt-six	vingt-six	NUM	_	Number=Plur	4	flat	_	_
+7	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl:subj	_	Emph=No
+8	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	arrêter	arrêter	VERB	_	VerbForm=Inf	8	xcomp	_	_
+10	de	de	ADP	_	_	12	mark	_	_
+11	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	12	expl:pv	_	_
+12	soucier	soucier	VERB	_	VerbForm=Inf	9	xcomp	_	_
+13	de	de	ADP	_	_	15	case	_	_
+14	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	regard	regard	NOUN	_	Gender=Masc|Number=Sing	12	obl:arg	_	_
+16	de	de	ADP	_	_	18	case	_	_
+17	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
+18	inconnus	inconnu	NOUN	_	Gender=Masc|Number=Plur	15	nmod	_	_
+
+# sent_id = SEFR2005_0005_SP1_trs_ann0004_iu01
+# source = SEFR2005.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:11.997
+# end = 00:00:13.600
+# text = chaque année on prend des résolutions
+1	chaque	chaque	DET	_	Number=Sing|PronType=Ind	2	det	_	_
+2	année	année	NOUN	_	Gender=Fem|Number=Sing	4	obl:mod	_	_
+3	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	_
+4	prend	prendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	6	det	_	_
+6	résolutions	résolution	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+
+# sent_id = SEFR2005_0006_SP1_trs_ann0005_iu01
+# source = SEFR2005.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:13.940
+# end = 00:00:16.120
+# text = mais à chaque fois on n' accomplit pas nos objectifs
+1	mais	mais	CCONJ	_	_	7	cc	_	_
+2	à	à	ADP	_	_	4	case	_	_
+3	chaque	chaque	DET	_	Number=Sing|PronType=Ind	4	det	_	_
+4	fois	fois	NOUN	_	Gender=Fem|Number=Sing	7	obl:mod	_	_
+5	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	7	nsubj	_	_
+6	n'	ne	ADV	_	Polarity=Neg	7	advmod	_	_
+7	accomplit	accomplir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	_
+9	nos	son	DET	_	Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	objectifs	objectif	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+
+# sent_id = SEFR2005_0007_SP1_trs_ann0006_iu01
+# source = SEFR2005.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:16.400
+# end = 00:00:20.475
+# text = à chaque fois on n' accomplit pas nos rêves parce qu' on a trop peur de ce que les autres vont penser de nous
+1	à	à	ADP	_	_	3	case	_	_
+2	chaque	chaque	DET	_	Number=Sing|PronType=Ind	3	det	_	_
+3	fois	fois	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	_
+4	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	6	nsubj	_	_
+5	n'	ne	ADV	_	Polarity=Neg	6	advmod	_	_
+6	accomplit	accomplir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	_
+8	nos	son	DET	_	Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	rêves	rêve	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+10	parce	parce	ADV	_	ExtPos=SCONJ	13	mark	_	_
+11	qu'	que	SCONJ	_	_	10	fixed	_	_
+12	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	13	nsubj	_	_
+13	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+14	trop	trop	ADV	_	_	13	advmod	_	_
+15	peur	peur	NOUN	_	Gender=Fem|Number=Sing	13	obj:lvc	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	15	obl:arg	_	_
+18	que	que	PRON	_	PronType=Rel	22	obj	_	_
+19	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	20	det	_	_
+20	autres	autre	PRON	_	Number=Plur|Person=3|PronType=Ind	21	nsubj	_	_
+21	vont	aller	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	_
+22	penser	penser	VERB	_	VerbForm=Inf	21	xcomp	_	_
+23	de	de	ADP	_	_	24	case	_	_
+24	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	22	obl:mod	_	_
+
+# sent_id = SEFR2005_0008_SP1_trs_ann0007_iu01
+# source = SEFR2005.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:20.750
+# end = 00:00:27.286
+# text = on a peur de se lancer dans nos projets parce qu' on a peur on a peur de le regard de les inconnus qui qui vont nous oublier d' une seconde à l' autre
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+2	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	peur	peur	NOUN	_	Gender=Fem|Number=Sing	2	obj:lvc	_	_
+4	de	de	ADP	_	_	6	mark	_	_
+5	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	6	obj	_	_
+6	lancer	lancer	VERB	_	VerbForm=Inf	3	xcomp	_	_
+7	dans	dans	ADP	_	_	9	case	_	_
+8	nos	son	DET	_	Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	projets	projet	NOUN	_	Gender=Masc|Number=Plur	6	obl:arg	_	_
+10	parce	parce	ADV	_	ExtPos=SCONJ	16	mark	_	_
+11	qu'	que	SCONJ	_	_	10	fixed	_	_
+12	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	13	nsubj	_	_
+13	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	reparandum	_	_
+14	peur	peur	NOUN	_	Gender=Fem|Number=Sing	13	obj:lvc	_	_
+15	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	16	nsubj	_	_
+16	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+17	peur	peur	NOUN	_	Gender=Fem|Number=Sing	16	obj:lvc	_	_
+18	de	de	ADP	_	_	20	case	_	_
+19	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	regard	regard	NOUN	_	Gender=Masc|Number=Sing	17	obl:arg	_	_
+21	de	de	ADP	_	_	23	case	_	_
+22	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	23	det	_	_
+23	inconnus	inconnu	NOUN	_	Gender=Masc|Number=Plur	20	nmod	_	_
+24	qui	qui	PRON	_	PronType=Rel	25	reparandum	_	_
+25	qui	qui	PRON	_	PronType=Rel	26	nsubj	_	_
+26	vont	aller	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	_
+27	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	28	obj	_	_
+28	oublier	oublier	VERB	_	VerbForm=Inf	26	xcomp	_	_
+29	d'	de	ADP	_	_	31	case	_	_
+30	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
+31	seconde	second	ADJ	_	Gender=Fem|Number=Sing	28	obl:mod	_	_
+32	à	à	ADP	_	_	34	case	_	_
+33	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	34	det	_	_
+34	autre	autre	PRON	_	Number=Sing|Person=3|PronType=Ind	31	nmod	_	_
+
+# sent_id = SEFR2005_0009_SP1_trs_ann0008_iu01
+# source = SEFR2005.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:27.550
+# end = 00:00:29.000
+# text = je sais pas si vous voyez ce que je veux dire
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Emph=No
+2	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pas	pas	ADV	_	Polarity=Neg	2	advmod	_	_
+4	si	si	SCONJ	_	_	6	mark	_	_
+5	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	_
+6	voyez	voir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+7	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	obj	_	_
+8	que	que	PRON	_	PronType=Rel	11	obj	_	_
+9	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Emph=No
+10	veux	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	dire	dire	VERB	_	VerbForm=Inf	10	xcomp	_	_
+
+# sent_id = SEFR2005_0010_SP1_trs_ann0009_iu01
+# source = SEFR2005.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 9
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:29.170
+# end = 00:00:30.930
+# text = mais cette vie elle est trop courte
+1	mais	mais	CCONJ	_	_	7	cc	_	_
+2	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+3	vie	vie	NOUN	_	Gender=Fem|Number=Sing	7	dislocated	_	_
+4	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Emph=No
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	trop	trop	ADV	_	_	7	advmod	_	_
+7	courte	court	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2005_0011_SP1_trs_ann0010_iu01
+# source = SEFR2005.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:31.040
+# end = 00:00:32.460
+# text = ce soir on peut être mort
+1	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	soir	soir	NOUN	_	Gender=Masc|Number=Sing	4	obl:mod	_	_
+3	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	_
+4	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	être	être	AUX	_	VerbForm=Inf	6	aux	_	_
+6	mort	mourir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	xcomp	_	_
+
+# sent_id = SEFR2005_0012_SP1_trs_ann0011_iu01
+# source = SEFR2005.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:32.610
+# end = 00:00:33.880
+# text = demain tu peux mourir
+1	demain	demain	ADV	_	_	3	advmod	_	_
+2	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Emph=No
+3	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	mourir	mourir	VERB	_	VerbForm=Inf	3	xcomp	_	_
+
+# sent_id = SEFR2005_0013_SP1_trs_ann0012_iu01
+# source = SEFR2005.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 12
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:33.930
+# end = 00:00:35.900
+# text = ça se trouve que tu peux même pas finir l' année
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	se	soi	PRON	_	Person=3|PronType=Prs	3	expl:pv	_	_
+3	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	6	mark	_	_
+5	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Emph=No
+6	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	même	même	ADV	_	_	6	advmod	_	_
+8	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	_
+9	finir	finir	VERB	_	VerbForm=Inf	6	xcomp	_	_
+10	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
+11	année	année	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+
+# sent_id = SEFR2005_0014_SP1_trs_ann0013_iu01
+# source = SEFR2005.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 13
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:35.920
+# end = 00:00:37.760
+# text = et toi tu te soucies de le regard de les autres
+1	et	et	CCONJ	_	_	5	cc	_	_
+2	toi	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	5	dislocated	_	_
+3	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Emph=No
+4	te	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	5	expl:pv	_	Emph=No
+5	soucies	soucevoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	regard	regard	NOUN	_	Gender=Masc|Number=Sing	5	obl:arg	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
+11	autres	autre	PRON	_	Number=Plur|Person=3|PronType=Ind	8	nmod	_	_
+
+# sent_id = SEFR2005_0015_SP1_trs_ann0014_iu01
+# source = SEFR2005.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 14
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:37.930
+# end = 00:00:41.790
+# text = tu te soucies de le regard de personnes qui vont t' oublier d' une seconde à l' autre
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Emph=No
+2	te	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	3	expl:pv	_	Emph=No
+3	soucies	soucevoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	regard	regard	NOUN	_	Gender=Masc|Number=Sing	3	obl:arg	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	personnes	personne	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	_
+9	qui	qui	PRON	_	PronType=Rel	10	nsubj	_	_
+10	vont	aller	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+11	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	12	obj	_	Emph=No
+12	oublier	oublier	VERB	_	VerbForm=Inf	10	xcomp	_	_
+13	d'	de	ADP	_	_	15	case	_	_
+14	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	seconde	second	ADJ	_	Gender=Fem|Number=Sing	12	obl:mod	_	_
+16	à	à	ADP	_	_	18	case	_	_
+17	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	18	det	_	_
+18	autre	autre	PRON	_	Number=Sing|Person=3|PronType=Ind	15	nmod	_	_
+
+# sent_id = SEFR2005_0016_SP1_trs_ann0015_iu01
+# source = SEFR2005.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 15
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:42.120
+# end = 00:00:49.375
+# text = et aujourd'hui on est dans une génération où il y a tout le monde qui veut plaire à les autres où il y a tout le monde qui se cache sous des masques où tout le monde veut satisfaire les autres
+1	et	et	CCONJ	_	_	7	cc	_	_
+2	aujourd'hui	aujourd'hui	ADV	_	_	7	advmod	_	_
+3	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	7	nsubj	_	_
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	dans	dans	ADP	_	_	7	case	_	_
+6	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	génération	génération	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+8	où	où	PRON	_	PronType=Rel	11	obl:mod	_	_
+9	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl:subj	_	Emph=No
+10	y	y	PRON	_	Person=3|PronType=Prs	11	expl:comp	_	_
+11	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl:cleft	_	_
+12	tout	tout	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	_
+13	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	monde	monde	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+15	qui	qui	PRON	_	PronType=Rel	16	nsubj	_	_
+16	veut	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
+17	plaire	plaire	VERB	_	VerbForm=Inf	16	xcomp	_	_
+18	à	à	ADP	_	_	20	case	_	_
+19	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	20	det	_	_
+20	autres	autre	PRON	_	Number=Plur|Person=3|PronType=Ind	17	obl:arg	_	_
+21	où	où	PRON	_	PronType=Rel	24	obl:mod	_	_
+22	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	expl:subj	_	Emph=No
+23	y	y	PRON	_	Person=3|PronType=Prs	24	expl:comp	_	_
+24	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	parataxis	_	_
+25	tout	tout	ADJ	_	Gender=Masc|Number=Sing	27	amod	_	_
+26	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+27	monde	monde	NOUN	_	Gender=Masc|Number=Sing	24	obj	_	_
+28	qui	qui	PRON	_	PronType=Rel	30	nsubj	_	_
+29	se	soi	PRON	_	Person=3|PronType=Prs	30	expl:pv	_	_
+30	cache	cacher	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	acl:relcl	_	_
+31	sous	sous	ADP	_	_	33	case	_	_
+32	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	33	det	_	_
+33	masques	masque	NOUN	_	Gender=Masc|Number=Plur	30	obl:mod	_	_
+34	où	où	PRON	_	PronType=Rel	38	obl:mod	_	_
+35	tout	tout	ADJ	_	Gender=Masc|Number=Sing	37	amod	_	_
+36	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
+37	monde	monde	NOUN	_	Gender=Masc|Number=Sing	38	nsubj	_	_
+38	veut	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	parataxis	_	_
+39	satisfaire	satisfaire	VERB	_	VerbForm=Inf	38	xcomp	_	_
+40	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	41	det	_	_
+41	autres	autre	PRON	_	Number=Plur|Person=3|PronType=Ind	39	obj	_	_
+
+# sent_id = SEFR2005_0017_SP1_trs_ann0016_iu01
+# source = SEFR2005.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 16
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:49.470
+# end = 00:00:52.460
+# text = mais qu' est -ce qu' on s' en bat les couilles de plaire à des gens qui vont nous oublier
+1	mais	mais	CCONJ	_	_	2	cc	_	_
+2	qu'	que	PRON	_	PronType=Int	0	root	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+4	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	expl:subj	_	_
+5	qu'	que	SCONJ	_	_	9	mark	_	_
+6	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	9	nsubj	_	_
+7	s'	soi	PRON	_	Person=3|PronType=Prs	9	expl:pv	_	_
+8	en	en	PRON	_	Person=3|PronType=Prs	9	expl:comp	_	_
+9	bat	battre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl:cleft	_	_
+10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
+11	couilles	couille	NOUN	_	Gender=Fem|Number=Plur	9	obj:lvc	_	_
+12	de	de	ADP	_	_	13	mark	_	_
+13	plaire	plaire	VERB	_	VerbForm=Inf	9	xcomp	_	_
+14	à	à	ADP	_	_	16	case	_	_
+15	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	16	det	_	_
+16	gens	gens	NOUN	_	Gender=Masc|Number=Plur	13	obl:arg	_	_
+17	qui	qui	PRON	_	PronType=Rel	18	nsubj	_	_
+18	vont	aller	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
+19	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	20	obj	_	_
+20	oublier	oublier	VERB	_	VerbForm=Inf	18	xcomp	_	_
+
+# sent_id = SEFR2005_0018_SP1_trs_ann0017_iu01
+# source = SEFR2005.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 17
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:52.680
+# end = 00:00:56.800
+# text = qu' est -ce qu' on s' en bat les couilles de satisfaire de les gens qui vont rien nous apporter dans notre vie
+1	qu'	que	PRON	_	PronType=Int	0	root	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	1	expl:subj	_	_
+4	qu'	que	SCONJ	_	_	8	mark	_	_
+5	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	8	nsubj	_	_
+6	s'	soi	PRON	_	Person=3|PronType=Prs	8	expl:pv	_	_
+7	en	en	PRON	_	Person=3|PronType=Prs	8	expl:comp	_	_
+8	bat	battre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl:cleft	_	_
+9	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
+10	couilles	couille	NOUN	_	Gender=Fem|Number=Plur	8	obj:lvc	_	_
+11	de	de	ADP	_	_	12	mark	_	_
+12	satisfaire	satisfaire	VERB	_	VerbForm=Inf	8	xcomp	_	_
+13	de	de	ADP	_	_	15	case	_	_
+14	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	15	det	_	_
+15	gens	gens	NOUN	_	Gender=Masc|Number=Plur	12	obl:arg	_	_
+16	qui	qui	PRON	_	PronType=Rel	17	nsubj	_	_
+17	vont	aller	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
+18	rien	rien	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	20	obj	_	_
+19	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	20	iobj	_	_
+20	apporter	apporter	VERB	_	VerbForm=Inf	17	xcomp	_	_
+21	dans	dans	ADP	_	_	23	case	_	_
+22	notre	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	23	det	_	_
+23	vie	vie	NOUN	_	Gender=Fem|Number=Sing	20	obl:mod	_	_
+
+# sent_id = SEFR2005_0019_SP1_trs_ann0018_iu01
+# source = SEFR2005.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 18
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:56.940
+# end = 00:01:00.220
+# text = aujourd'hui les gens ils se cachent derrière des masques et ils veulent plaire à les autres
+1	aujourd'hui	aujourd'hui	ADV	_	_	6	advmod	_	_
+2	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+3	gens	gens	NOUN	_	Gender=Masc|Number=Plur	6	dislocated	_	_
+4	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	Emph=No
+5	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	6	expl:pv	_	_
+6	cachent	cacher	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	derrière	derrière	ADP	_	_	9	case	_	_
+8	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	9	det	_	_
+9	masques	masque	NOUN	_	Gender=Masc|Number=Plur	6	obl:mod	_	_
+10	et	et	CCONJ	_	_	12	cc	_	_
+11	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	Emph=No
+12	veulent	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+13	plaire	plaire	VERB	_	VerbForm=Inf	12	xcomp	_	_
+14	à	à	ADP	_	_	16	case	_	_
+15	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	16	det	_	_
+16	autres	autre	PRON	_	Number=Plur|Person=3|PronType=Ind	13	obl:arg	_	_
+
+# sent_id = SEFR2005_0020_SP1_trs_ann0019_iu01
+# source = SEFR2005.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 19
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:00.560
+# end = 00:01:02.240
+# text = je vous jure vivez votre vie à fond
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+2	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	3	iobj	_	_
+3	jure	jurer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	vivez	vivre	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+5	votre	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs	6	det	_	_
+6	vie	vie	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	à	à	ADP	_	_	8	case	_	_
+8	fond	fond	NOUN	_	Gender=Masc|Number=Sing	4	obl:mod	_	_
+
+# sent_id = SEFR2005_0021_SP1_trs_ann0020_iu01
+# source = SEFR2005.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 20
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:02.290
+# end = 00:01:04.660
+# text = profitez de chaque jour comme si c' était le dernier
+1	profitez	profiter	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	chaque	chaque	DET	_	Number=Sing|PronType=Ind	4	det	_	_
+4	jour	jour	NOUN	_	Gender=Masc|Number=Sing	1	obl:mod	_	_
+5	comme	comme	SCONJ	_	_	10	mark	_	_
+6	si	si	SCONJ	_	_	10	mark	_	_
+7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	nsubj	_	_
+8	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	dernier	dernier	ADJ	_	Gender=Masc|Number=Sing	1	advcl	_	_
+
+# sent_id = SEFR2005_0022_SP1_trs_ann0021_iu01
+# source = SEFR2005.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 21
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:04.720
+# end = 00:01:06.480
+# text = et s' en bat les couilles de le regard de les autres
+1	et	et	CCONJ	_	_	4	cc	_	_
+2	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
+3	en	en	PRON	_	Person=3|PronType=Prs	4	expl:comp	_	_
+4	bat	battre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+6	couilles	couille	NOUN	_	Gender=Fem|Number=Plur	4	obj:lvc	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	regard	regard	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
+12	autres	autre	PRON	_	Number=Plur|Person=3|PronType=Ind	9	nmod	_	_
+

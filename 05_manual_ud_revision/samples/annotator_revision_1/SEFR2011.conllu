@@ -1,0 +1,351 @@
+# sent_id = SEFR2011_0001_SP2_trs_ann0001_iu01
+# source = SEFR2011.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:06.184
+# end = 00:00:07.586
+# text = ah ça pue le choux-fleur
+1	ah	ah	INTJ	_	_	3	discourse	_	_
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+3	pue	puer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	choux-fleur	choux-fleur	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+
+# sent_id = SEFR2011_0002_SP2_trs_ann0002_iu01
+# source = SEFR2011.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:07.600
+# end = 00:00:08.995
+# text = y a un problème d' égout je crois là
+1	y	y	PRON	_	Person=3|PronType=Prs	2	expl:comp	_	_
+2	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	problème	problème	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	d'	de	ADP	_	_	6	case	_	_
+6	égout	égout	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Emph=No
+8	crois	croire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+9	là	là	ADV	_	_	2	advmod	_	_
+
+# sent_id = SEFR2011_0003_SP3_trs_ann0001_iu01
+# source = SEFR2011.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:08.950
+# end = 00:00:11.682
+# text = d' un coup il y a une odeur de merde extraordinaire
+1	d'	de	ADP	_	_	3	case	_	_
+2	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	coup	coup	NOUN	_	Gender=Masc|Number=Sing	6	discourse	_	_
+4	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	Emph=No
+5	y	y	PRON	_	Person=3|PronType=Prs	6	expl:comp	_	_
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	odeur	odeur	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	merde	merde	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+11	extraordinaire	extraordinaire	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_
+
+# sent_id = SEFR2011_0004_SP3_trs_ann0002_iu01
+# source = SEFR2011.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:11.682
+# end = 00:00:12.880
+# text = on savait pas d' où ça venait
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+2	savait	savoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	pas	pas	ADV	_	Polarity=Neg	2	advmod	_	_
+4	d'	de	ADP	_	_	5	case	_	_
+5	où	où	PRON	_	PronType=Rel	7	obl:arg	_	_
+6	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	_
+7	venait	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+
+# sent_id = SEFR2011_0005_SP3_trs_ann0003_iu01
+# source = SEFR2011.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:12.880
+# end = 00:00:15.721
+# text = mais je peux vous dire que si ça vient d' un humain il va très très mal
+1	mais	mais	CCONJ	_	_	3	cc	_	_
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+3	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	5	iobj	_	_
+5	dire	dire	VERB	_	VerbForm=Inf	3	xcomp	_	_
+6	que	que	SCONJ	_	_	14	mark	_	_
+7	si	si	SCONJ	_	_	9	mark	_	_
+8	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	_
+9	vient	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+10	d'	de	ADP	_	_	12	case	_	_
+11	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	humain	humain	NOUN	_	Gender=Masc|Number=Sing	9	obl:arg	_	_
+13	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Emph=No
+14	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+15	très	très	ADV	_	_	16	advmod	_	_
+16	très	très	ADV	_	_	17	advmod	_	_
+17	mal	mal	ADV	_	_	14	advmod	_	_
+
+# sent_id = SEFR2011_0006_SP3_trs_ann0004_iu01
+# source = SEFR2011.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:15.825
+# end = 00:00:17.424
+# text = il lui reste pas longtemps à vivre hein
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	Emph=No
+2	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	Emph=No
+3	reste	rester	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_
+5	longtemps	longtemps	ADV	_	_	3	advmod	_	_
+6	à	à	ADP	_	_	7	mark	_	_
+7	vivre	vivre	VERB	_	VerbForm=Inf	3	xcomp	_	_
+8	hein	hein	INTJ	_	_	3	discourse	_	_
+
+# sent_id = SEFR2011_0007_SP4_trs_ann0001_iu01
+# source = SEFR2011.eaf
+# tool = Stanza
+# tier = SP4_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:18.587
+# end = 00:00:18.920
+# text = oh
+1	oh	oh	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2011_0008_SP4_trs_ann0002_iu01
+# source = SEFR2011.eaf
+# tool = Stanza
+# tier = SP4_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:20.240
+# end = 00:00:20.761
+# text = pardon
+1	pardon	pardon	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2011_0009_SP4_trs_ann0003_iu01
+# source = SEFR2011.eaf
+# tool = Stanza
+# tier = SP4_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:22.706
+# end = 00:00:23.217
+# text = c' est ma faute
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	ma	mon	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	faute	faute	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2011_0010_SP4_trs_ann0004_iu01
+# source = SEFR2011.eaf
+# tool = Stanza
+# tier = SP4_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:23.217
+# end = 00:00:24.608
+# text = j' ai secoué edgard dans tous les sens
+1	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+2	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	secoué	secouer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	edgard	edgard	PROPN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	dans	dans	ADP	_	_	8	case	_	_
+6	tous	tout	ADJ	_	Gender=Masc|Number=Plur	8	amod	_	_
+7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
+8	sens	sens	NOUN	_	Gender=Masc|Number=Plur	3	obl:mod	_	_
+
+# sent_id = SEFR2011_0011_SP4_trs_ann0005_iu01
+# source = SEFR2011.eaf
+# tool = Stanza
+# tier = SP4_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:24.891
+# end = 00:00:25.740
+# text = ça lui fout des gaz
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	Emph=No
+3	fout	fourir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	5	det	_	_
+5	gaz	gaz	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+
+# sent_id = SEFR2011_0012_SP4_trs_ann0006_iu01
+# source = SEFR2011.eaf
+# tool = Stanza
+# tier = SP4_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:25.740
+# end = 00:00:26.608
+# text = pardon à tous
+1	pardon	pardon	NOUN	_	_	0	root	_	_
+2	à	à	ADP	_	_	3	case	_	_
+3	tous	tout	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Ind	1	nmod	_	_
+
+# sent_id = SEFR2011_0013_display_trs_ann0001_iu01
+# source = SEFR2011.eaf
+# tool = Stanza
+# tier = display_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:27.820
+# end = 00:00:30.340
+# text = après une bonne aération le bal va commencer
+1	après	après	ADP	_	_	4	case	_	_
+2	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	bonne	bon	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+4	aération	aération	NOUN	_	Gender=Fem|Number=Sing	7	obl:mod	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	bal	bal	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+7	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	commencer	commencer	VERB	_	VerbForm=Inf	7	xcomp	_	_
+
+# sent_id = SEFR2011_0014_display_trs_ann0002_iu01
+# source = SEFR2011.eaf
+# tool = Stanza
+# tier = display_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:30.340
+# end = 00:00:32.420
+# text = les invités vont pouvoir danser sur la piste
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
+2	invités	invité	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	vont	aller	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	pouvoir	pouvoir	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	danser	danser	VERB	_	VerbForm=Inf	4	xcomp	_	_
+6	sur	sur	ADP	_	_	8	case	_	_
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	piste	piste	NOUN	_	Gender=Fem|Number=Sing	5	obl:mod	_	_
+
+# sent_id = SEFR2011_0015_SP5_trs_ann0001_iu01
+# source = SEFR2011.eaf
+# tool = Stanza
+# tier = SP5_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:32.430
+# end = 00:00:36.210
+# text = ok maintenant je veux voir tout le monde danser
+1	ok	ok	INTJ	_	_	4	discourse	_	_
+2	maintenant	maintenant	ADV	_	_	4	advmod	_	_
+3	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Emph=No
+4	veux	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	voir	voir	VERB	_	VerbForm=Inf	4	xcomp	_	_
+6	tout	tout	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	monde	monde	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+9	danser	danser	VERB	_	VerbForm=Inf	5	xcomp	_	_
+
+# sent_id = SEFR2011_0016_SP5_trs_ann0002_iu01
+# source = SEFR2011.eaf
+# tool = Stanza
+# tier = SP5_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:36.210
+# end = 00:00:37.310
+# text = tout le monde sur le dance floor
+1	tout	tout	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	monde	monde	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	sur	sur	ADP	_	_	6	case	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	dance	dance	X	_	Foreign=Yes	3	nmod	_	_
+7	floor	floor	X	_	Foreign=Yes	6	flat:foreign	_	_
+
+# sent_id = SEFR2011_0017_SP5_trs_ann0003_iu01
+# source = SEFR2011.eaf
+# tool = Stanza
+# tier = SP5_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:37.310
+# end = 00:00:40.020
+# text = allez allez allez allez allez allez allez allez allez allez
+1	allez	aller	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	allez	aller	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+3	allez	aller	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+4	allez	aller	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+5	allez	aller	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
+6	allez	aller	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
+7	allez	aller	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	parataxis	_	_
+8	allez	aller	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7	parataxis	_	_
+9	allez	aller	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	parataxis	_	_
+10	allez	aller	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	parataxis	_	_
+
+# sent_id = SEFR2011_0018_SP5_trs_ann0004_iu01
+# source = SEFR2011.eaf
+# tool = Stanza
+# tier = SP5_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:40.020
+# end = 00:00:41.040
+# text = faut que ça danse
+1	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	4	mark	_	_
+3	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+4	danse	danser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+
+# sent_id = SEFR2011_0019_SP5_trs_ann0005_iu01
+# source = SEFR2011.eaf
+# tool = Stanza
+# tier = SP5_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:41.040
+# end = 00:00:42.250
+# text = faut que ça bounce
+1	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	4	mark	_	_
+3	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+4	bounce	bouncer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+
+# sent_id = SEFR2011_0020_SP5_trs_ann0006_iu01
+# source = SEFR2011.eaf
+# tool = Stanza
+# tier = SP5_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:42.366
+# end = 00:00:42.962
+# text = ha ha
+1	ha	ha	INTJ	_	_	0	root	_	_
+2	ha	ha	INTJ	_	_	1	dep	_	_
+

@@ -1,0 +1,169 @@
+# sent_id = SEFR2030_0001_SP1_trs_ann0001_iu01
+# source = SEFR2030.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.610
+# end = 00:00:00.913
+# text = et oui
+1	et	et	CCONJ	_	_	2	cc	_	_
+2	oui	oui	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2030_0002_SP1_trs_ann0002_iu01
+# source = SEFR2030.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.913
+# end = 00:00:01.548
+# text = la première connerie
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	première	premier	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+3	connerie	connerie	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2030_0003_SP1_trs_ann0003_iu01
+# source = SEFR2030.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:01.548
+# end = 00:00:06.800
+# text = suite à une dernière mise à jour il y a eu un nouveau piège qui est apparu dans un nouvel endroit de la maison de granny
+1	suite	suite	NOUN	_	ExtPos=ADP	5	case	_	_
+2	à	à	ADP	_	_	1	fixed	_	_
+3	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	dernière	dernier	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+5	mise	mise	NOUN	_	Gender=Fem|Number=Sing	11	obl:mod	_	_
+6	à	à	ADP	_	_	7	case	_	_
+7	jour	jour	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+8	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl:subj	_	Emph=No
+9	y	y	PRON	_	Person=3|PronType=Prs	11	expl:comp	_	_
+10	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:tense	_	_
+11	eu	avoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+12	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+13	nouveau	nouveau	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	_
+14	piège	piège	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+15	qui	qui	PRON	_	PronType=Rel	17	nsubj	_	_
+16	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux:tense	_	_
+17	apparu	apparaître	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	acl:relcl	_	_
+18	dans	dans	ADP	_	_	21	case	_	_
+19	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+20	nouvel	nouveau	ADJ	_	Gender=Masc|Number=Sing	21	amod	_	_
+21	endroit	endroit	NOUN	_	Gender=Masc|Number=Sing	17	obl:mod	_	_
+22	de	de	ADP	_	_	24	case	_	_
+23	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+24	maison	maison	NOUN	_	Gender=Fem|Number=Sing	21	nmod	_	_
+25	de	de	ADP	_	_	26	case	_	_
+26	granny	granny	PROPN	_	Gender=Masc|Number=Sing	24	nmod	_	_
+
+# sent_id = SEFR2030_0004_display_written_ann0001_iu01
+# source = SEFR2030.eaf
+# tool = Stanza
+# tier = display_written
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:04.779
+# end = 00:00:06.327
+# text = DAY 1
+1	DAY	DAY	NOUN	_	_	0	root	_	_
+2	1	1	NUM	_	Number=Sing|NumType=Card	1	nmod	_	_
+
+# sent_id = SEFR2030_0005_SP1_trs_ann0004_iu01
+# source = SEFR2030.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:06.800
+# end = 00:00:07.880
+# text = c'est la maison d'angelène
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	maison	maison	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	d'	de	ADP	_	_	6	case	_	_
+6	angelène	angelène	PROPN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+
+# sent_id = SEFR2030_0006_SP1_trs_ann0005_iu01
+# source = SEFR2030.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:07.880
+# end = 00:00:10.327
+# text = et il y a un piège qui frise complètement granny
+1	et	et	CCONJ	_	_	4	cc	_	_
+2	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	Emph=No
+3	y	y	PRON	_	Person=3|PronType=Prs	4	expl:comp	_	_
+4	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	piège	piège	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	qui	qui	PRON	_	PronType=Rel	8	nsubj	_	_
+8	frise	frise	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+9	complètement	complètement	ADV	_	_	8	advmod	_	_
+10	granny	granny	PROPN	_	Gender=Masc|Number=Sing	8	obj	_	_
+
+# sent_id = SEFR2030_0007_SP1_trs_ann0006_iu01
+# source = SEFR2030.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:10.327
+# end = 00:00:11.520
+# text = qui la congèle complètement
+1	qui	qui	PRON	_	PronType=Rel	3	nsubj	_	_
+2	la	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	Emph=No
+3	congèle	congéler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	complètement	complètement	ADV	_	_	3	advmod	_	_
+
+# sent_id = SEFR2030_0008_SP1_trs_ann0007_iu01
+# source = SEFR2030.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:11.520
+# end = 00:00:13.269
+# text = on va essayer de prendre ce piège
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+2	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	essayer	essayer	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	de	de	ADP	_	_	5	mark	_	_
+5	prendre	prendre	VERB	_	VerbForm=Inf	3	xcomp	_	_
+6	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+7	piège	piège	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+
+# sent_id = SEFR2030_0009_SP1_trs_ann0008_iu01
+# source = SEFR2030.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:13.269
+# end = 00:00:14.000
+# text = parce qu'en plus je ne l'ai jamais fait
+1	parce	parce	ADV	_	ExtPos=SCONJ	10	mark	_	_
+2	qu'	que	SCONJ	_	_	1	fixed	_	_
+3	en	en	ADP	_	_	10	advmod	_	_
+4	plus	plus	ADV	_	_	3	fixed	_	_
+5	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Emph=No
+6	ne	ne	ADV	_	Polarity=Neg	10	advmod	_	_
+7	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	10	obj	_	Emph=No
+8	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux:tense	_	_
+9	jamais	jamais	ADV	_	Polarity=Neg|PronType=Neg	10	advmod	_	_
+10	fait	faire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+

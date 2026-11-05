@@ -1,0 +1,33 @@
+id,group,excessive,survey,survey_vid_number,Speaker name,Speaker_profession,file_name_in_pilot_corpus,uniformised_filename,accros_version,external_links,index
+ex-s08-artus-c,5,True,s,vid8,Artus,comedian,0-Artus,fr-exc-youtube-comedic-artus-a,,,22
+ex-s09-boon,1,True,s,vid9,DanyBoon,comedian,0-DanyBoon,fr-exc-youtbue-comedic-danyboon,,,2
+ex-s07-domi-yani,1,True,s,vid7,DomiYani,influencer,0-DomiYani,fr-exc-youtube-influencer-domiyani,SensEx1.0,,1
+nex-s04-fabian-d,5,False,s,vid4,Fabian,influencer,0-FabianGhennam,fr-nexc-youtube-influencer-fabiancr-maevaghennam,,,23
+nex-ns-maeva-b-a,7,False,s,vid3,MaevaGhennam,influencer,0-MaevaVagin,fr-nexc-youtube-influencer-maevaghennam-ext19sec,,,31
+nex-s06-sananas-c,2,False,s,vid6,Sananas,influencer,0-Sananas,fr-nexc-youtube-influencer-sananas-a,SensEx1.0,,11
+nex-s02-sananas-a,1,False,s,vid2,Sananas,influencer,0-SANANAS-2,fr-nexc-youtube-influencer-sananas-b,SensEx1.0,,3
+ex-s01-fraisou,6,True,s,vid1,SarahFraisou,influencer,0-SARAHFRAISOU,fr-exc-youtube-influencer-sarahfraisou,,https://youtu.be/Dsa11bDdXcM?si=cHNlv81ec9Acnz6z ,25
+ex-s10-angelvy-a,2,True,s,vid10,ThomasAngelvy,comedian,0-ThomasAngelvy,fr-exc-tiktok-comedic-thomasangelvy-ext63sec,,,5
+ex-s05-tibo-a,3,True,s,vid5,TiboInShape,influencer,0-TiboInShape,fr-exc-youtube-influencer-tiboinshape,,,13
+ex-ns-sylla-a,7,True,ns,,AhmedSylla,comedian,1-exc_AhmedSylla,fr-exc-youtube-comedic-ahmedsylla,,,30
+ex-ns-arnaud-jerome-a,3,True,ns,,ArnaudJerome,teacher,1-exc_ArnaudJerome,fr-exc-youtube-talk-arnaudjerome,,,14
+ex-ns-artus-a,4,True,ns,,Artus,comedian,1-exc_Artus,fr-exc-youtube-comedic-artus-b,,https://www.youtube.com/watch?v=egM-wlaobjo&ab_channel=MontreuxComedy,18
+ex-ns-fabian-a,4,True,ns,,Fabian,influencer,1-exc_Fabian,fr-exc-youtube-influencer-fabiancr-nars,,https://www.youtube.com/watch?v=j7zng8a2PKk&ab_channel=FabianCR,17
+ex-ns-fabian-c,5,True,ns,,Fabian,influencer,1-exc_FabianGhennam,fr-exc-youtube-influencer-fabiancr-maevaghennam,,,21
+ex-ns-bigard,6,True,ns,,JMBigard,comedian,1-exc_JMBigard,,,https://youtu.be/Kmxqqvcm-Jc?si=Q1lWSezmdfWxF3hk,26
+ex-ns-maeva-a,2,True,ns,,MaevaGhennam,influencer,1-exc_MaevaTiktok,fr-exc-tiktok-influencer-maevaghennam,,https://www.tiktok.com/@rap.qui.peut/video/7103915344565161222?_r=1&_t=ZN-8tc9wIjoGaV,7
+ex-ns-maeva-a-b,2,True,ns,,MaevaGhennam,influencer,1-exc_MaevaTiktok_Vagin_43sec,merged video,,,9
+ex-ns-maeva-b-b,7,True,ns,,MaevaGhennam,influencer,1-exc_MaevaVagin_22sec,fr-exc-youtube-influencer-maevaghennam-ext22sec,,,29
+ex-ns-maeva-b,2,True,ns,,MaevaGhennam,influencer,1-exc_MaevaVagin_43sec,fr-exc-youtube-influencer-maevaghennam-ext43sec,,,8
+ex-ns-angelvy-b,2,True,ns,,ThomasAngelvy,comedian,1-exc_ThomasAngelvy_long,fr-exc-tiktok-comedic-thomasangelvy-ext91sec,,https://www.tiktok.com/@thomasangelvy/video/7439773069251546400?_r=1&_t=ZN-8tVH2WIdWNS,6
+nex-ns-sylla-b,7,False,ns,,AhmedSylla,comedian,2-nexc_AhmedSylla,fr-nexc-youtube-comedic-ahmedsylla,,,32
+nex-ns-arnaud-jerome-b,3,False,ns,,ArnaudJerome,teacher,2-nexc_ArnaudJerome,fr-nexc-youtube-talk-arnaudjerome,,,16
+nex-ns-artus-b,4,False,ns,,Artus,comedian,2-nexc_Artus_a,fr-nexc-youtube-comedic-artus-c,,,20
+nex-ns-artus-d,5,False,ns,,Artus,comedian,2-nexc_Artus_b,fr-nexc-youtube-comedic-artus-d,,,24
+nex-ns-fabian-b,4,False,ns,,Fabian,influencer,2-nexc_Fabian,fr-nexc-youtube-influencer-fabiancr-nars,,https://www.youtube.com/watch?v=j7zng8a2PKk&ab_channel=FabianCR,19
+nex-ns-elmaleh,1,False,ns,,GadElmaleh,comedian,2-nexc_GadElmaleh,fr-nexc-youtube-comedic-gadelmaleh,,,4
+nex-ns-bentalha,2,False,ns,,MalikBentalha,comedian,2-nexc_MalikBentalha,fr-nexc-youtube-comedic-malikbentalha,,,12
+nex-ns-benattia,6,False,ns,,NabillaBenattia,influencer,2-nexc_NabillaBenattia,fr-nexc-facebook-influencer-nabillabenattia,,,28
+nex-ns-devos,6,False,ns,,RaymondDevos,comedian,2-nexc_RaymondDevos,fr-nexc-youtube-comedic-raymonddevos,,https://youtu.be/hz5xWgjSUlk ,27
+nex-ns-sananas-b,2,False,ns,,Sananas,influencer,2-nexc_Sananas,fr-nexc-youtube-influencer-sananas-c,,https://youtube.com/clip/UgkxYyerUlMbzCdfDVeJ7wJjv34-aUNOL0YT?si=o63Ydn2id440Tf9_ [placement8]-[groupe2]-[Sananas]-[FOURMAUX],10
+nex-ns-tibo-b,3,False,ns,,TiboInShape,influencer,2-nexc_TiboInShape,fr-nexc-youtube-influencer-tiboinshape,,,15

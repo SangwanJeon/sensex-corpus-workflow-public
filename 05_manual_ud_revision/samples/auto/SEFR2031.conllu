@@ -1,0 +1,677 @@
+# sent_id = SEFR2031_0001_SP1_trs_ann0001_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.010
+# end = 00:00:03.120
+# text = alors dans cette boîte qu'est-ce qu'on peut avoir
+1	alors	alors	ADV	_	_	5	cc	_	_
+2	dans	dans	ADP	_	_	4	case	_	_
+3	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+4	boîte	boîte	NOUN	_	Gender=Fem|Number=Sing	5	obl:mod	_	_
+5	qu'	que	PRON	_	PronType=Int	0	root	_	_
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+7	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	expl:subj	_	_
+8	qu'	que	SCONJ	_	_	10	mark	_	_
+9	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	nsubj	_	_
+10	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl:cleft	_	_
+11	avoir	avoir	VERB	_	VerbForm=Inf	10	xcomp	_	_
+
+# sent_id = SEFR2031_0002_SP1_trs_ann0002_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:03.140
+# end = 00:00:07.440
+# text = déjà euh vous allez aussi pouvoir m'aider à savoir euh quelles cartes sont les plus rares
+1	déjà	déjà	ADV	_	_	4	advmod	_	_
+2	euh	euh	INTJ	_	_	1	discourse	_	_
+3	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
+4	allez	aller	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	aussi	aussi	ADV	_	_	4	advmod	_	_
+6	pouvoir	pouvoir	VERB	_	VerbForm=Inf	4	xcomp	_	_
+7	m'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	obj	_	Emph=No
+8	aider	aider	VERB	_	VerbForm=Inf	6	xcomp	_	_
+9	à	à	ADP	_	_	10	mark	_	_
+10	savoir	savoir	VERB	_	VerbForm=Inf	8	advcl	_	_
+11	euh	euh	INTJ	_	_	17	discourse	_	_
+12	quelles	quel	DET	_	Gender=Fem|Number=Plur|PronType=Int	13	det	_	_
+13	cartes	carte	NOUN	_	Gender=Fem|Number=Plur	17	nsubj	_	_
+14	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+15	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	17	det	_	_
+16	plus	plus	ADV	_	_	17	advmod	_	_
+17	rares	rare	ADJ	_	Number=Plur	10	ccomp	_	_
+
+# sent_id = SEFR2031_0003_SP1_trs_ann0003_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:08.130
+# end = 00:00:13.380
+# text = mais évidemment vous le savez les gars l'objectif c'est le dracaufeu holographique
+1	mais	mais	CCONJ	_	_	5	cc	_	_
+2	évidemment	évidemment	ADV	_	_	5	advmod	_	_
+3	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_
+4	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	Emph=No
+5	savez	savoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+7	gars	gars	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+8	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	objectif	objectif	NOUN	_	Gender=Masc|Number=Sing	13	dislocated	_	_
+10	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	nsubj	_	_
+11	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	dracaufeu	dracaufeu	NOUN	_	Gender=Masc|Number=Sing	5	ccomp	_	_
+14	holographique	holographique	ADJ	_	Gender=Masc|Number=Sing	13	amod	_	_
+
+# sent_id = SEFR2031_0004_SP1_trs_ann0004_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:13.710
+# end = 00:00:15.100
+# text = le dracaufeu frérot
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	dracaufeu	dracaufeu	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	frérot	frérot	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+
+# sent_id = SEFR2031_0005_SP1_trs_ann0005_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:15.100
+# end = 00:00:17.450
+# text = le dracaufeu il est il est inestimable
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	dracaufeu	dracaufeu	NOUN	_	Gender=Masc|Number=Sing	4	dislocated	_	_
+3	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Emph=No
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	reparandum	_	_
+5	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Emph=No
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	inestimable	inestimable	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2031_0006_SP2_trs_ann0001_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:15.240
+# end = 00:00:16.570
+# text = le dracaufeu déjà euh
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	dracaufeu	dracaufeu	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	déjà	déjà	ADV	_	_	2	advmod	_	_
+4	euh	euh	INTJ	_	_	2	discourse	_	_
+
+# sent_id = SEFR2031_0007_SP2_trs_ann0002_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:17.330
+# end = 00:00:20.860
+# text = sur le set là qu'on est en train de faire on a même pas eu le dracaufeu shiny
+1	sur	sur	ADP	_	_	3	case	_	_
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	set	set	NOUN	_	Gender=Masc|Number=Sing	16	obl:mod	_	_
+4	là	là	ADV	_	_	3	advmod	_	_
+5	qu'	que	SCONJ	_	_	8	mark	_	_
+6	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	8	nsubj	_	_
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	en	en	ADP	_	_	16	mark	_	_
+9	train	train	NOUN	_	Gender=Masc|Number=Sing	8	fixed	_	_
+10	de	de	ADP	_	_	11	mark	_	_
+11	faire	faire	VERB	_	VerbForm=Inf	9	acl	_	_
+12	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	16	nsubj	_	_
+13	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux:tense	_	_
+14	même	même	ADV	_	_	15	advmod	_	_
+15	pas	pas	ADV	_	Polarity=Neg	16	advmod	_	_
+16	eu	avoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+17	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	dracaufeu	dracaufeu	NOUN	_	Gender=Masc|Number=Sing	16	obj	_	_
+19	shiny	shiny	NOUN	_	Gender=Masc|Number=Sing	18	nmod:appos	_	_
+
+# sent_id = SEFR2031_0008_SP1_trs_ann0006_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:21.040
+# end = 00:00:21.380
+# text = ouais
+1	ouais	ouais	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2031_0009_SP2_trs_ann0003_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:21.290
+# end = 00:00:23.620
+# text = et là le but c'est d'avoir le dracaufeu mais
+1	et	et	CCONJ	_	_	6	cc	_	_
+2	là	là	ADV	_	_	8	advmod	_	_
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	but	but	NOUN	_	Gender=Masc|Number=Sing	8	dislocated	_	_
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	d'	de	ADP	_	_	8	mark	_	_
+8	avoir	avoir	VERB	_	VerbForm=Inf	6	ccomp	_	_
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	dracaufeu	dracaufeu	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	mais	mais	CCONJ	_	_	8	conj	_	_
+
+# sent_id = SEFR2031_0010_SP1_trs_ann0007_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:22.760
+# end = 00:00:25.140
+# text = c'est vrai que pour sub qui suit vraiment c'est dès l'ouverture
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	expl:subj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	vrai	vrai	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	que	que	SCONJ	_	_	11	mark	_	_
+5	pour	pour	ADP	_	_	6	case	_	_
+6	sub	sub	NOUN	_	Gender=Masc|Number=Sing	11	obl:mod	_	_
+7	qui	qui	PRON	_	PronType=Rel	8	nsubj	_	_
+8	suit	suivre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+9	vraiment	vraiment	ADV	_	_	8	advmod	_	_
+10	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	_
+11	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj	_	_
+12	dès	dès	ADP	_	_	14	case	_	_
+13	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	14	det	_	_
+14	ouverture	ouverture	NOUN	_	Gender=Fem|Number=Sing	11	obl:arg	_	_
+
+# sent_id = SEFR2031_0011_SP2_trs_ann0004_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:24.340
+# end = 00:00:25.160
+# text = t'as fait déjà ça
+1	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Emph=No
+2	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	fait	faire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	déjà	déjà	ADV	_	_	3	advmod	_	_
+5	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	obj	_	_
+
+# sent_id = SEFR2031_0012_SP3_trs_ann0001_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:24.990
+# end = 00:00:28.420
+# text = t'as plus de chances d'avoir le dracaufeu holo là que ton shiny dans dans les séries récentes
+1	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Emph=No
+2	as	avoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	plus	plus	ADV	_	ExtPos=PRON	2	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	chances	chance	NOUN	_	Gender=Fem|Number=Plur	3	obl:arg	_	_
+6	d'	de	ADP	_	_	7	mark	_	_
+7	avoir	avoir	VERB	_	VerbForm=Inf	5	acl	_	_
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	dracaufeu	dracaufeu	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	holo	holo	NOUN	_	Gender=Masc|Number=Sing	9	compound	_	_
+11	là	là	ADV	_	_	7	advmod	_	_
+12	que	que	SCONJ	_	_	14	case	_	_
+13	ton	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	shiny	shiny	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+15	dans	dans	ADP	_	_	18	case	_	_
+16	dans	dans	ADP	_	_	18	case	_	_
+17	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
+18	séries	série	NOUN	_	Gender=Fem|Number=Plur	14	nmod	_	_
+19	récentes	récent	ADJ	_	Gender=Fem|Number=Plur	18	amod	_	_
+
+# sent_id = SEFR2031_0013_SP3_trs_ann0002_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:28.780
+# end = 00:00:29.260
+# text = ah oui
+1	ah	ah	INTJ	_	_	0	root	_	_
+2	oui	oui	INTJ	_	_	1	fixed	_	_
+
+# sent_id = SEFR2031_0014_SP5_trs_ann0001_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP5_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:29.070
+# end = 00:00:29.540
+# text = ouais
+1	ouais	ouais	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2031_0015_SP3_trs_ann0003_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:29.530
+# end = 00:00:30.040
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2031_0016_SP1_trs_ann0008_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:29.570
+# end = 00:00:33.710
+# text = oui mais shiny euh en ce moment c'est c'est pas un sur quatre cent boosters le shiny ou moins
+1	oui	oui	INTJ	_	_	9	discourse	_	_
+2	mais	mais	CCONJ	_	_	9	cc	_	_
+3	shiny	shiny	INTJ	_	_	9	discourse	_	_
+4	euh	euh	INTJ	_	_	9	discourse	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+7	moment	moment	NOUN	_	Gender=Masc|Number=Sing	9	obl:mod	_	_
+8	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	_
+9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	reparandum	_	_
+10	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	nsubj	_	_
+11	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	pas	pas	ADV	_	Polarity=Neg	13	advmod	_	_
+13	un	un	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	0	root	_	_
+14	sur	sur	ADP	_	_	17	case	_	_
+15	quatre	quatre	NUM	_	Number=Plur	17	nummod	_	_
+16	cent	cent	NUM	_	Number=Plur	17	nummod	_	_
+17	boosters	booster	NOUN	_	Gender=Masc|Number=Plur	13	nmod	_	_
+18	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	shiny	shiny	NOUN	_	Gender=Masc|Number=Sing	13	dislocated	_	_
+20	ou	ou	CCONJ	_	_	21	cc	_	_
+21	moins	moins	ADV	_	_	19	conj	_	_
+
+# sent_id = SEFR2031_0017_SP3_trs_ann0004_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:30.600
+# end = 00:00:31.540
+# text = c'est bizzare mais
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	bizzare	bizzare	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	mais	mais	CCONJ	_	_	3	cc	_	_
+
+# sent_id = SEFR2031_0018_SP2_trs_ann0005_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:31.540
+# end = 00:00:32.070
+# text = ouais
+1	ouais	ouais	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2031_0019_SP3_trs_ann0005_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:32.690
+# end = 00:00:34.940
+# text = moi moi c'est ce que j'ai en vidéo voilà
+1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	dislocated	_	Emph=Yes
+2	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	dislocated	_	Emph=Yes
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_
+6	que	que	PRON	_	PronType=Rel	10	mark	_	_
+7	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Emph=No
+8	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	vidéo	vidéo	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+11	voilà	voilà	VERB	_	_	5	discourse	_	_
+
+# sent_id = SEFR2031_0020_SP2_trs_ann0006_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:34.780
+# end = 00:00:36.970
+# text = toi tu l'as ouvert toi le shiny qu'on essaye d'avoir
+1	toi	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	5	dislocated	_	_
+2	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Emph=No
+3	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	5	obj	_	Emph=No
+4	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
+5	ouvert	ouvrir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	toi	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	5	obj	_	Emph=Yes
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	shiny	shiny	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+9	qu'	que	SCONJ	_	_	11	mark	_	_
+10	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	11	nsubj	_	_
+11	essaye	essayer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+12	d'	de	ADP	_	_	13	mark	_	_
+13	avoir	avoir	VERB	_	VerbForm=Inf	11	xcomp	_	_
+
+# sent_id = SEFR2031_0021_SP3_trs_ann0006_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:36.640
+# end = 00:00:38.210
+# text = ouais quatre fois
+1	ouais	ouais	INTJ	_	_	0	root	_	_
+2	quatre	quatre	NUM	_	Number=Plur	3	nummod	_	_
+3	fois	fois	NOUN	_	Gender=Fem|Number=Plur	1	obl:mod	_	_
+
+# sent_id = SEFR2031_0022_SP2_trs_ann0007_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:37.670
+# end = 00:00:38.380
+# text = putain
+1	putain	putain	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2031_0023_SP2_trs_ann0008_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:38.410
+# end = 00:00:39.190
+# text = frère on est là
+1	frère	frère	NOUN	_	Gender=Masc|Number=Sing	3	dislocated	_	_
+2	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	là	là	ADV	_	_	3	obl:arg	_	_
+
+# sent_id = SEFR2031_0024_SP2_trs_ann0009_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 9
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:39.190
+# end = 00:00:41.340
+# text = nous on a ouvert trois cents euh on l'a pas
+1	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	4	dislocated	_	_
+2	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	_
+3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
+4	ouvert	ouvrir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	trois	trois	NUM	_	Number=Plur	6	nummod	_	_
+6	cents	cents	NUM	_	Number=Plur	10	obj	_	_
+7	euh	euh	INTJ	_	_	10	discourse	_	_
+8	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	nsubj	_	_
+9	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	10	obj	_	Emph=No
+10	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+11	pas	pas	ADV	_	Polarity=Neg	10	advmod	_	_
+
+# sent_id = SEFR2031_0025_SP1_trs_ann0009_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 9
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:39.500
+# end = 00:00:41.400
+# text = (xxx)
+1	(	(	PUNCT	_	_	2	punct	_	_
+2	xxx	xxx	X	_	_	0	root	_	_
+3	)	)	PUNCT	_	_	2	punct	_	_
+
+# sent_id = SEFR2031_0026_SP2_trs_ann0010_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:41.420
+# end = 00:00:42.190
+# text = putain
+1	putain	putain	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2031_0027_SP1_trs_ann0010_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:42.550
+# end = 00:00:44.080
+# text = mais ouais on veut le dracaufeu
+1	mais	mais	CCONJ	_	_	4	cc	_	_
+2	ouais	ouais	INTJ	_	_	4	discourse	_	_
+3	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	_
+4	veut	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	dracaufeu	dracaufeu	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+
+# sent_id = SEFR2031_0028_SP2_trs_ann0011_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:44.090
+# end = 00:00:44.760
+# text = on veut le dracaufeu
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+2	veut	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	dracaufeu	dracaufeu	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+
+# sent_id = SEFR2031_0029_SP1_trs_ann0011_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:44.570
+# end = 00:00:44.870
+# text = évidemment
+1	évidemment	évidemment	ADV	_	_	0	root	_	_
+
+# sent_id = SEFR2031_0030_SP1_trs_ann0012_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 12
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:44.880
+# end = 00:00:46.120
+# text = j'aimerais bien aussi
+1	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Emph=No
+2	aimerais	aimer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	bien	bien	ADV	_	_	2	advmod	_	_
+4	aussi	aussi	ADV	_	_	2	advmod	_	_
+
+# sent_id = SEFR2031_0031_SP1_trs_ann0013_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 13
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:46.170
+# end = 00:00:47.370
+# text = j'en demande peut-être beaucoup
+1	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+2	en	en	PRON	_	Person=3|PronType=Prs	3	iobj	_	_
+3	demande	demander	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	peut-être	peut-être	ADV	_	_	3	advmod	_	_
+5	beaucoup	beaucoup	ADV	_	_	3	advmod	_	_
+
+# sent_id = SEFR2031_0032_SP1_trs_ann0014_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 14
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:47.400
+# end = 00:00:49.420
+# text = mais le trio des starters
+1	mais	mais	CCONJ	_	_	3	cc	_	_
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	trio	trio	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+6	starters	starter	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	_
+
+# sent_id = SEFR2031_0033_SP1_trs_ann0015_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 15
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:49.500
+# end = 00:00:50.950
+# text = donc le florizarre et le tortank
+1	donc	donc	ADV	_	_	3	advmod	_	_
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	florizarre	florizarre	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	et	et	CCONJ	_	_	6	cc	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	tortank	tortank	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+
+# sent_id = SEFR2031_0034_SP2_trs_ann0012_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 12
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:50.990
+# end = 00:00:52.100
+# text = ah là ça sera incroyable
+1	ah	ah	INTJ	_	_	5	discourse	_	_
+2	là	là	ADV	_	_	5	advmod	_	_
+3	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+4	sera	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	cop	_	_
+5	incroyable	incroyable	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2031_0035_SP4_trs_ann0001_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP4_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:52.040
+# end = 00:00:52.900
+# text = c'est là tout le mal
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+3	là	là	ADV	_	_	6	advmod	_	_
+4	tout	tout	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	mal	mal	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2031_0036_SP1_trs_ann0016_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 16
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:52.160
+# end = 00:00:53.290
+# text = ça c'est incroyable
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	dislocated	_	_
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	incroyable	incroyable	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2031_0037_SP4_trs_ann0002_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP4_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:52.910
+# end = 00:00:53.380
+# text = c'est la box
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	box	box	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2031_0038_SP2_trs_ann0013_iu01
+# source = SEFR2031.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 13
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:53.420
+# end = 00:00:54.970
+# text = et moi je veux tygnon holographique
+1	et	et	CCONJ	_	_	4	cc	_	_
+2	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	dislocated	_	Emph=Yes
+3	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Emph=No
+4	veux	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	tygnon	tygnon	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+6	holographique	holographique	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+

@@ -1,0 +1,144 @@
+# sent_id = SEFR2021_0001_SP1_trs_ann0001_iu01
+# source = SEFR2021.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.010
+# end = 00:00:09.270
+# text = les gars pour vous expliquer et dès que je sors de le pilates je passe devant un resto genre asiat et à chaque fois je me dis ça sent littéralement comme chez ma mamie genre
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
+2	gars	gars	NOUN	_	Gender=Masc|Number=Plur	5	vocative	_	_
+3	pour	pour	ADP	_	_	5	mark	_	_
+4	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	5	obj	_	_
+5	expliquer	expliquer	VERB	_	VerbForm=Inf	0	root	_	_
+6	et	et	CCONJ	_	_	15	cc	_	_
+7	dès	dès	ADP	_	_	10	mark	_	_
+8	que	que	SCONJ	_	_	10	mark	_	_
+9	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Emph=No
+10	sors	sortir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	advcl	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	pilates	pilate	NOUN	_	Gender=Masc|Number=Sing	10	obl:arg	_	_
+14	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	Emph=No
+15	passe	passer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
+16	devant	devant	ADP	_	_	18	case	_	_
+17	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	resto	resto	NOUN	_	Gender=Masc|Number=Sing	15	obl:mod	_	_
+19	genre	genre	NOUN	_	ExtPos=INTJ|Number=Sing	18	discourse	_	_
+20	asiat	asiat	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	_
+21	et	et	CCONJ	_	_	27	cc	_	_
+22	à	à	ADP	_	_	24	case	_	_
+23	chaque	chaque	DET	_	Number=Sing|PronType=Ind	24	det	_	_
+24	fois	fois	NOUN	_	Gender=Fem|Number=Sing	27	obl:mod	_	_
+25	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	27	nsubj	_	Emph=No
+26	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	27	iobj	_	Emph=No
+27	dis	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	conj	_	_
+28	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	29	nsubj	_	_
+29	sent	sentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	ccomp	_	_
+30	littéralement	littéralement	ADV	_	_	29	advmod	_	_
+31	comme	comme	SCONJ	_	_	34	mark	_	_
+32	chez	chez	ADP	_	_	34	case	_	_
+33	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	34	det	_	_
+34	mamie	mamie	NOUN	_	Gender=Fem|Number=Sing	29	advcl	_	_
+35	genre	genre	NOUN	_	ExtPos=INTJ	34	discourse	_	_
+
+# sent_id = SEFR2021_0002_SP1_trs_ann0002_iu01
+# source = SEFR2021.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:09.300
+# end = 00:00:11.040
+# text = ma mamie asiat quand elle cuisine ça sent ça
+1	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mamie	mamie	NOUN	_	Gender=Fem|Number=Sing	6	dislocated	_	_
+3	asiat	asiat	NOUN	_	Gender=Fem|Number=Sing	2	appos	_	_
+4	quand	quand	SCONJ	_	_	6	mark	_	_
+5	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Emph=No
+6	cuisine	cuisine	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+7	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	_
+8	sent	sentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	obj	_	_
+
+# sent_id = SEFR2021_0003_SP1_trs_ann0003_iu01
+# source = SEFR2021.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:11.040
+# end = 00:00:11.770
+# text = je sais pas l' expliquer
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Emph=No
+2	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pas	pas	ADV	_	Polarity=Neg	2	advmod	_	_
+4	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	5	obj	_	Emph=No
+5	expliquer	expliquer	VERB	_	VerbForm=Inf	2	xcomp	_	_
+
+# sent_id = SEFR2021_0004_SP1_trs_ann0004_iu01
+# source = SEFR2021.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:11.770
+# end = 00:00:13.780
+# text = c' est exactement l' odeur de la maison genre
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	exactement	exactement	ADV	_	_	5	advmod	_	_
+4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	odeur	odeur	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	maison	maison	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+9	genre	genre	NOUN	_	ExtPos=INTJ	5	discourse	_	_
+
+# sent_id = SEFR2021_0005_SP1_trs_ann0005_iu01
+# source = SEFR2021.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:14.020
+# end = 00:00:18.610
+# text = donc vraiment genre je suis en mode c' est votre jour de chance noodle thérapie aujourd'hui
+1	donc	donc	ADV	_	_	7	advmod	_	_
+2	vraiment	vraiment	ADV	_	_	7	advmod	_	_
+3	genre	genre	NOUN	_	ExtPos=INTJ	7	discourse	_	_
+4	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Emph=No
+5	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	mode	mode	NOUN	_	Number=Sing	0	root	_	_
+8	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	_
+9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	votre	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs	11	det	_	_
+11	jour	jour	NOUN	_	Gender=Masc|Number=Sing	7	parataxis	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	chance	chance	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
+14	noodle	noodle	NOUN	_	Gender=Fem|Number=Sing	11	nmod:appos	_	_
+15	thérapie	thérapie	NOUN	_	Gender=Fem|Number=Sing	14	appos	_	_
+16	aujourd'hui	aujourd'hui	ADV	_	_	11	advmod	_	_
+
+# sent_id = SEFR2021_0006_SP1_trs_ann0006_iu01
+# source = SEFR2021.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:18.650
+# end = 00:00:19.620
+# text = donc genre je rentre
+1	donc	donc	ADV	_	_	4	advmod	_	_
+2	genre	genre	NOUN	_	ExtPos=INTJ	4	discourse	_	_
+3	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Emph=No
+4	rentre	rentrer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+

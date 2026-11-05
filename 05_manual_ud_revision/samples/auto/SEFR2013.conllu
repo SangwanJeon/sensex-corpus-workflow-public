@@ -1,0 +1,552 @@
+# sent_id = SEFR2013_0001_SP1_trs_ann0001_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.020
+# end = 00:00:00.500
+# text = n'importe qui
+1	n'	ne	ADV	_	Polarity=Neg	2	advmod	_	_
+2	importe	importer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	qui	qui	PRON	_	PronType=Rel	2	obj	_	_
+
+# sent_id = SEFR2013_0002_SP1_trs_ann0002_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.510
+# end = 00:00:02.630
+# text = et là il fallait que j'aille tester ses limites
+1	et	et	CCONJ	_	_	4	cc	_	_
+2	là	là	ADV	_	_	4	advmod	_	_
+3	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	Emph=No
+4	fallait	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	que	que	SCONJ	_	_	7	mark	_	_
+6	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Emph=No
+7	aille	aller	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+8	tester	tester	VERB	_	VerbForm=Inf	7	xcomp	_	_
+9	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	limites	limite	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
+
+# sent_id = SEFR2013_0003_SP1_trs_ann0003_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:02.640
+# end = 00:00:03.140
+# text = une b****
+1	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	b****	b****	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2013_0004_SP1_trs_ann0004_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:03.790
+# end = 00:00:05.630
+# text = un p*****
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	p*****	p*****	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2013_0005_SP1_trs_ann0005_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:05.630
+# end = 00:00:06.830
+# text = un ph******
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	ph******	ph******	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2013_0006_SP1_trs_ann0006_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:06.830
+# end = 00:00:08.380
+# text = une v****
+1	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	v****	v****	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2013_0007_SP1_trs_ann0007_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:08.380
+# end = 00:00:09.080
+# text = un paf
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	paf	paf	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2013_0008_SP1_trs_ann0008_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:12.000
+# end = 00:00:13.880
+# text = let's go
+1	let's	let's	X	_	Foreign=Yes	0	root	_	_
+2	go	go	X	_	Foreign=Yes	1	flat:foreign	_	_
+
+# sent_id = SEFR2013_0009_SP1_trs_ann0009_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 9
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:13.880
+# end = 00:00:14.480
+# text = dernier niveau
+1	dernier	dernier	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+2	niveau	niveau	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2013_0010_SP1_trs_ann0010_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:14.480
+# end = 00:00:16.120
+# text = je vais lui mettre un tunnel à la machine
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Emph=No
+2	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	Emph=No
+4	mettre	mettre	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	tunnel	tunnel	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	à	à	ADP	_	_	9	case	_	_
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	machine	machine	NOUN	_	Gender=Fem|Number=Sing	4	obl:mod	_	_
+
+# sent_id = SEFR2013_0011_SP1_trs_ann0011_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:16.120
+# end = 00:00:19.080
+# text = un terrain de sport avec un public contenant plus de cinq cents personnes
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	terrain	terrain	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	sport	sport	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5	avec	avec	ADP	_	_	7	case	_	_
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	public	public	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+8	contenant	contenir	VERB	_	Tense=Pres|VerbForm=Part	7	acl	_	_
+9	plus	plus	ADV	_	ExtPos=PRON	8	obj	_	_
+10	de	de	ADP	_	_	13	case	_	_
+11	cinq	cinq	NUM	_	Number=Plur	13	nummod	_	_
+12	cents	cents	NUM	_	Number=Plur	13	nummod	_	_
+13	personnes	personne	NOUN	_	Gender=Fem|Number=Plur	9	obl:arg	_	_
+
+# sent_id = SEFR2013_0012_display_written_ann0001_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = display_written
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:18.380
+# end = 00:00:19.190
+# text = 500 personnes
+1	500	500	NUM	_	Number=Plur	2	nummod	_	_
+2	personnes	personne	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+
+# sent_id = SEFR2013_0013_SP1_trs_ann0012_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 12
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:19.080
+# end = 00:00:23.040
+# text = une dizaine de joueurs jouant à un jeu que tu peux inventer tenant des glaces à la main
+1	une	un	NUM	_	Gender=Fem|Number=Sing	2	det	_	_
+2	dizaine	dizaine	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	joueurs	joueur	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
+5	jouant	jouer	VERB	_	Tense=Pres|VerbForm=Part	4	acl	_	_
+6	à	à	ADP	_	_	8	case	_	_
+7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	jeu	jeu	NOUN	_	Gender=Masc|Number=Sing	5	obl:arg	_	_
+9	que	que	PRON	_	PronType=Rel	12	obj	_	_
+10	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	11	nsubj	_	Emph=No
+11	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+12	inventer	inventer	VERB	_	VerbForm=Inf	11	xcomp	_	_
+13	tenant	tenir	VERB	_	Tense=Pres|VerbForm=Part	12	advcl	_	_
+14	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	15	det	_	_
+15	glaces	glace	NOUN	_	Gender=Fem|Number=Plur	13	obj	_	_
+16	à	à	ADP	_	_	18	case	_	_
+17	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	main	main	NOUN	_	Gender=Fem|Number=Sing	13	obl:mod	_	_
+
+# sent_id = SEFR2013_0014_display_written_ann0002_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = display_written
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:19.200
+# end = 00:00:20.360
+# text = 10 joueurs
+1	10	10	NUM	_	Number=Plur	2	nummod	_	_
+2	joueurs	joueur	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+
+# sent_id = SEFR2013_0015_display_written_ann0003_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = display_written
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:20.600
+# end = 00:00:21.170
+# text = Un jeu
+1	Un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	jeu	jeu	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2013_0016_display_written_ann0004_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = display_written
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:21.930
+# end = 00:00:22.720
+# text = Des glaces
+1	Des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	2	det	_	_
+2	glaces	glace	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+
+# sent_id = SEFR2013_0017_display_written_ann0005_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = display_written
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:22.950
+# end = 00:00:24.190
+# text = un commentateur
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	commentateur	commentateur	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2013_0018_SP1_trs_ann0013_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 13
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:23.040
+# end = 00:00:25.040
+# text = un commentateur retransmis en direct à la télé
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	commentateur	commentateur	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	retransmis	retransmettre	VERB	_	Gender=Masc|Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	direct	direct	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	_
+6	à	à	ADP	_	_	8	case	_	_
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	télé	télé	NOUN	_	Gender=Fem|Number=Sing	3	obl:mod	_	_
+
+# sent_id = SEFR2013_0019_display_written_ann0006_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = display_written
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:24.400
+# end = 00:00:25.270
+# text = en direct
+1	en	en	ADP	_	_	2	case	_	_
+2	direct	direct	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2013_0020_SP1_trs_ann0014_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 14
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:25.040
+# end = 00:00:26.860
+# text = on peut voir une équipe de gens dans le ciel
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+2	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	voir	voir	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	équipe	équipe	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	gens	gens	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	_
+8	dans	dans	ADP	_	_	10	case	_	_
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	ciel	ciel	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	_
+
+# sent_id = SEFR2013_0021_display_written_ann0007_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = display_written
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:25.390
+# end = 00:00:26.080
+# text = une équipe
+1	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	équipe	équipe	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2013_0022_display_written_ann0008_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = display_written
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:26.090
+# end = 00:00:27.030
+# text = dans le ciel
+1	dans	dans	ADP	_	_	3	case	_	_
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ciel	ciel	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2013_0023_SP1_trs_ann0015_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 15
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:26.860
+# end = 00:00:29.480
+# text = et en plus de ça des feux d'artifices qui explosent
+1	et	et	CCONJ	_	_	2	cc	_	_
+2	en	en	ADP	_	ExtPos=ADV	0	root	_	_
+3	plus	plus	ADV	_	_	2	fixed	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	obl:arg	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
+8	feux	feu	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	_
+9	d'	de	ADP	_	_	10	case	_	_
+10	artifices	artifice	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	_
+11	qui	qui	PRON	_	PronType=Rel	12	nsubj	_	_
+12	explosent	exploser	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+
+# sent_id = SEFR2013_0024_display_written_ann0009_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = display_written
+# annotation_index = 9
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:27.260
+# end = 00:00:28.410
+# text = feu d'artifice
+1	feu	feu	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	d'	de	ADP	_	_	3	case	_	_
+3	artifice	artifice	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+
+# sent_id = SEFR2013_0025_display_written_ann0010_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = display_written
+# annotation_index = 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:28.490
+# end = 00:00:29.410
+# text = explose
+1	explose	exploser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2013_0026_SP1_trs_ann0016_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 16
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:29.480
+# end = 00:00:31.960
+# text = tout en sachant qu'évidemment tout cela est de nuit
+1	tout	tout	ADV	_	_	3	advmod	_	_
+2	en	en	ADP	_	_	3	mark	_	_
+3	sachant	savoir	VERB	_	Tense=Pres|VerbForm=Part	0	root	_	_
+4	qu'	que	SCONJ	_	_	8	mark	_	_
+5	évidemment	évidemment	ADV	_	_	8	advmod	_	_
+6	tout	tout	ADJ	_	Gender=Masc|Number=Sing|PronType=Ind	7	amod	_	_
+7	cela	cela	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	_
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	nuit	nuit	NOUN	_	Gender=Fem|Number=Sing	3	ccomp	_	_
+
+# sent_id = SEFR2013_0027_SP1_trs_ann0017_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 17
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:36.600
+# end = 00:00:36.870
+# text = attends
+1	attends	attendre	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2013_0028_SP1_trs_ann0018_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 18
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:36.870
+# end = 00:00:38.560
+# text = non non non non non
+1	non	non	ADV	_	Polarity=Neg	3	reparandum	_	_
+2	non	non	ADV	_	Polarity=Neg	3	advmod	_	_
+3	non	non	ADV	_	Polarity=Neg	4	discourse	_	_
+4	non	non	ADV	_	Polarity=Neg	5	discourse	_	_
+5	non	non	ADV	_	Polarity=Neg	0	root	_	_
+
+# sent_id = SEFR2013_0029_SP1_trs_ann0019_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 19
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:38.560
+# end = 00:00:39.800
+# text = gros c'est pas possible
+1	gros	gros	ADJ	_	Gender=Masc	5	dislocated	_	_
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	_
+5	possible	possible	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2013_0030_display_written_ann0011_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = display_written
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:39.790
+# end = 00:00:40.440
+# text = 500 personnes
+1	500	500	NUM	_	Number=Plur	2	nummod	_	_
+2	personnes	personne	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+
+# sent_id = SEFR2013_0031_SP1_trs_ann0020_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 20
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:39.800
+# end = 00:00:43.240
+# text = cinq cents personnes une dizaine de joueurs tenant des glaces un commentateur
+1	cinq	cinq	NUM	_	Number=Plur	3	nummod	_	_
+2	cents	cents	NUM	_	Number=Plur	3	nummod	_	_
+3	personnes	personne	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+4	une	un	NUM	_	Gender=Fem|Number=Sing	5	det	_	_
+5	dizaine	dizaine	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	joueurs	joueur	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	_
+8	tenant	tenir	VERB	_	Tense=Pres|VerbForm=Part	7	acl	_	_
+9	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	10	det	_	_
+10	glaces	glace	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
+11	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	commentateur	commentateur	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+
+# sent_id = SEFR2013_0032_display_written_ann0012_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = display_written
+# annotation_index = 12
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:40.460
+# end = 00:00:41.560
+# text = 10 joueurs
+1	10	10	NUM	_	Number=Plur	2	nummod	_	_
+2	joueurs	joueur	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+
+# sent_id = SEFR2013_0033_display_written_ann0013_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = display_written
+# annotation_index = 13
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:41.580
+# end = 00:00:42.370
+# text = Des glaces
+1	Des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	2	det	_	_
+2	glaces	glace	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+
+# sent_id = SEFR2013_0034_display_written_ann0014_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = display_written
+# annotation_index = 14
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:42.370
+# end = 00:00:42.910
+# text = un commentateur
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	commentateur	commentateur	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2013_0035_SP1_trs_ann0021_iu01
+# source = SEFR2013.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 21
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:43.240
+# end = 00:00:44.420
+# text = c'est pas du tout une arnaque
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+3	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	_
+4	de	de	ADP	_	ExtPos=ADV	8	advmod	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	fixed	_	_
+6	tout	tout	NOUN	_	Gender=Masc|Number=Sing	4	fixed	_	_
+7	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	arnaque	arnaque	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+

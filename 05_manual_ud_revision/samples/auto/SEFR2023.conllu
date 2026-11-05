@@ -1,0 +1,564 @@
+# sent_id = SEFR2023_0001_SP1_trs_ann0001_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.010
+# end = 00:00:01.300
+# text = y a un jeu que je voulais faire les gars
+1	y	y	PRON	_	Person=3|PronType=Prs	2	expl:comp	_	_
+2	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	jeu	jeu	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	que	que	PRON	_	PronType=Rel	8	obj	_	_
+6	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Emph=No
+7	voulais	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	4	acl:relcl	_	_
+8	faire	faire	VERB	_	VerbForm=Inf	7	xcomp	_	_
+9	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
+10	gars	gars	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	_
+
+# sent_id = SEFR2023_0002_SP1_trs_ann0002_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:02.410
+# end = 00:00:05.590
+# text = eh le curseur sur le windows il est trop devenu bizarre les mecs
+1	eh	eh	INTJ	_	_	10	discourse	_	_
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	curseur	curseur	NOUN	_	Gender=Masc|Number=Sing	10	dislocated	_	_
+4	sur	sur	ADP	_	_	6	case	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	windows	window	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+7	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Emph=No
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:tense	_	_
+9	trop	trop	ADV	_	_	10	advmod	_	_
+10	devenu	devenir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	bizarre	bizarre	ADJ	_	Gender=Masc|Number=Sing	10	xcomp	_	_
+12	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
+13	mecs	mecs	NOUN	_	Gender=Masc|Number=Plur	10	obj	_	_
+
+# sent_id = SEFR2023_0003_SP1_trs_ann0003_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:06.060
+# end = 00:00:08.010
+# text = genre ça ouvre les fenêtres tout seul
+1	genre	genre	NOUN	_	ExtPos=INTJ	3	discourse	_	_
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+3	ouvre	ouvrir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+5	fenêtres	fenêtre	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+6	tout	tout	ADV	_	_	7	advmod	_	_
+7	seul	seul	ADJ	_	Gender=Masc|Number=Sing	3	xcomp	_	_
+
+# sent_id = SEFR2023_0004_SP1_trs_ann0004_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:08.650
+# end = 00:00:11.220
+# text = euh il disparait quand tu cliques sur des trucs
+1	euh	euh	INTJ	_	_	3	discourse	_	_
+2	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Emph=No
+3	disparait	disparaître	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	quand	quand	SCONJ	_	_	6	mark	_	_
+5	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Emph=No
+6	cliques	cliquer	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+7	sur	sur	ADP	_	_	9	case	_	_
+8	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	9	det	_	_
+9	trucs	truc	NOUN	_	Gender=Masc|Number=Plur	6	obl:mod	_	_
+
+# sent_id = SEFR2023_0005_SP1_trs_ann0005_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:11.230
+# end = 00:00:13.900
+# text = vous aussi votre curseur de windows il est bizarre
+1	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	9	dislocated	_	_
+2	aussi	aussi	ADV	_	_	1	advmod	_	_
+3	votre	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs	4	det	_	_
+4	curseur	curseur	NOUN	_	Gender=Masc|Number=Sing	9	dislocated	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	windows	window	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Emph=No
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	bizarre	bizarre	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2023_0006_SP1_trs_ann0006_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:14.790
+# end = 00:00:17.370
+# text = non y a il y a un jeu que je voulais trop faire
+1	non	non	ADV	_	Polarity=Neg	3	discourse	_	_
+2	y	y	PRON	_	Person=3|PronType=Prs	3	expl:comp	_	_
+3	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	reparandum	_	_
+4	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	Emph=No
+5	y	y	PRON	_	Person=3|PronType=Prs	6	expl:comp	_	_
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	jeu	jeu	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	que	que	PRON	_	PronType=Rel	13	obj	_	_
+10	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	Emph=No
+11	voulais	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	8	acl:relcl	_	_
+12	trop	trop	ADV	_	_	13	advmod	_	_
+13	faire	faire	VERB	_	VerbForm=Inf	11	xcomp	_	_
+
+# sent_id = SEFR2023_0007_SP1_trs_ann0007_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:18.440
+# end = 00:00:19.680
+# text = genre ça ouvre les fenêtres tout seul
+1	genre	genre	NOUN	_	ExtPos=INTJ	3	discourse	_	_
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+3	ouvre	ouvrir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+5	fenêtres	fenêtre	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+6	tout	tout	ADV	_	_	7	advmod	_	_
+7	seul	seul	ADJ	_	Gender=Masc|Number=Sing	3	xcomp	_	_
+
+# sent_id = SEFR2023_0008_SP1_trs_ann0008_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:19.680
+# end = 00:00:20.370
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2023_0009_SP1_trs_ann0009_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 9
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:21.520
+# end = 00:00:23.060
+# text = vous avez ça aussi ou pas
+1	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
+2	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	obj	_	_
+4	aussi	aussi	ADV	_	_	2	advmod	_	_
+5	ou	ou	CCONJ	_	_	6	cc	_	_
+6	pas	pas	ADV	_	Polarity=Neg	4	conj	_	_
+
+# sent_id = SEFR2023_0010_SP1_trs_ann0010_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:24.560
+# end = 00:00:27.410
+# text = genre quand mon curseur passe sur les fenêtres ça les affiche en grand
+1	genre	genre	NOUN	_	ExtPos=INTJ	11	discourse	_	_
+2	quand	quand	SCONJ	_	_	5	mark	_	_
+3	mon	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	curseur	curseur	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+5	passe	passer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+6	sur	sur	ADP	_	_	8	case	_	_
+7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
+8	fenêtres	fenêtre	NOUN	_	Gender=Fem|Number=Plur	5	obl:mod	_	_
+9	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	_
+10	les	eux	PRON	_	Number=Plur|Person=3|PronType=Prs	11	obj	_	_
+11	affiche	afficher	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	grand	grand	NOUN	_	Gender=Masc|Number=Sing	11	obl:mod	_	_
+
+# sent_id = SEFR2023_0011_SP1_trs_ann0011_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:29.120
+# end = 00:00:30.720
+# text = me casse les couilles
+1	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	iobj	_	Emph=No
+2	casse	casser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+4	couilles	couille	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+
+# sent_id = SEFR2023_0012_SP1_trs_ann0012_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 12
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:30.720
+# end = 00:00:31.620
+# text = je sais pas pourquoi
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Emph=No
+2	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pas	pas	ADV	_	Polarity=Neg	2	advmod	_	_
+4	pourquoi	pourquoi	ADV	_	PronType=Int	2	advmod	_	_
+
+# sent_id = SEFR2023_0013_SP1_trs_ann0013_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 13
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:33.730
+# end = 00:00:34.960
+# text = c'est peut-être la nouvelle maj
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+3	peut-être	peut-être	ADV	_	_	6	advmod	_	_
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	nouvelle	nouveau	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+6	maj	maj	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2023_0014_SP1_trs_ann0014_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 14
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:35.070
+# end = 00:00:35.590
+# text = j'en sais rien
+1	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+2	en	en	PRON	_	Person=3|PronType=Prs	3	iobj	_	_
+3	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	rien	rien	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	3	obj	_	_
+
+# sent_id = SEFR2023_0015_SP1_trs_ann0015_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 15
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:35.650
+# end = 00:00:37.070
+# text = mais ça me rend ouf
+1	mais	mais	CCONJ	_	_	4	cc	_	_
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+3	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	iobj	_	Emph=No
+4	rend	rendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	ouf	ouf	INTJ	_	_	4	discourse	_	_
+
+# sent_id = SEFR2023_0016_SP1_trs_ann0016_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 16
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:37.070
+# end = 00:00:39.120
+# text = genre tout tout tout tout se met en grand
+1	genre	genre	NOUN	_	ExtPos=INTJ|Number=Sing	7	discourse	_	_
+2	tout	tout	ADV	_	_	1	fixed	_	_
+3	tout	tout	ADV	_	_	1	fixed	_	_
+4	tout	tout	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+5	tout	tout	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	7	nsubj	_	_
+6	se	soi	PRON	_	Person=3|PronType=Prs	7	obj	_	_
+7	met	mettre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	grand	grand	NOUN	_	Gender=Masc|Number=Sing	7	obl:mod	_	_
+
+# sent_id = SEFR2023_0017_SP1_trs_ann0017_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 17
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:39.250
+# end = 00:00:39.920
+# text = attendez
+1	attendez	attendre	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2023_0018_SP1_trs_ann0018_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 18
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:39.920
+# end = 00:00:40.910
+# text = faut que j'achète un jeu les gars
+1	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	4	mark	_	_
+3	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Emph=No
+4	achète	acheter	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	jeu	jeu	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
+8	gars	gars	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+
+# sent_id = SEFR2023_0019_SP1_trs_ann0019_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 19
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:40.910
+# end = 00:00:41.690
+# text = c'est wario
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	wario	wario	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2023_0020_SP1_trs_ann0020_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 20
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:41.690
+# end = 00:00:45.150
+# text = vous ou vous connaissez ou pas ou ou ou ou ou ou
+1	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	0	root	_	_
+2	ou	ou	CCONJ	_	_	4	cc	_	_
+3	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
+4	connaissez	connaître	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+5	ou	ou	CCONJ	_	_	6	cc	_	_
+6	pas	pas	ADV	_	Polarity=Neg	4	conj	_	_
+7	ou	ou	CCONJ	_	_	8	cc	_	_
+8	ou	ou	CCONJ	_	_	10	cc	_	_
+9	ou	ou	CCONJ	_	_	7	conj	_	_
+10	ou	ou	CCONJ	_	_	11	cc	_	_
+11	ou	ou	CCONJ	_	_	12	cc	_	_
+12	ou	ou	CCONJ	_	_	4	conj	_	_
+
+# sent_id = SEFR2023_0021_SP1_trs_ann0021_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 21
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:49.720
+# end = 00:00:50.770
+# text = warioware
+1	warioware	warioware	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2023_0022_SP1_trs_ann0022_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 22
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:51.470
+# end = 00:00:53.110
+# text = ça s'appelle warioware
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	s'	soi	PRON	_	Person=3|PronType=Prs	3	expl:pv	_	_
+3	appelle	appeler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	warioware	warioware	PROPN	_	_	3	xcomp	_	_
+
+# sent_id = SEFR2023_0023_SP1_trs_ann0023_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 23
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:53.560
+# end = 00:00:55.260
+# text = vous connaissez ou pas warioware
+1	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
+2	connaissez	connaître	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ou	ou	CCONJ	_	_	4	cc	_	_
+4	pas	pas	ADV	_	Polarity=Neg	2	conj	_	_
+5	warioware	warioware	INTJ	_	_	2	discourse	_	_
+
+# sent_id = SEFR2023_0024_SP1_trs_ann0024_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 24
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:55.500
+# end = 00:00:57.180
+# text = c'est un jeu en mode c'est plein de mini-jeux
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	jeu	jeu	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	en	en	ADP	_	_	9	case	_	_
+6	mode	mode	NOUN	_	Gender=Masc|Number=Sing	5	fixed	_	_
+7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	_
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	plein	plein	ADV	_	_	4	conj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	mini-jeux	mini-jeu	NOUN	_	Gender=Masc|Number=Plur	9	obl:arg	_	_
+
+# sent_id = SEFR2023_0025_SP1_trs_ann0025_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 25
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:57.180
+# end = 00:00:58.370
+# text = et je crois que c'est un peu bizarre le jeu
+1	et	et	CCONJ	_	_	3	cc	_	_
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+3	crois	croire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	9	mark	_	_
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	_
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+7	un	un	DET	_	Definite=Ind|ExtPos=ADV|Gender=Masc|Number=Sing|PronType=Art	9	advmod	_	_
+8	peu	peu	NOUN	_	Gender=Masc|Number=Sing	7	fixed	_	_
+9	bizarre	bizarre	ADJ	_	Gender=Masc|Number=Sing	3	ccomp	_	_
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	jeu	jeu	NOUN	_	Gender=Masc|Number=Sing	9	dislocated	_	_
+
+# sent_id = SEFR2023_0026_SP1_trs_ann0026_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 26
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:58.780
+# end = 00:00:59.400
+# text = attends
+1	attends	attendre	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2023_0027_SP1_trs_ann0027_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 27
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:59.420
+# end = 00:01:01.120
+# text = est-ce que je l'ai pas téléchargé
+1	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+2	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj:outer	_	_
+3	que	que	SCONJ	_	_	8	mark	_	_
+4	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Emph=No
+5	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	8	obj	_	Emph=No
+6	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux:tense	_	_
+7	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	_
+8	téléchargé	télécharger	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+
+# sent_id = SEFR2023_0028_SP1_trs_ann0028_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 28
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:01.200
+# end = 00:01:03.960
+# text = c'est où où où
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	où	où	PRON	_	PronType=Rel	2	obl:arg	_	_
+4	où	où	PRON	_	PronType=Rel	5	nmod	_	_
+5	où	où	PRON	_	PronType=Rel	3	dep	_	_
+
+# sent_id = SEFR2023_0029_SP1_trs_ann0029_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 29
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:04.200
+# end = 00:01:06.470
+# text = c'est wario land ou warioware
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	wario	wario	X	_	Foreign=Yes	0	root	_	_
+4	land	land	X	_	Foreign=Yes	3	flat:foreign	_	_
+5	ou	ou	CCONJ	_	_	6	cc	_	_
+6	warioware	warioware	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+
+# sent_id = SEFR2023_0030_SP1_trs_ann0030_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 30
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:06.540
+# end = 00:01:07.910
+# text = c'est lequel le mieux
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	lequel	lequel	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	0	root	_	_
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+5	mieux	mieux	ADV	_	_	3	advmod	_	_
+
+# sent_id = SEFR2023_0031_SP1_trs_ann0031_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 31
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:08.150
+# end = 00:01:09.690
+# text = y a wario land aussi
+1	y	y	INTJ	_	_	0	root	_	_
+2	a	a	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	wario	wario	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	land	land	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	aussi	aussi	ADV	_	_	1	advmod	_	_
+
+# sent_id = SEFR2023_0032_SP1_trs_ann0032_iu01
+# source = SEFR2023.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 32
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:10.550
+# end = 00:01:11.950
+# text = wario land c'est bien aussi
+1	wario	wario	NOUN	_	Gender=Masc|Number=Sing	4	dislocated	_	_
+2	land	land	X	_	_	1	flat:foreign	_	_
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	bien	bien	ADV	_	_	4	obl:arg	_	_
+6	aussi	aussi	ADV	_	_	5	advmod	_	_
+

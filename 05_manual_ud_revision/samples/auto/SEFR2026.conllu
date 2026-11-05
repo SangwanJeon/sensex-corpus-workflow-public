@@ -1,0 +1,660 @@
+# sent_id = SEFR2026_0001_SP1_trs_ann0001_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.040
+# end = 00:00:01.040
+# text = salut les filles
+1	salut	salut	INTJ	_	_	3	discourse	_	_
+2	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+3	filles	fille	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+
+# sent_id = SEFR2026_0002_SP2_trs_ann0001_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.610
+# end = 00:00:01.590
+# text = ah ça y est
+1	ah	ah	INTJ	_	_	4	discourse	_	_
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+3	y	y	PRON	_	Person=3|PronType=Prs	4	iobj	_	_
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2026_0003_SP1_trs_ann0002_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:01.040
+# end = 00:00:01.820
+# text = ça va
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
+2	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2026_0004_SP2_trs_ann0002_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:01.780
+# end = 00:00:03.530
+# text = t'as et c'était trop bien ton mariage
+1	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Emph=No
+2	as	avoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	reparandum	_	_
+3	et	et	CCONJ	_	_	9	cc	_	_
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	_
+5	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+6	trop	trop	ADV	_	_	7	advmod	_	_
+7	bien	bien	ADV	_	_	9	advmod	_	_
+8	ton	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	mariage	mariage	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2026_0005_SP1_trs_ann0003_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:03.620
+# end = 00:00:04.350
+# text = ah merci madame
+1	ah	ah	INTJ	_	_	2	discourse	_	_
+2	merci	merci	INTJ	_	_	0	root	_	_
+3	madame	madame	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+
+# sent_id = SEFR2026_0006_SP1_trs_ann0004_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:04.350
+# end = 00:00:05.820
+# text = mais t'as pas ta belle robe rose alors
+1	mais	mais	CCONJ	_	_	3	cc	_	_
+2	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Emph=No
+3	as	avoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_
+5	ta	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	7	det	_	_
+6	belle	beau	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
+7	robe	robe	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+8	rose	rose	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
+9	alors	alors	ADV	_	_	3	advmod	_	_
+
+# sent_id = SEFR2026_0007_SP2_trs_ann0003_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:05.850
+# end = 00:00:07.100
+# text = bah non parce que les filles m'ont
+1	bah	bah	INTJ	_	_	8	discourse	_	_
+2	non	non	ADV	_	_	8	discourse	_	_
+3	parce	parce	ADV	_	ExtPos=SCONJ	8	mark	_	_
+4	que	que	SCONJ	_	_	3	fixed	_	_
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+6	filles	fille	NOUN	_	Gender=Fem|Number=Plur	8	nsubj	_	_
+7	m'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	obj	_	Emph=No
+8	ont	avoir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2026_0008_SP1_trs_ann0005_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:06.630
+# end = 00:00:07.320
+# text = c'est dommage
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	dommage	dommage	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2026_0009_SP1_trs_ann0006_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:07.320
+# end = 00:00:08.550
+# text = on voyait moins ton cul de poney
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+2	voyait	voir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	moins	moins	ADV	_	_	2	advmod	_	_
+4	ton	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	cul	cul	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	poney	poney	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+
+# sent_id = SEFR2026_0010_SP1_trs_ann0007_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:08.960
+# end = 00:00:11.020
+# text = mais t'inquiète pas c'est bien comme ça aussi hein ha
+1	mais	mais	CCONJ	_	_	3	cc	_	_
+2	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	3	expl:pv	_	Emph=No
+3	inquiète	inquiéter	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	bien	bien	ADV	_	_	6	advmod	_	_
+8	comme	comme	ADP	_	_	9	case	_	_
+9	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	obl:arg	_	_
+10	aussi	aussi	ADV	_	_	9	advmod	_	_
+11	hein	hein	INTJ	_	_	9	discourse	_	_
+12	ha	ha	INTJ	_	_	3	discourse	_	_
+
+# sent_id = SEFR2026_0011_SP1_trs_ann0008_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:11.300
+# end = 00:00:12.120
+# text = ça va là-bas
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
+2	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	là-bas	là-bas	ADV	_	_	2	advmod	_	_
+
+# sent_id = SEFR2026_0012_SP1_trs_ann0009_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 9
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:12.170
+# end = 00:00:12.640
+# text = hein
+1	hein	hein	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2026_0013_SP1_trs_ann0010_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:12.705
+# end = 00:00:13.670
+# text = bon moi je file hein
+1	bon	bon	INTJ	_	_	4	discourse	_	_
+2	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	dislocated	_	Emph=Yes
+3	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Emph=No
+4	file	filer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	hein	hein	INTJ	_	_	4	discourse	_	_
+
+# sent_id = SEFR2026_0014_SP1_trs_ann0011_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:13.670
+# end = 00:00:14.650
+# text = je vais m'amuser avec edgard
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Emph=No
+2	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	m'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	obj	_	Emph=No
+4	amuser	amuser	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	avec	avec	ADP	_	_	6	case	_	_
+6	edgard	edgard	NOUN	_	Gender=Masc|Number=Sing	4	obl:mod	_	_
+
+# sent_id = SEFR2026_0015_SP1_trs_ann0012_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 12
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:14.660
+# end = 00:00:15.080
+# text = bisous
+1	bisous	bisou	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+
+# sent_id = SEFR2026_0016_SP1_trs_ann0013_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 13
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:15.080
+# end = 00:00:15.660
+# text = salut ma belle
+1	salut	salut	INTJ	_	_	3	discourse	_	_
+2	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	belle	beau	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2026_0017_SP2_trs_ann0004_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:15.690
+# end = 00:00:17.230
+# text = bah moi franchement je suis trop dégoûtée
+1	bah	bah	INTJ	_	_	7	discourse	_	_
+2	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	dislocated	_	Emph=Yes
+3	franchement	franchement	ADV	_	_	7	advmod	_	_
+4	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Emph=No
+5	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	trop	trop	ADV	_	_	7	advmod	_	_
+7	dégoûtée	dégoûter	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+
+# sent_id = SEFR2026_0018_SP2_trs_ann0005_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:17.230
+# end = 00:00:19.210
+# text = j'aurais pas du tout dû écouter anne-sophie
+1	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Emph=No
+2	aurais	avoir	AUX	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux:tense	_	_
+3	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	_
+4	de	de	ADP	_	ExtPos=ADV	7	advmod	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	fixed	_	_
+6	tout	tout	NOUN	_	Gender=Masc|Number=Sing	4	fixed	_	_
+7	dû	devoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	écouter	écouter	VERB	_	VerbForm=Inf	7	xcomp	_	_
+9	anne-sophie	anne-sophie	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+
+# sent_id = SEFR2026_0019_SP2_trs_ann0006_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:19.210
+# end = 00:00:20.460
+# text = elle m'a prêté des vêtements
+1	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Emph=No
+2	m'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	iobj	_	Emph=No
+3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
+4	prêté	prêter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	6	det	_	_
+6	vêtements	vêtement	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+
+# sent_id = SEFR2026_0020_SP2_trs_ann0007_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:20.460
+# end = 00:00:22.010
+# text = on dirait un pyjama
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+2	dirait	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	pyjama	pyjama	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+
+# sent_id = SEFR2026_0021_SP2_trs_ann0008_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:22.010
+# end = 00:00:23.420
+# text = j'aurais dû garder ma robe
+1	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+2	aurais	avoir	AUX	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	dû	devoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	garder	garder	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	robe	robe	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+
+# sent_id = SEFR2026_0022_SP2_trs_ann0009_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 9
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:23.420
+# end = 00:00:24.410
+# text = et puis basta quoi
+1	et	et	CCONJ	_	ExtPos=CCONJ	3	cc	_	_
+2	puis	puis	CCONJ	_	_	1	fixed	_	_
+3	basta	basta	INTJ	_	_	0	root	_	_
+4	quoi	quoi	INTJ	_	_	3	discourse	_	_
+
+# sent_id = SEFR2026_0023_display_trs_ann0001_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = display_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:24.430
+# end = 00:00:25.780
+# text = la fête est déjà bien lancée
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	fête	fête	NOUN	_	Gender=Fem|Number=Sing	6	nsubj:pass	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
+4	déjà	déjà	ADV	_	_	6	advmod	_	_
+5	bien	bien	ADV	_	_	6	advmod	_	_
+6	lancée	lancer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+
+# sent_id = SEFR2026_0024_display_trs_ann0002_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = display_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:25.790
+# end = 00:00:29.190
+# text = le repas va pouvoir commencer car tous les invités sont affamés
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	repas	repas	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	pouvoir	pouvoir	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	commencer	commencer	VERB	_	VerbForm=Inf	4	xcomp	_	_
+6	car	car	CCONJ	_	_	11	cc	_	_
+7	tous	tout	ADJ	_	Gender=Masc|Number=Plur	9	amod	_	_
+8	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
+9	invités	invité	NOUN	_	Gender=Masc|Number=Plur	11	nsubj	_	_
+10	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	affamés	affamettre	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	conj	_	_
+
+# sent_id = SEFR2026_0025_SP1_trs_ann0014_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 14
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:29.200
+# end = 00:00:31.650
+# text = et bien je crois que l'heure est venue de s'en foutre plein le gosier
+1	et	et	CCONJ	_	_	4	cc	_	_
+2	bien	bien	ADV	_	_	4	advmod	_	_
+3	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Emph=No
+4	crois	croire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	que	que	SCONJ	_	_	9	mark	_	_
+6	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+7	heure	heure	NOUN	_	Gender=Fem|Number=Sing	9	nsubj:pass	_	_
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	_
+9	venue	venir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	ccomp	_	_
+10	de	de	ADP	_	_	13	mark	_	_
+11	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	13	expl:comp	_	_
+12	en	en	PRON	_	Person=3|PronType=Prs	13	expl:comp	_	_
+13	foutre	foutrer	VERB	_	VerbForm=Inf	9	xcomp	_	_
+14	plein	plein	ADV	_	_	16	advmod	_	_
+15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	gosier	gosier	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
+
+# sent_id = SEFR2026_0026_SP1_trs_ann0015_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 15
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:31.660
+# end = 00:00:33.090
+# text = alors euh bon appétit à tous
+1	alors	alors	ADV	_	_	4	discourse	_	_
+2	euh	euh	INTJ	_	_	4	discourse	_	_
+3	bon	bon	INTJ	_	_	4	discourse	_	_
+4	appétit	appétit	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	à	à	ADP	_	_	6	case	_	_
+6	tous	tout	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Ind	4	nmod	_	_
+
+# sent_id = SEFR2026_0027_SP3_trs_ann0001_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:33.010
+# end = 00:00:34.930
+# text = oui bah c'est de la piémontaise quoi bon
+1	oui	oui	INTJ	_	_	4	discourse	_	_
+2	bah	bah	INTJ	_	_	4	discourse	_	_
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	piémontaise	piémontais	NOUN	_	Gender=Fem|Number=Sing	4	obl:arg	_	_
+8	quoi	quoi	INTJ	_	_	7	discourse	_	_
+9	bon	bon	INTJ	_	_	7	discourse	_	_
+
+# sent_id = SEFR2026_0028_SP2_trs_ann0010_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:34.900
+# end = 00:00:36.510
+# text = bah moi je suis hyper contente
+1	bah	bah	INTJ	_	_	6	discourse	_	_
+2	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	dislocated	_	Emph=Yes
+3	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Emph=No
+4	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	hyper	hyper	ADV	_	_	6	advmod	_	_
+6	contente	content	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2026_0029_SP2_trs_ann0011_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:36.510
+# end = 00:00:39.441
+# text = parce que je trouve qu'un mariage sans piémontaise bah c'est pas un vrai mariage
+1	parce	parce	ADV	_	ExtPos=SCONJ	4	mark	_	_
+2	que	que	SCONJ	_	_	1	fixed	_	_
+3	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Emph=No
+4	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	qu'	que	SCONJ	_	_	16	mark	_	_
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	mariage	mariage	NOUN	_	Gender=Masc|Number=Sing	16	dislocated	_	_
+8	sans	sans	ADP	_	_	9	case	_	_
+9	piémontaise	piémontais	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+10	bah	bah	INTJ	_	_	16	discourse	_	_
+11	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	16	nsubj	_	_
+12	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+13	pas	pas	ADV	_	Polarity=Neg	16	advmod	_	_
+14	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+15	vrai	vrai	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	_
+16	mariage	mariage	NOUN	_	Gender=Masc|Number=Sing	4	ccomp	_	_
+
+# sent_id = SEFR2026_0030_SP2_trs_ann0012_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 12
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:39.441
+# end = 00:00:40.990
+# text = et là c'est parfait
+1	et	et	CCONJ	_	_	5	cc	_	_
+2	là	là	ADV	_	_	5	advmod	_	_
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	parfait	parfait	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2026_0031_SP2_trs_ann0013_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 13
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:40.990
+# end = 00:00:42.367
+# text = parce que j'ai eu ma piémon
+1	parce	parce	ADV	_	ExtPos=SCONJ	5	mark	_	_
+2	que	que	SCONJ	_	_	1	fixed	_	_
+3	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Emph=No
+4	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
+5	eu	avoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	piémon	piémon	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+
+# sent_id = SEFR2026_0032_display_trs_ann0003_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = display_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:42.400
+# end = 00:00:43.970
+# text = les réactions sont unanimes
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
+2	réactions	réaction	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	unanimes	unanime	ADJ	_	Number=Plur	0	root	_	_
+
+# sent_id = SEFR2026_0033_display_trs_ann0004_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = display_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:43.970
+# end = 00:00:48.480
+# text = à part cindy les mariées-juges n'ont pas apprécié le menu que fanny leur a concocté
+1	à	à	ADP	_	ExtPos=ADP	3	case	_	_
+2	part	part	NOUN	_	Gender=Fem|Number=Sing	1	fixed	_	_
+3	cindy	cindy	NOUN	_	Gender=Fem|Number=Sing	9	obl:mod	_	_
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+5	mariées-juges	mariée-juge	NOUN	_	Gender=Fem|Number=Plur	9	nsubj	_	_
+6	n'	ne	ADV	_	Polarity=Neg	9	advmod	_	_
+7	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux:tense	_	_
+8	pas	pas	ADV	_	Polarity=Neg	9	advmod	_	_
+9	apprécié	apprécier	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	menu	menu	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+12	que	que	PRON	_	PronType=Rel	16	obj	_	_
+13	fanny	fanny	PROPN	_	_	16	nsubj	_	_
+14	leur	eux	PRON	_	Number=Plur|Person=3|PronType=Prs	16	iobj	_	Emph=No
+15	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux:tense	_	_
+16	concocté	concocter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	acl:relcl	_	_
+
+# sent_id = SEFR2026_0034_SP4_trs_ann0001_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP4_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:48.500
+# end = 00:00:49.750
+# text = bah j'ai quasiment rien bouffé
+1	bah	bah	INTJ	_	_	6	discourse	_	_
+2	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Emph=No
+3	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux:tense	_	_
+4	quasiment	quasiment	ADV	_	_	6	advmod	_	_
+5	rien	rien	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	6	obj	_	_
+6	bouffé	bouffer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+
+# sent_id = SEFR2026_0035_SP4_trs_ann0002_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP4_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:49.750
+# end = 00:00:51.522
+# text = euh c'était dégueulasse ça me faisait pas du tout envie
+1	euh	euh	INTJ	_	_	4	discourse	_	_
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+3	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+4	dégueulasse	dégueulass	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	_
+6	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	iobj	_	Emph=No
+7	faisait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	_
+8	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	_
+9	de	de	ADP	_	_	12	advmod	_	_
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	fixed	_	_
+11	tout	tout	NOUN	_	Gender=Masc|Number=Sing	9	fixed	_	_
+12	envie	envie	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+
+# sent_id = SEFR2026_0036_SP4_trs_ann0003_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP4_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:51.522
+# end = 00:00:53.357
+# text = moi je pensais que la piémontaise c'était juste l'entrée
+1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	Emph=Yes
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+3	pensais	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	11	mark	_	_
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	piémontaise	piémontais	NOUN	_	Gender=Fem|Number=Sing	11	dislocated	_	_
+7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	_
+8	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+9	juste	juste	ADV	_	_	11	advmod	_	_
+10	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
+11	entrée	entrée	NOUN	_	Gender=Fem|Number=Sing	3	ccomp	_	_
+
+# sent_id = SEFR2026_0037_SP4_trs_ann0004_iu01
+# source = SEFR2026.eaf
+# tool = Stanza
+# tier = SP4_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:53.357
+# end = 00:00:54.249
+# text = mais en fait y avait que ça
+1	mais	mais	CCONJ	_	_	5	cc	_	_
+2	en	en	ADP	_	_	5	discourse	_	_
+3	fait	fait	NOUN	_	Gender=Masc|Number=Sing	2	fixed	_	_
+4	y	y	PRON	_	Person=3|PronType=Prs	5	expl:comp	_	_
+5	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	que	que	SCONJ	_	_	7	case	_	_
+7	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	obj	_	_
+

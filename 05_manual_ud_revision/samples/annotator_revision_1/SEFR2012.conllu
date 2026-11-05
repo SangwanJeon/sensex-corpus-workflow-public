@@ -1,0 +1,692 @@
+# sent_id = SEFR2012_0001_SP1_trs_ann0001_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.660
+# end = 00:00:02.660
+# text = bon je fais cette vidéo parce que je me pose cette question
+1	bon	bon	INTJ	_	_	3	discourse	_	_
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+3	fais	faire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
+5	vidéo	vidéo	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	parce	parce	ADV	_	ExtPos=SCONJ	10	mark	_	_
+7	que	que	SCONJ	_	_	6	fixed	_	_
+8	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Emph=No
+9	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	iobj	_	Emph=No
+10	pose	poser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+11	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	12	det	_	_
+12	question	question	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+
+# sent_id = SEFR2012_0002_display1_trs_ann0001_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = display1_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:02.670
+# end = 00:00:04.590
+# text = où sont les femmes
+1	où	où	ADV	_	PronType=Int	2	obl:arg	_	_
+2	sont	être	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+4	femmes	femme	NOUN	_	Gender=Fem|Number=Plur	2	nsubj	_	_
+
+# sent_id = SEFR2012_0003_SP1_trs_ann0002_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:04.530
+# end = 00:00:06.710
+# text = dans les catégories autres que la beauté sur youtube
+1	dans	dans	ADP	_	_	3	case	_	_
+2	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+3	catégories	catégorie	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+4	autres	autre	ADJ	_	Number=Plur	3	amod	_	_
+5	que	que	SCONJ	_	_	7	case	_	_
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	beauté	beauté	NOUN	_	Gender=Fem|Number=Sing	4	obl:mod	_	_
+8	sur	sur	ADP	_	_	9	case	_	_
+9	youtube	youtube	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+
+# sent_id = SEFR2012_0004_SP1_trs_ann0003_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:06.720
+# end = 00:00:08.770
+# text = alors attention je n' ai rien contre les chaînes de beauté
+1	alors	alors	ADV	_	_	5	discourse	_	_
+2	attention	attention	NOUN	_	ExtPos=INTJ|Gender=Fem	1	discourse	_	_
+3	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Emph=No
+4	n'	ne	ADV	_	Polarity=Neg	5	advmod	_	_
+5	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	rien	rien	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	5	obj	_	_
+7	contre	contre	ADP	_	_	9	case	_	_
+8	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
+9	chaînes	chaîne	NOUN	_	Gender=Fem|Number=Plur	5	obl:mod	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	beauté	beauté	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+
+# sent_id = SEFR2012_0005_SP1_trs_ann0004_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:08.770
+# end = 00:00:10.010
+# text = d' ailleurs ça m' arrive d' en regarder
+1	d'	de	ADP	_	_	2	case	_	_
+2	ailleurs	ailleurs	ADV	_	_	5	advmod	_	_
+3	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	expl:subj	_	_
+4	m'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	iobj	_	Emph=No
+5	arrive	arriver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	d'	de	ADP	_	_	8	mark	_	_
+7	en	en	PRON	_	Person=3|PronType=Prs	8	iobj	_	_
+8	regarder	regarder	VERB	_	VerbForm=Inf	5	xcomp	_	_
+
+# sent_id = SEFR2012_0006_SP1_trs_ann0005_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:10.010
+# end = 00:00:11.760
+# text = elle c' est ma youtubeuse beauté préférée
+1	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	dislocated	_	Emph=No
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	youtubeuse	youtubeuse	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	beauté	beauté	NOUN	_	Gender=Fem|Number=Sing	5	appos	_	_
+7	préférée	préféré	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+
+# sent_id = SEFR2012_0007_SP1_trs_ann0006_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:11.760
+# end = 00:00:14.670
+# text = c' est juste que je trouve qu' il y en a beaucoup par rapport à d' autres catégories de chaînes
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj:outer	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+3	juste	juste	ADV	_	_	6	advmod	_	_
+4	que	que	SCONJ	_	_	6	mark	_	_
+5	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Emph=No
+6	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	qu'	que	SCONJ	_	_	11	mark	_	_
+8	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl:subj	_	Emph=No
+9	y	y	PRON	_	Person=3|PronType=Prs	11	expl:comp	_	_
+10	en	en	PRON	_	Person=3|PronType=Prs	11	obj	_	_
+11	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
+12	beaucoup	beaucoup	ADV	_	_	11	advmod	_	_
+13	par	par	ADP	_	_	14	case	_	_
+14	rapport	rapport	NOUN	_	Gender=Masc|Number=Sing	11	obl:mod	_	_
+15	à	à	ADP	_	_	18	case	_	_
+16	d'	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	18	det	_	_
+17	autres	autre	ADJ	_	Number=Plur	18	amod	_	_
+18	catégories	catégorie	NOUN	_	Gender=Fem|Number=Plur	14	nmod	_	_
+19	de	de	ADP	_	_	20	case	_	_
+20	chaînes	chaîne	NOUN	_	Gender=Fem|Number=Plur	18	nmod	_	_
+
+# sent_id = SEFR2012_0008_SP1_trs_ann0007_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:14.690
+# end = 00:00:17.460
+# text = par exemple il y a tellement peu de femmes qui font des vidéos humoristiques
+1	par	par	ADP	_	_	2	case	_	_
+2	exemple	exemple	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	_
+3	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl:subj	_	Emph=No
+4	y	y	PRON	_	Person=3|PronType=Prs	5	expl:comp	_	_
+5	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	tellement	tellement	ADV	_	_	7	advmod	_	_
+7	peu	peu	ADV	_	ExtPos=PRON	5	obj	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	femmes	femme	NOUN	_	Gender=Fem|Number=Plur	7	obl:arg	_	_
+10	qui	qui	PRON	_	PronType=Rel	11	nsubj	_	_
+11	font	faire	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+12	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	13	det	_	_
+13	vidéos	vidéo	NOUN	_	Gender=Fem|Number=Plur	11	obj	_	_
+14	humoristiques	humoristique	ADJ	_	Number=Plur	13	amod	_	_
+
+# sent_id = SEFR2012_0009_SP1_trs_ann0008_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:17.460
+# end = 00:00:18.150
+# text = je comprends pas
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Emph=No
+2	comprends	comprendre	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pas	pas	ADV	_	Polarity=Neg	2	advmod	_	_
+
+# sent_id = SEFR2012_0010_SP1_trs_ann0009_iu01_
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 9 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:18.150 00:00:19.860
+# end = 00:00:19.860 00:00:20.660
+# text = c' est pas comme si le jour où tu créais ta chaîne ça se passe comme ça
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	15	nsubj:outer	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+3	pas	pas	ADV	_	Polarity=Neg	15	advmod	_	_
+4	comme	comme	ADP	_	_	15	mark	_	_
+5	si	si	SCONJ	_	_	15	mark	_	_
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	jour	jour	NOUN	_	Gender=Masc|Number=Sing	15	obl:mod	_	_
+8	où	où	ADV	_	PronType=Rel	10	advmod	_	_
+9	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	10	nsubj	_	Emph=No
+10	créais	créer	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	7	acl:relcl	_	_
+11	ta	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	chaîne	chaîne	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+13	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	15	nsubj	_	_
+14	se	soi	PRON	_	Person=3|PronType=Prs	15	expl:pv	_	_
+15	passe	passer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+16	comme	comme	ADP	_	_	17	case	_	_
+17	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	15	obl:mod	_	_
+
+# sent_id = SEFR2012_0012_SP2_trs_ann0001_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:22.880
+# end = 00:00:24.370
+# text = pas si vite natoo
+1	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_
+2	si	si	ADV	_	_	3	advmod	_	_
+3	vite	vite	ADV	_	_	0	root	_	_
+4	natoo	natoo	PROPN	_	_	3	discourse	_	_
+
+# sent_id = SEFR2012_0013_SP2_trs_ann0002_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:24.370
+# end = 00:00:25.010
+# text = vous êtes une femme
+1	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
+2	êtes	être	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	femme	femme	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2012_0014_SP2_trs_ann0003_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:25.010
+# end = 00:00:27.078
+# text = et vous voulez créer une chaîne youtube autre qu' une chaîne beauté
+1	et	et	CCONJ	_	_	3	cc	_	_
+2	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
+3	voulez	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	créer	créer	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	chaîne	chaîne	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	youtube	youtube	NOUN	_	Gender=Fem|Number=Sing	6	appos	_	_
+8	autre	autre	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+9	qu'	que	SCONJ	_	_	11	case	_	_
+10	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	chaîne	chaîne	NOUN	_	Gender=Fem|Number=Sing	8	obl:mod	_	_
+12	beauté	beauté	NOUN	_	Gender=Fem|Number=Sing	11	appos	_	_
+
+# sent_id = SEFR2012_0015_SP2_trs_ann0004_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:27.083
+# end = 00:00:29.570
+# text = va falloir prouver que vous le méritez
+1	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	falloir	falloir	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	prouver	prouver	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	que	que	SCONJ	_	_	7	mark	_	_
+5	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_
+6	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	Emph=No
+7	méritez	mériter	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+
+# sent_id = SEFR2012_0016_SP2_trs_ann0005_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:29.570
+# end = 00:00:30.478
+# text = faites moi rire
+1	faites	faire	AUX	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	aux:caus	_	_
+2	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=Yes
+3	rire	rire	VERB	_	VerbForm=Inf	0	root	_	_
+
+# sent_id = SEFR2012_0017_SP1_trs_ann0011_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:32.640
+# end = 00:00:34.470
+# text = ok alors c' est toto il est dans l' espace
+1	ok	ok	INTJ	_	_	5	discourse	_	_
+2	alors	alors	ADV	_	_	5	discourse	_	_
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	toto	toto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Emph=No
+7	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
+8	dans	dans	ADP	_	_	10	case	_	_
+9	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	_
+10	espace	espace	NOUN	_	Gender=Masc|Number=Sing	7	obl:arg	_	_
+
+# sent_id = SEFR2012_0018_SP1_trs_ann0012_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 12
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:34.470
+# end = 00:00:35.680
+# text = et là il pète dans sa combi
+1	et	et	CCONJ	_	_	4	cc	_	_
+2	là	là	ADV	_	_	4	advmod	_	_
+3	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Emph=No
+4	pète	péter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	dans	dans	ADP	_	_	7	case	_	_
+6	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	combi	combi	NOUN	_	Gender=Fem|Number=Sing	4	obl:mod	_	_
+
+# sent_id = SEFR2012_0019_SP1_trs_ann0013_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 13
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:35.680
+# end = 00:00:36.722
+# text = et il explose
+1	et	et	CCONJ	_	_	3	cc	_	_
+2	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Emph=No
+3	explose	exploser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2012_0020_SP1_trs_ann0014_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 14
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:41.850
+# end = 00:00:44.267
+# text = bonjour c' est anne roumanoff
+1	bonjour	bonjour	NOUN	_	Gender=Masc|Number=Sing	4	discourse	_	_
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	anne	anne	PROPN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	roumanoff	roumanoff	PROPN	_	Gender=Masc|Number=Sing	4	flat:name	_	_
+
+# sent_id = SEFR2012_0021_SP1_trs_ann0015_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 15
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:49.740
+# end = 00:00:50.622
+# text = euh prout
+1	euh	euh	INTJ	_	_	2	discourse	_	_
+2	prout	prout	NOUN	_	Gender=Masc	0	root	_	_
+
+# sent_id = SEFR2012_0022_SP2_trs_ann0006_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:56.310
+# end = 00:00:58.120
+# text = t' as dit prout avec la bouche pas avec les fesses
+1	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Emph=No
+2	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	_
+4	prout	prout	NOUN	_	Gender=Masc	3	obj	_	_
+5	avec	avec	ADP	_	_	7	case	_	_
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	bouche	bouche	NOUN	_	Gender=Fem|Number=Sing	3	obl:mod	_	_
+8	pas	pas	ADV	_	Polarity=Neg	11	advmod	_	_
+9	avec	avec	ADP	_	_	11	case	_	_
+10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
+11	fesses	fesse	NOUN	_	Gender=Fem|Number=Plur	3	obl:mod	_	_
+
+# sent_id = SEFR2012_0023_SP2_trs_ann0007_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:01.090
+# end = 00:01:02.200
+# text = vous irez loin natoo
+1	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
+2	irez	aller	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	loin	loin	ADV	_	_	2	advmod	_	_
+4	natoo	natoo	INTJ	_	_	2	vocative	_	_
+
+# sent_id = SEFR2012_0024_SP1_trs_ann0016_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 16
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:03.144
+# end = 00:01:03.533
+# text = prout
+1	prout	prout	NOUN	_	Gender=Masc	0	root	_	_
+
+# sent_id = SEFR2012_0025_SP1_trs_ann0017_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 17
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:05.206
+# end = 00:01:06.960
+# text = alors quand j' ai débuté sur youtube en deux mille onze
+1	alors	alors	ADV	_	_	5	advmod	_	_
+2	quand	quand	SCONJ	_	_	5	mark	_	_
+3	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Emph=No
+4	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
+5	débuté	débuter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	sur	sur	ADP	_	_	7	case	_	_
+7	youtube	youtube	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	deux	deux	NUM	_	Number=Plur	5	obl:mod	_	_
+10	mille	mille	NUM	_	Number=Plur	9	flat	_	_
+11	onze	onze	NUM	_	Number=Plur	9	flat	_	_
+
+# sent_id = SEFR2012_0026_SP1_trs_ann0018_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 18
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:06.960
+# end = 00:01:08.570
+# text = oh là là que le temps passe vite
+1	oh	oh	INTJ	_	ExtPos=INTJ	7	discourse	_	Idiom=Yes
+2	là	là	INTJ	_	_	1	fixed	_	InIdiom=Yes
+3	là	là	INTJ	_	_	1	fixed	_	InIdiom=Yes
+4	que	que	SCONJ	_	_	7	mark	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	temps	temps	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+7	passe	passer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	vite	vite	ADV	_	_	7	advmod	_	_
+
+# sent_id = SEFR2012_0027_SP1_trs_ann0019_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 19
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:08.570
+# end = 00:01:12.080
+# text = je me rappelle qu' on me disait souvent que ça marchait pour moi parce que j' étais la petite amie de kemar
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+2	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	iobj	_	Emph=No
+3	rappelle	rappeler	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	qu'	que	SCONJ	_	_	7	mark	_	_
+5	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	7	nsubj	_	_
+6	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	iobj	_	Emph=No
+7	disait	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
+8	souvent	souvent	ADV	_	_	7	advmod	_	_
+9	que	que	SCONJ	_	_	11	mark	_	_
+10	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	_
+11	marchait	marcher	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	ccomp	_	_
+12	pour	pour	ADP	_	_	13	case	_	_
+13	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	11	obl:mod	_	Emph=Yes
+14	parce	parce	ADV	_	ExtPos=SCONJ	20	mark	_	_
+15	que	que	SCONJ	_	_	14	fixed	_	_
+16	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	20	nsubj	_	Emph=No
+17	étais	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	20	cop	_	_
+18	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+19	petite	petit	ADJ	_	Gender=Fem|Number=Sing	20	amod	_	_
+20	amie	amie	NOUN	_	Gender=Fem|Number=Sing	11	advcl	_	_
+21	de	de	ADP	_	_	22	case	_	_
+22	kemar	kemar	PROPN	_	Gender=Masc|Number=Sing	20	nmod	_	_
+
+# sent_id = SEFR2012_0028_SP1_trs_ann0020_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 20
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:12.080
+# end = 00:01:15.494
+# text = à l' époque il était déjà connu parce qu' il faisait des vidéos avec norman et hugo dans le velcrou
+1	à	à	ADP	_	_	3	case	_	_
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
+3	époque	époque	NOUN	_	Gender=Fem|Number=Sing	7	obl:mod	_	_
+4	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj:pass	_	Emph=No
+5	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux:pass	_	_
+6	déjà	déjà	ADV	_	_	7	advmod	_	_
+7	connu	connaître	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	parce	parce	ADV	_	ExtPos=SCONJ	11	mark	_	_
+9	qu'	que	SCONJ	_	_	8	fixed	_	_
+10	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Emph=No
+11	faisait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	_
+12	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	13	det	_	_
+13	vidéos	vidéo	NOUN	_	Gender=Fem|Number=Plur	11	obj	_	_
+14	avec	avec	ADP	_	_	15	case	_	_
+15	norman	norman	PROPN	_	Gender=Masc|Number=Sing	11	obl:mod	_	_
+16	et	et	CCONJ	_	_	17	cc	_	_
+17	hugo	hugo	PROPN	_	_	15	conj	_	_
+18	dans	dans	ADP	_	_	20	case	_	_
+19	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	velcrou	velcrou	PROPN	_	Gender=Masc|Number=Sing	11	obl:mod	_	_
+
+# sent_id = SEFR2012_0029_display2_trs_ann0001_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = display2_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:15.380
+# end = 00:01:16.528
+# text = ouh ça va les mecs
+1	ouh	ouh	INTJ	_	_	3	discourse	_	_
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+3	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+5	mecs	mecs	NOUN	_	Gender=Masc|Number=Plur	3	vocative	_	_
+
+# sent_id = SEFR2012_0030_display3_trs_ann0001_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = display3_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:16.450
+# end = 00:01:18.050
+# text = bah dis donc patrice t' as la patate
+1	bah	bah	INTJ	_	_	2	discourse	_	_
+2	dis	dire	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	donc	donc	ADV	_	_	2	dep	_	_
+4	patrice	patrice	PROPN	_	_	2	vocative	_	_
+5	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Emph=No
+6	as	avoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	patate	patate	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+
+# sent_id = SEFR2012_0031_SP1_trs_ann0021_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 21
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:18.020
+# end = 00:01:20.170
+# text = bon vous l' avez compris je dois ma réussite à mon mec
+1	bon	bon	INTJ	_	_	5	discourse	_	_
+2	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_
+3	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	5	obj	_	Emph=No
+4	avez	avoir	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
+5	compris	comprendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	parataxis	_	_
+6	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Emph=No
+7	dois	devoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	réussite	réussite	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+10	à	à	ADP	_	_	12	case	_	_
+11	mon	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	mec	mec	NOUN	_	Gender=Masc|Number=Sing	7	obl:arg	_	_
+
+# sent_id = SEFR2012_0032_SP1_trs_ann0022_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 22
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:20.170
+# end = 00:01:20.730
+# text = pas à moi
+1	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_
+2	à	à	ADP	_	_	3	case	_	_
+3	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	0	root	_	Emph=Yes
+
+# sent_id = SEFR2012_0033_SP1_trs_ann0023_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 23
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:20.730
+# end = 00:01:26.110
+# text = quand j' y pense bah je me dis que bordel mais j' aurais dû essayer de coucher avec norman squeezie ou cyprien
+1	quand	quand	SCONJ	_	_	4	mark	_	_
+2	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Emph=No
+3	y	y	PRON	_	Person=3|PronType=Prs	4	iobj	_	_
+4	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+5	bah	bah	INTJ	_	_	4	discourse	_	_
+6	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Emph=No
+7	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	iobj	_	Emph=No
+8	dis	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	que	que	SCONJ	_	_	14	mark	_	_
+10	bordel	bordel	NOUN	_	Gender=Masc|Number=Sing	14	discourse	_	_
+11	mais	mais	CCONJ	_	_	14	cc	_	_
+12	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	Emph=No
+13	aurais	avoir	AUX	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux:tense	_	_
+14	dû	devoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	ccomp	_	_
+15	essayer	essayer	VERB	_	VerbForm=Inf	14	xcomp	_	_
+16	de	de	ADP	_	_	17	mark	_	_
+17	coucher	coucher	VERB	_	VerbForm=Inf	15	xcomp	_	_
+18	avec	avec	ADP	_	_	19	case	_	_
+19	norman	norman	PROPN	_	_	17	obl:mod	_	_
+20	squeezie	squeezie	PROPN	_	_	19	parataxis	_	_
+21	ou	ou	CCONJ	_	_	22	cc	_	_
+22	cyprien	cyprien	PROPN	_	Gender=Masc|Number=Sing	20	conj	_	_
+
+# sent_id = SEFR2012_0034_SP1_trs_ann0024_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 24
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:26.120
+# end = 00:01:27.760
+# text = j' aurais été encore plus connue aujourd'hui
+1	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj:pass	_	Emph=No
+2	aurais	avoir	AUX	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux:tense	_	_
+3	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	aux:pass	_	_
+4	encore	encore	ADV	_	_	6	advmod	_	_
+5	plus	plus	ADV	_	_	6	advmod	_	_
+6	connue	connaître	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	aujourd'hui	aujourd'hui	ADV	_	_	6	advmod	_	_
+
+# sent_id = SEFR2012_0035_SP1_trs_ann0025_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 25
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:27.770
+# end = 00:01:28.260
+# text = attends
+1	attends	attendre	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2012_0036_SP1_trs_ann0026_iu01
+# source = SEFR2012.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 26
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:28.260
+# end = 00:01:30.006
+# text = squeezie il avait pas quinze ans quand j' ai commencé
+1	squeezie	squeezie	PROPN	_	_	3	dislocated	_	_
+2	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Emph=No
+3	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_
+5	quinze	quinze	NUM	_	Number=Plur	6	nummod	_	_
+6	ans	an	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+7	quand	quand	SCONJ	_	_	10	mark	_	_
+8	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Emph=No
+9	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux:tense	_	_
+10	commencé	commencer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+

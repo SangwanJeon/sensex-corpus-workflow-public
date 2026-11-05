@@ -1,0 +1,33 @@
+id,group,excessive,survey,survey_vid_number,file_name_in_corpus,external_links,index,Emo_Anger,Emo_Boredom,Emo_Disgust,Emo_Fear,Emo_Joy,Emo_None,Emo_Sadness,Emo_Surprise,Exc_Discourse,Exc_Facial,Exc_Gestures,Exc_Global,Exc_Other,Exc_Speed,Exc_Subject,Exc_Tone,Exc_TurnTaking,Exc_Voice,Exc_Words
+nex-ns-maeva-b-a,7,False,s,vid3,0-MaevaVagin,,31,18,27,66,10,1,14,9,28,115,111,93,175,17,76,187,104,62,112,138
+ex-s01-fraisou,6,True,s,vid1,0-SARAHFRAISOU,https://youtu.be/Dsa11bDdXcM?si=cHNlv81ec9Acnz6z ,25,19,47,68,4,1,18,14,19,154,120,71,156,20,83,179,140,36,114,182
+ex-s05-tibo-a,3,True,s,vid5,0-TiboInShape,,13,9,46,10,6,10,39,0,11,64,102,138,111,5,122,69,120,17,144,68
+nex-ns-elmaleh,1,False,ns,,nexc_GadElmaleh,,4,,,,,,,,,,,,,,,,,,,
+ex-s10-angelvy-a,2,True,s,vid10,0-ThomasAngelvy,,5,8,13,24,0,40,12,1,31,59,62,57,100,4,43,0,55,25,55,125
+ex-ns-angelvy-b,2,True,ns,,exc_ThomasAngelvy_long,https://www.tiktok.com/@thomasangelvy/video/7439773069251546400?_r=1&_t=ZN-8tVH2WIdWNS,6,,,,,,,,,,,,,,,,,,,
+ex-ns-maeva-a,2,True,ns,,exc_MaevaTiktok,https://www.tiktok.com/@rap.qui.peut/video/7103915344565161222?_r=1&_t=ZN-8tc9wIjoGaV,7,,,,,,,,,,,,,,,,,,,
+ex-ns-maeva-b,2,True,ns,,exc_MaevaVagin_43sec,,8,,,,,,,,,,,,,,,,,,,
+ex-ns-maeva-a-b,2,True,ns,,exc_MaevaTiktok_Vagin_43sec,,9,,,,,,,,,,,,,,,,,,,
+nex-ns-sananas-b,2,False,ns,,nexc_Sananas,https://youtube.com/clip/UgkxYyerUlMbzCdfDVeJ7wJjv34-aUNOL0YT?si=o63Ydn2id440Tf9_ [placement8]-[groupe2]-[Sananas]-[FOURMAUX],10,,,,,,,,,,,,,,,,,,,
+ex-s07-domi-yani,1,True,s,vid7,0-DomiYani,,1,3,36,8,0,22,38,1,11,87,70,77,77,6,101,50,89,119,114,75
+nex-ns-bentalha,2,False,ns,,nexc_MalikBentalha,,12,,,,,,,,,,,,,,,,,,,
+ex-s08-artus-c,5,True,s,vid8,0-Artus,,22,5,14,9,0,49,19,3,13,23,119,80,65,4,46,73,54,5,48,44
+ex-ns-arnaud-jerome-a,3,True,ns,,exc_ArnaudJerome,,14,,,,,,,,,,,,,,,,,,,
+nex-ns-tibo-b,3,False,ns,,nexc_TiboInShape,,15,,,,,,,,,,,,,,,,,,,
+nex-ns-arnaud-jerome-b,3,False,ns,,nexc_ArnaudJerome,,16,,,,,,,,,,,,,,,,,,,
+ex-ns-fabian-a,4,True,ns,,exc_Fabian,https://www.youtube.com/watch?v=j7zng8a2PKk&ab_channel=FabianCR,17,,,,,,,,,,,,,,,,,,,
+ex-ns-artus-a,4,True,ns,,exc_Artus,https://www.youtube.com/watch?v=egM-wlaobjo&ab_channel=MontreuxComedy,18,,,,,,,,,,,,,,,,,,,
+nex-ns-fabian-b,4,False,ns,,nexc_Fabian,https://www.youtube.com/watch?v=j7zng8a2PKk&ab_channel=FabianCR,19,,,,,,,,,,,,,,,,,,,
+nex-ns-artus-b,4,False,ns,,nexc_Artus_a,,20,,,,,,,,,,,,,,,,,,,
+ex-ns-fabian-c,5,True,ns,,exc_FabianGhennam,,21,,,,,,,,,,,,,,,,,,,
+ex-s09-boon,1,True,s,vid9,0-DanyBoon,,2,1,13,1,0,73,15,1,5,50,82,74,54,5,61,51,64,10,67,73
+nex-s04-fabian-d,5,False,s,vid4,0-FabianGhennam,,23,1,42,3,0,3,64,3,4,44,48,51,40,8,51,30,39,13,44,27
+nex-ns-artus-d,5,False,ns,,nexc_Artus_b,,24,,,,,,,,,,,,,,,,,,,
+nex-s02-sananas-a,1,False,s,vid2,0-SANANAS-2,,3,1,48,0,0,10,71,0,2,47,30,34,25,4,38,26,36,17,39,23
+ex-ns-bigard,6,True,ns,,exc_JMBigard,https://youtu.be/Kmxqqvcm-Jc?si=Q1lWSezmdfWxF3hk,26,,,,,,,,,,,,,,,,,,,
+nex-ns-devos,6,False,ns,,nexc_RaymondDevos,https://youtu.be/hz5xWgjSUlk ,27,,,,,,,,,,,,,,,,,,,
+nex-ns-benattia,6,False,ns,,nexc_NabillaBenattia,,28,,,,,,,,,,,,,,,,,,,
+ex-ns-maeva-b-b,7,True,ns,,exc_MaevaVagin_22sec,,29,,,,,,,,,,,,,,,,,,,
+ex-ns-sylla-a,7,True,ns,,exc_AhmedSylla,,30,,,,,,,,,,,,,,,,,,,
+nex-s06-sananas-c,2,False,s,vid6,0-Sananas,,11,1,38,0,0,10,62,0,1,35,34,29,21,5,27,22,46,10,35,21
+nex-ns-sylla-b,7,False,ns,,nexc_AhmedSylla,,32,,,,,,,,,,,,,,,,,,,

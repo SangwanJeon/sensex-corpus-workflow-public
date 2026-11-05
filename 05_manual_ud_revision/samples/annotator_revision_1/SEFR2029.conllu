@@ -1,0 +1,305 @@
+# sent_id = SEFR2029_0001_SP1_trs_ann0001_iu01
+# source = SEFR2029.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.000
+# end = 00:00:02.950
+# text = le groupe de les french tacos a vraiment explosé à le niveau mondial les gars
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	groupe	groupe	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+5	french	french	ADJ	_	Foreign=Yes	2	nmod	_	_
+6	tacos	tacos	NOUN	_	Foreign=Yes	5	flat:name	_	_
+7	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:tense	_	_
+8	vraiment	vraiment	ADV	_	_	9	advmod	_	_
+9	explosé	exploser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+10	à	à	ADP	_	_	12	case	_	_
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	niveau	niveau	NOUN	_	Gender=Masc|Number=Sing	9	obl:mod	_	_
+13	mondial	mondial	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_
+14	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	15	det	_	_
+15	gars	gars	NOUN	_	Gender=Masc|Number=Plur	9	vocative	_	_
+
+# sent_id = SEFR2029_0002_SP1_trs_ann0002_iu01
+# source = SEFR2029.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:02.950
+# end = 00:00:04.150
+# text = on est les top un en france
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+4	top	top	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+5	un	un	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nmod	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	france	france	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+
+# sent_id = SEFR2029_0003_SP1_trs_ann0003_iu01
+# source = SEFR2029.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:04.150
+# end = 00:00:08.190
+# text = ça fait qu' avec le temps il y a beaucoup de personnes qui ont créé des teams similaires à la french tacos
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
+2	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	qu'	que	SCONJ	_	_	9	mark	_	_
+4	avec	avec	ADP	_	_	6	case	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	temps	temps	NOUN	_	Gender=Masc|Number=Sing	9	obl:mod	_	_
+7	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl:subj	_	Emph=No
+8	y	y	PRON	_	Person=3|PronType=Prs	9	expl:comp	_	_
+9	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+10	beaucoup	beaucoup	ADV	_	ExtPos=PRON	9	obj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	personnes	personne	NOUN	_	Gender=Fem|Number=Plur	10	nmod	_	_
+13	qui	qui	PRON	_	PronType=Rel	15	nsubj	_	_
+14	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux:tense	_	_
+15	créé	créer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	acl:relcl	_	_
+16	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	17	det	_	_
+17	teams	team	NOUN	_	Gender=Masc|Number=Plur	15	obj	_	_
+18	similaires	similaire	ADJ	_	Number=Plur	17	amod	_	_
+19	à	à	ADP	_	_	21	case	_	_
+20	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	french	french	ADJ	_	Foreign=Yes	18	obl:arg	_	_
+22	tacos	tacos	NOUN	_	Gender=Masc|Number=Plur	21	flat:name	_	_
+
+# sent_id = SEFR2029_0004_SP1_trs_ann0004_iu01
+# source = SEFR2029.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:08.190
+# end = 00:00:09.520
+# text = par contre là où ça va trop loin
+1	par	par	ADP	_	ExtPos=ADV	3	discourse	_	Idiom=Yes
+2	contre	contre	NOUN	_	_	1	fixed	_	InIdiom=Yes
+3	là	là	ADV	_	_	0	root	_	_
+4	où	où	ADV	_	PronType=Rel	6	advmod	_	_
+5	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
+6	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+7	trop	trop	ADV	_	_	8	advmod	_	_
+8	loin	loin	ADV	_	_	6	advmod	_	_
+
+# sent_id = SEFR2029_0005_SP1_trs_ann0005_iu01
+# source = SEFR2029.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:09.520
+# end = 00:00:12.050
+# text = c' est qu' il y a des gens qui se font passer pour les french tacos
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj:outer	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+3	qu'	que	SCONJ	_	_	6	mark	_	_
+4	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	Emph=No
+5	y	y	PRON	_	Person=3|PronType=Prs	6	expl:comp	_	_
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	8	det	_	_
+8	gens	gens	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+9	qui	qui	PRON	_	PronType=Rel	12	nsubj:caus	_	_
+10	se	soi	PRON	_	Person=3|PronType=Prs	12	obj:agent	_	_
+11	font	faire	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux:caus	_	_
+12	passer	passer	VERB	_	VerbForm=Inf	8	acl:relcl	_	_
+13	pour	pour	ADP	_	_	15	case	_	_
+14	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	15	det	_	_
+15	french	french	ADJ	_	Foreign=Yes	12	obl:mod	_	_
+16	tacos	tacos	NOUN	_	Gender=Masc|Number=Plur	15	flat:name	_	_
+
+# sent_id = SEFR2029_0006_SP1_trs_ann0006_iu01
+# source = SEFR2029.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:12.050
+# end = 00:00:15.170
+# text = regardez par exemple sur ma dernière vidéo on a un abonné qui a mis un commentaire
+1	regardez	regarder	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	par	par	ADP	_	_	3	case	_	_
+3	exemple	exemple	NOUN	_	Gender=Masc|Number=Sing	1	obl:mod	_	_
+4	sur	sur	ADP	_	_	7	case	_	_
+5	ma	mon	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	7	det	_	_
+6	dernière	dernier	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
+7	vidéo	vidéo	NOUN	_	Gender=Fem|Number=Sing	9	obl:mod	_	_
+8	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	9	nsubj	_	_
+9	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+10	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	abonné	abonné	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+12	qui	qui	PRON	_	PronType=Rel	14	nsubj	_	_
+13	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux:tense	_	_
+14	mis	mettre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	acl:relcl	_	_
+15	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	commentaire	commentaire	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	_
+
+# sent_id = SEFR2029_0007_SP1_trs_ann0007_iu01
+# source = SEFR2029.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:15.170
+# end = 00:00:15.740
+# text = il a écrit
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Emph=No
+2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	écrit	écrire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+
+# sent_id = SEFR2029_0008_SP1_trs_ann0008_iu01
+# source = SEFR2029.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:15.740
+# end = 00:00:19.030
+# text = salut jeanfils je viens te prévenir que des gens se font passer pour les frenchtacos
+1	salut	salut	INTJ	_	_	4	discourse	_	_
+2	jeanfils	jeanfils	PROPN	_	_	4	discourse	_	_
+3	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Emph=No
+4	viens	venir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	te	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	6	obj	_	Emph=No
+6	prévenir	prévenir	VERB	_	VerbForm=Inf	4	xcomp	_	_
+7	que	que	SCONJ	_	_	12	mark	_	_
+8	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	9	det	_	_
+9	gens	gens	NOUN	_	Gender=Masc|Number=Plur	12	nsubj:caus	_	_
+10	se	soi	PRON	_	Person=3|PronType=Prs	12	obj:agent	_	_
+11	font	faire	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux:caus	_	_
+12	passer	passer	VERB	_	VerbForm=Inf	6	ccomp	_	_
+13	pour	pour	ADP	_	_	15	case	_	_
+14	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	15	det	_	_
+15	frenchtacos	frenchtacos	PROPN	_	Gender=Masc|Number=Plur	12	obl:mod	_	_
+
+# sent_id = SEFR2029_0009_SP1_trs_ann0009_iu01
+# source = SEFR2029.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 9
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:19.030
+# end = 00:00:20.550
+# text = Ils m' ont scam tous mes brainrots
+1	Ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Emph=No
+2	m'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	iobj	_	Emph=No
+3	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
+4	scam	scam	VERB	_	Gender=Masc|Number=Sing	0	root	_	_
+5	tous	tout	ADJ	_	Gender=Masc|Number=Plur	7	amod	_	_
+6	mes	mon	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	brainrots	brainrot	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+
+# sent_id = SEFR2029_0010_SP1_trs_ann0010_iu01
+# source = SEFR2029.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:20.550
+# end = 00:00:24.160
+# text = et là il nous a donné le discord de les gens qui se font passer pour les french tacos
+1	et	et	CCONJ	_	_	6	cc	_	_
+2	là	là	ADV	_	_	6	advmod	_	_
+3	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Emph=No
+4	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	6	iobj	_	_
+5	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:tense	_	_
+6	donné	donner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	discord	discord	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
+11	gens	gens	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	_
+12	qui	qui	PRON	_	PronType=Rel	15	nsubj:caus	_	_
+13	se	soi	PRON	_	Person=3|PronType=Prs	15	obj:agent	_	_
+14	font	faire	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux:caus	_	_
+15	passer	passer	VERB	_	VerbForm=Inf	11	acl:relcl	_	_
+16	pour	pour	ADP	_	_	18	case	_	_
+17	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
+18	french	french	ADJ	_	Foreign=Yes	15	obl:mod	_	_
+19	tacos	tacos	NOUN	_	Gender=Masc|Number=Plur	18	flat:name	_	_
+
+# sent_id = SEFR2029_0011_SP1_trs_ann0011_iu01
+# source = SEFR2029.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:24.160
+# end = 00:00:26.880
+# text = de base ça me dérange pas que des gens se fassent passer pour nous voilà
+1	de	de	ADP	_	_	2	case	_	_
+2	base	base	NOUN	_	Gender=Fem|Number=Sing	5	obl:mod	_	_
+3	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+4	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	obj	_	Emph=No
+5	dérange	déranger	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	_
+7	que	que	SCONJ	_	_	12	mark	_	_
+8	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	9	det	_	_
+9	gens	gens	NOUN	_	Gender=Masc|Number=Plur	12	nsubj:caus	_	_
+10	se	soi	PRON	_	Person=3|PronType=Prs	12	obj:agent	_	_
+11	fassent	faire	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux:caus	_	_
+12	passer	passer	VERB	_	VerbForm=Inf	5	ccomp	_	_
+13	pour	pour	ADP	_	_	14	case	_	_
+14	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	12	obl:mod	_	_
+15	voilà	voilà	VERB	_	_	5	discourse	_	_
+
+# sent_id = SEFR2029_0012_SP1_trs_ann0012_iu01
+# source = SEFR2029.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 12
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:26.880
+# end = 00:00:27.500
+# text = c' est le fun
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	fun	fun	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2029_0013_SP1_trs_ann0013_iu01
+# source = SEFR2029.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 13
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:27.500
+# end = 00:00:29.840
+# text = les gens ils sont fans de de le groupe qu' on a créé et tout
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
+2	gens	gens	NOUN	_	Gender=Masc|Number=Plur	5	dislocated	_	_
+3	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	Emph=No
+4	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	fans	fan	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+6	de	de	ADP	_	_	7	reparandum	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	groupe	groupe	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+10	qu'	que	PRON	_	PronType=Rel	13	obj	_	_
+11	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	13	nsubj	_	_
+12	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux:tense	_	_
+13	créé	créer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	acl:relcl	_	_
+14	et	et	CCONJ	_	ExtPos=ADV	13	conj	_	_
+15	tout	tout	ADV	_	_	14	fixed	_	_
+

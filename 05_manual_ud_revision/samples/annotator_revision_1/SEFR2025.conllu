@@ -1,0 +1,554 @@
+# sent_id = SEFR2025_0001_SP1_trs_ann0001_iu01
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.280
+# end = 00:00:06.720
+# text = et euh et vraiment j' ai j' ai une vision sur le jeu sur certaines mécas certains trucs à bosser
+1	et	et	CCONJ	_	_	3	reparandum	_	_
+2	euh	euh	INTJ	_	_	8	discourse	_	_
+3	et	et	CCONJ	_	_	8	cc	_	_
+4	vraiment	vraiment	ADV	_	_	8	advmod	_	_
+5	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Emph=No
+6	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	reparandum	_	_
+7	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Emph=No
+8	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	vision	vision	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+11	sur	sur	ADP	_	_	13	case	_	_
+12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	jeu	jeu	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+14	sur	sur	ADP	_	_	16	case	_	_
+15	certaines	certain	DET	_	Gender=Fem|Number=Plur|PronType=Ind	16	det	_	_
+16	mécas	méca	NOUN	_	Gender=Masc|Number=Plur	13	parataxis	_	_
+17	certains	certain	DET	_	Gender=Masc|Number=Plur|PronType=Ind	18	det	_	_
+18	trucs	truc	NOUN	_	Gender=Masc|Number=Plur	16	parataxis	_	_
+19	à	à	ADP	_	_	20	mark	_	_
+20	bosser	bosser	VERB	_	VerbForm=Inf	18	acl	_	_
+
+# sent_id = SEFR2025_0002_SP1_trs_ann0002_iu01
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:07.300
+# end = 00:00:11.520
+# text = et ouais en fait je me rends compte que là je suis à mille cinq cent cinquante mille six cents presque
+1	et	et	CCONJ	_	_	7	cc	_	_
+2	ouais	ouais	INTJ	_	_	7	discourse	_	_
+3	en	en	ADP	_	ExtPos=ADV	7	discourse	_	Idiom=Yes
+4	fait	fait	NOUN	_	Gender=Masc|Number=Sing	3	fixed	_	InIdiom=Yes
+5	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Emph=No
+6	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	expl:pv	_	Emph=No
+7	rends	rendre	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	compte	compte	NOUN	_	Gender=Masc|Number=Sing	7	obj:lvc	_	_
+9	que	que	SCONJ	_	_	18	mark	_	_
+10	là	là	ADV	_	_	18	advmod	_	_
+11	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	18	nsubj	_	Emph=No
+12	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	cop	_	_
+13	à	à	ADP	_	_	18	case	_	_
+14	mille	mille	NUM	_	Number=Plur	18	reparandum	_	_
+15	cinq	cinq	NUM	_	Number=Plur	14	flat	_	_
+16	cent	cent	NUM	_	Number=Plur	14	flat	_	_
+17	cinquante	cinquante	NUM	_	Number=Plur	14	flat	_	_
+18	mille	mille	NUM	_	Number=Plur	8	ccomp	_	_
+19	six	six	NUM	_	Number=Plur	18	flat	_	_
+20	cents	cents	NUM	_	Number=Plur	18	flat	_	_
+21	presque	presque	ADV	_	_	18	advmod	_	_
+
+# sent_id = SEFR2025_0003_Moderator3_ann0001_iu01_SEFR2025_0004_Moderator3_ann0001_iu02
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = Moderator3
+# annotation_index = 1
+# iu_index = 1 2
+# iu_count = 2
+# start = 00:00:09.527
+# end = 00:00:11.527
+# text = Téléchargez l' extension de navigateur pour être prévenu quand je stream : https://sardoche.tv/
+# original_annotation = Téléchargez l'extension de navigateur pour être prévenu quand je stream : https://sardoche.tv/
+1	Téléchargez	télécharger	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
+3	extension	extension	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	navigateur	navigateur	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	pour	pour	ADP	_	_	8	mark	_	_
+7	être	être	AUX	_	VerbForm=Inf	8	aux:pass	_	_
+8	prévenu	prévenir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	advcl	_	_
+9	quand	quand	SCONJ	_	_	11	mark	_	_
+10	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	Emph=No
+11	stream	stream	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+12	:	:	PUNCT	_	_	13	punct	_	_
+13	https://sardoche.tv/	https://sardoche.tv/	PROPN	_	_	1	obl:mod	_	_
+
+# sent_id = SEFR2025_0005_SP1_trs_ann0003_iu01
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:11.880
+# end = 00:00:12.860
+# text = enfin je suis à mille cinq cent trente
+1	enfin	enfin	ADV	_	ExtPos=INTJ	5	discourse	_	_
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Emph=No
+3	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	à	à	ADP	_	_	5	case	_	_
+5	mille	mille	NUM	_	Number=Plur	0	root	_	_
+6	cinq	cinq	NUM	_	Number=Plur	5	flat	_	_
+7	cent	cent	NUM	_	Number=Plur	5	flat	_	_
+8	trente	trente	NUM	_	Number=Plur	5	flat	_	_
+
+# sent_id = SEFR2025_0006_SP1_trs_ann0004_iu01
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:12.860
+# end = 00:00:14.930
+# text = mais je veux dire euh on était vraiment bon avec un bon win rate
+1	mais	mais	CCONJ	_	_	3	cc	_	_
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+3	veux	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	discourse	_	_
+4	dire	dire	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	euh	euh	INTJ	_	_	9	discourse	_	_
+6	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	9	nsubj	_	_
+7	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+8	vraiment	vraiment	ADV	_	_	9	advmod	_	_
+9	bon	bon	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+10	avec	avec	ADP	_	_	13	case	_	_
+11	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	bon	bon	ADJ	_	_	13	amod	_	_
+13	win	win	NOUN	_	Foreign=Yes	9	obl:mod	_	_
+14	rate	rate	NOUN	_	Foreign=Yes	13	flat	_	_
+
+# sent_id = SEFR2025_0007_SP1_trs_ann0005_iu01
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:15.450
+# end = 00:00:18.130
+# text = j' ai l' impression que on peut faire beaucoup beaucoup plus
+1	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Emph=No
+2	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
+4	impression	impression	NOUN	_	Gender=Fem|Number=Sing	2	obj:lvc	_	_
+5	que	que	SCONJ	_	_	7	mark	_	_
+6	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	7	nsubj	_	_
+7	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+8	faire	faire	VERB	_	VerbForm=Inf	7	xcomp	_	_
+9	beaucoup	beaucoup	ADV	_	_	11	advmod	_	_
+10	beaucoup	beaucoup	ADV	_	_	11	advmod	_	_
+11	plus	plus	ADV	_	_	8	advmod	_	_
+
+# sent_id = SEFR2025_0008_SP1_trs_ann0006_iu01
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:18.200
+# end = 00:00:20.570
+# text = mais je peux pousser mon elo actuel
+1	mais	mais	CCONJ	_	_	3	cc	_	_
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+3	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	pousser	pousser	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	mon	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	elo	elo	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	actuel	actuel	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+
+# sent_id = SEFR2025_0009_SP1_trs_ann0007_iu01
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:20.570
+# end = 00:00:24.960
+# text = et avec ce que j' ai en jouant juste être un peu meilleur et peut-être monter à mille six cent mille six cent cinquante
+1	et	et	CCONJ	_	_	13	cc	_	_
+2	avec	avec	ADP	_	_	3	case	_	_
+3	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	obl:mod	_	_
+4	que	que	PRON	_	PronType=Rel	6	obj	_	_
+5	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Emph=No
+6	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+7	en	en	ADP	_	_	8	mark	_	_
+8	jouant	jouer	VERB	_	Tense=Pres|VerbForm=Part	13	advcl	_	_
+9	juste	juste	ADV	_	_	8	advmod	_	_
+10	être	être	AUX	_	VerbForm=Inf	13	cop	_	_
+11	un	un	DET	_	Definite=Ind|ExtPos=ADV|Gender=Masc|Number=Sing|PronType=Art	13	advmod	_	Idiom=Yes
+12	peu	peu	NOUN	_	Gender=Masc|Number=Sing	11	fixed	_	InIdiom=Yes
+13	meilleur	meilleur	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+14	et	et	CCONJ	_	_	16	cc	_	_
+15	peut-être	peut-être	ADV	_	_	16	advmod	_	_
+16	monter	monter	VERB	_	VerbForm=Inf	13	conj	_	_
+17	à	à	ADP	_	_	18	case	_	_
+18	mille	mille	NUM	_	Number=Plur	16	obl:arg	_	_
+19	six	six	NUM	_	Number=Plur	18	flat	_	_
+20	cent	cent	NUM	_	Number=Plur	18	flat	_	_
+21	mille	mille	NUM	_	Number=Plur	18	parataxis	_	_
+22	six	six	NUM	_	Number=Plur	21	flat	_	_
+23	cent	cent	NUM	_	Number=Plur	21	flat	_	_
+24	cinquante	cinquante	NUM	_	Number=Plur	21	flat	_	_
+
+# sent_id = SEFR2025_0010_SP1_trs_ann0008_iu01
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:25.000
+# end = 00:00:30.270
+# text = mais en fait euh j' ai envie entre guillemets de repartir à zéro dans ma construction de le de le neutral
+1	mais	mais	CCONJ	_	_	6	cc	_	_
+2	en	en	ADP	_	ExtPos=ADV	6	discourse	_	Idiom=Yes
+3	fait	fait	NOUN	_	Gender=Masc|Number=Sing	2	fixed	_	InIdiom=Yes
+4	euh	euh	INTJ	_	_	6	discourse	_	_
+5	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Emph=No
+6	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	envie	envie	NOUN	_	Gender=Fem|Number=Sing	6	obj:lvc	_	_
+8	entre	entre	ADP	_	_	9	case	_	_
+9	guillemets	guillemet	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	_
+10	de	de	ADP	_	_	11	mark	_	_
+11	repartir	repartir	VERB	_	VerbForm=Inf	7	xcomp	_	_
+12	à	à	ADP	_	_	13	case	_	_
+13	zéro	zéro	NUM	_	Number=Plur	11	obl:mod	_	_
+14	dans	dans	ADP	_	_	16	case	_	_
+15	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	16	det	_	_
+16	construction	construction	NOUN	_	Gender=Fem|Number=Sing	11	obl:mod	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	reparandum	_	_
+19	de	de	ADP	_	_	21	case	_	_
+20	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	neutral	neutral	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	_
+
+# sent_id = SEFR2025_0011_User10_ann0001_iu01
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = User10
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:28.527
+# end = 00:00:46.526
+# text = Que de le lab ce soir ?
+1	Que	que	ADV	_	_	0	root	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	lab	lab	NOUN	_	Gender=Masc|Number=Sing	1	obl:arg	_	_
+5	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+6	soir	soir	NOUN	_	Gender=Masc|Number=Sing	1	obl:mod	_	_
+7	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = SEFR2025_0012_SP1_trs_ann0009_iu01
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 9
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:31.600
+# end = 00:00:33.580
+# text = et euh de le coup il va y avoir euh il va y avoir un peu de lab
+1	et	et	CCONJ	_	_	12	cc	_	_
+2	euh	euh	INTJ	_	_	12	discourse	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	coup	coup	NOUN	_	Gender=Masc|Number=Sing	12	discourse	_	_
+6	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	Emph=No
+7	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	reparandum	_	_
+8	y	y	PRON	_	Person=3|PronType=Prs	9	expl:comp	_	_
+9	avoir	avoir	VERB	_	VerbForm=Inf	7	xcomp	_	_
+10	euh	euh	INTJ	_	_	12	discourse	_	_
+11	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl:subj	_	Emph=No
+12	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	y	y	PRON	_	Person=3|PronType=Prs	14	expl:comp	_	_
+14	avoir	avoir	VERB	_	VerbForm=Inf	12	xcomp	_	_
+15	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	peu	peu	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	lab	lab	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	_
+
+# sent_id = SEFR2025_0013_SP1_trs_ann0010_iu01
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:33.590
+# end = 00:00:35.770
+# text = et euh ce soir il y a yoonns qui vient sur le stream
+1	et	et	CCONJ	_	_	7	cc	_	_
+2	euh	euh	INTJ	_	_	7	discourse	_	_
+3	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	soir	soir	NOUN	_	Gender=Masc|Number=Sing	7	obl:mod	_	_
+5	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	Emph=No
+6	y	y	PRON	_	Person=3|PronType=Prs	7	expl:comp	_	_
+7	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	yoonns	yoonns	PROPN	_	_	7	obj	_	_
+9	qui	qui	PRON	_	PronType=Rel	10	nsubj	_	_
+10	vient	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+11	sur	sur	ADP	_	_	13	case	_	_
+12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	stream	stream	NOUN	_	Gender=Masc|Number=Sing	10	obl:mod	_	_
+
+# sent_id = SEFR2025_0014_SP1_trs_ann0011_iu01
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:36.180
+# end = 00:00:39.350
+# text = on va se faire une session hein xxx je sais pas combien avec son dhalsim
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+2	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	iobj	_	_
+4	faire	faire	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	session	session	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	hein	hein	INTJ	_	_	6	discourse	_	_
+8	xxx	xxx	X	_	_	6	nmod	_	_
+9	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Emph=No
+10	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+11	pas	pas	ADV	_	Polarity=Neg	10	advmod	_	_
+12	combien	combien	ADV	_	_	10	obj	_	_
+13	avec	avec	ADP	_	_	15	case	_	_
+14	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	15	det	_	_
+15	dhalsim	dhalsim	PROPN	_	Gender=Masc|Number=Sing	4	obl:mod	_	_
+
+# sent_id = SEFR2025_0015_SP1_trs_ann0012_iu01
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 12
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:39.520
+# end = 00:00:40.670
+# text = il est plus fort que moi yoonns
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Emph=No
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	plus	plus	ADV	_	_	4	advmod	_	_
+4	fort	fort	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	que	que	SCONJ	_	_	6	case	_	_
+6	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	obl:arg	_	Emph=Yes
+7	yoonns	yoonns	INTJ	_	_	4	discourse	_	_
+
+# sent_id = SEFR2025_0016_SP1_trs_ann0013_iu01
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 13
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:41.140
+# end = 00:00:42.710
+# text = mais ça va me permettre d' apprendre un peu le matchup
+1	mais	mais	CCONJ	_	_	3	cc	_	_
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+3	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	iobj	_	Emph=No
+5	permettre	permettre	VERB	_	VerbForm=Inf	3	xcomp	_	_
+6	d'	de	ADP	_	_	7	mark	_	_
+7	apprendre	apprendre	VERB	_	VerbForm=Inf	5	xcomp	_	_
+8	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	peu	peu	NOUN	_	Gender=Masc|Number=Sing	7	obl:mod	_	_
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	matchup	matchup	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+
+# sent_id = SEFR2025_0017_SP1_trs_ann0014_iu01
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 14
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:42.710
+# end = 00:00:43.720
+# text = et ça va être cool je pense
+1	et	et	CCONJ	_	_	3	cc	_	_
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+3	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	être	être	AUX	_	VerbForm=Inf	5	cop	_	_
+5	cool	cool	ADJ	_	Gender=Masc|Number=Sing	3	xcomp	_	_
+6	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Emph=No
+7	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	discourse	_	_
+
+# sent_id = SEFR2025_0018_SP1_trs_ann0015_iu01
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 15
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:44.500
+# end = 00:00:45.930
+# text = mais je sais pas à quelle heure
+1	mais	mais	CCONJ	_	_	3	cc	_	_
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+3	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_
+5	à	à	ADP	_	_	7	case	_	_
+6	quelle	quel	DET	_	Gender=Fem|Number=Sing|PronType=Int	7	det	_	_
+7	heure	heure	NOUN	_	Gender=Fem|Number=Sing	3	obl:mod	_	_
+
+# sent_id = SEFR2025_0019_User10_ann0002_iu01
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = User10
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:46.527
+# end = 00:00:48.527
+# text = Déjà stabilise toi sur 1500 ...
+1	Déjà	déjà	ADV	_	_	2	advmod	_	_
+2	stabilise	stabiliser	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	toi	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	expl:pv	_	Emph=Yes
+4	sur	sur	ADP	_	_	5	case	_	_
+5	1500	1500	NUM	_	Number=Plur	2	obl:mod	_	_
+6	...	...	PUNCT	_	_	2	punct	_	_
+
+# sent_id = SEFR2025_0020_SP1_trs_ann0016_iu01
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 16
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:46.640
+# end = 00:00:47.380
+# text = donc ouais
+1	donc	donc	ADV	_	_	0	root	_	_
+2	ouais	ouais	INTJ	_	_	1	discourse	_	_
+
+# sent_id = SEFR2025_0021_SP1_trs_ann0017_iu01
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 17
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:47.380
+# end = 00:00:48.590
+# text = déjà stabilise -toi sur mille cinq cents
+1	déjà	déjà	ADV	_	_	2	advmod	_	_
+2	stabilise	stabiliser	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	-toi	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	expl:pv	_	_
+4	sur	sur	ADP	_	_	5	case	_	_
+5	mille	mille	NUM	_	Number=Plur	2	obl:mod	_	_
+6	cinq	cinq	NUM	_	Number=Plur	5	flat	_	_
+7	cents	cents	NUM	_	Number=Plur	5	flat	_	_
+
+# sent_id = SEFR2025_0022_SP1_trs_ann0018_iu01
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 18
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:48.590
+# end = 00:00:50.700
+# text = non mais en fait j' ai j' ai pas à me stabiliser
+1	non	non	ADV	_	Polarity=Neg	8	discourse	_	_
+2	mais	mais	CCONJ	_	_	8	cc	_	_
+3	en	en	ADP	_	ExtPos=ADV	8	discourse	_	Idiom=Yes
+4	fait	fait	NOUN	_	Gender=Masc|Number=Sing	3	fixed	_	InIdiom=Yes
+5	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Emph=No
+6	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	reparandum	_	_
+7	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Emph=No
+8	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	_
+10	à	à	ADP	_	_	12	mark	_	_
+11	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	12	expl:pv	_	Emph=No
+12	stabiliser	stabiliser	VERB	_	VerbForm=Inf	8	xcomp	_	_
+
+# sent_id = SEFR2025_0023_SP1_trs_ann0019_iu01
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 19
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:50.920
+# end = 00:00:53.900
+# text = si euh le gameplay que j' ai ne me satisfait pas
+1	si	si	SCONJ	_	_	10	mark	_	_
+2	euh	euh	INTJ	_	_	10	discourse	_	_
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	gameplay	gameplay	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+5	que	que	PRON	_	PronType=Rel	7	obj	_	_
+6	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Emph=No
+7	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+8	ne	ne	ADV	_	Polarity=Neg	10	advmod	_	_
+9	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	obj	_	Emph=No
+10	satisfait	satisfaire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	pas	pas	ADV	_	Polarity=Neg	10	advmod	_	_
+
+# sent_id = SEFR2025_0024_SP1_trs_ann0020_iu01
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 20
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:54.100
+# end = 00:00:59.840
+# text = et que je considère que euh il me manque plein de notions de de bah de choix de jeux et tout
+1	et	et	CCONJ	_	_	4	cc	_	_
+2	que	que	SCONJ	_	_	4	mark	_	_
+3	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Emph=No
+4	considère	considérer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	que	que	SCONJ	_	_	9	mark	_	_
+6	euh	euh	INTJ	_	_	9	discourse	_	_
+7	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Emph=No
+8	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	9	iobj	_	Emph=No
+9	manque	manquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+10	plein	plein	ADV	_	_	9	obj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	notions	notion	NOUN	_	Gender=Fem|Number=Plur	10	obl:arg	_	_
+13	de	de	ADP	_	_	14	reparandum	_	_
+14	de	de	ADP	_	_	17	reparandum	_	_
+15	bah	bah	INTJ	_	_	17	discourse	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	choix	choix	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	jeux	jeu	NOUN	_	Gender=Masc|Number=Plur	17	nmod	_	_
+20	et	et	CCONJ	_	ExtPos=ADV	17	conj	_	Idiom=Yes
+21	tout	tout	ADV	_	_	20	fixed	_	InIdiom=Yes
+
+# sent_id = SEFR2025_0025_SP1_trs_ann0021_iu01
+# source = SEFR2025.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 21
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:59.840
+# end = 00:01:01.040
+# text = bah évidemment que ça sert à
+1	bah	bah	INTJ	_	_	2	discourse	_	_
+2	évidemment	évidemment	ADV	_	_	0	root	_	_
+3	que	que	SCONJ	_	_	5	mark	_	_
+4	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+5	sert	servir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+6	à	à	ADP	_	_	5	dep	_	_
+

@@ -1,0 +1,1758 @@
+# sent_id = SEFR2016_0001_SP1_trs_ann0001_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:00.000
+# end = 00:00:00.720
+# text = deux
+1	deux	deux	NUM	_	Number=Plur	0	root	_	_
+
+# sent_id = SEFR2016_0002_SP0_trs_ann0001_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP0_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:01.430
+# end = 00:00:06.730
+# text = ouah
+1	ouah	ouah	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2016_0003_SP1_trs_ann0002_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:02.870
+# end = 00:00:05.880
+# text = ouah ouah ouah
+1	ouah	ouah	INTJ	_	_	0	root	_	_
+2	ouah	ouah	INTJ	_	_	1	dep	_	_
+3	ouah	ouah	INTJ	_	_	2	dep	_	_
+
+# sent_id = SEFR2016_0004_SP2_trs_ann0001_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:05.380
+# end = 00:00:06.630
+# text = attends attends attends attends attends
+1	attends	attendre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	attends	attendre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+3	attends	attendre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+4	attends	attendre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+5	attends	attendre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+
+# sent_id = SEFR2016_0005_SP1_trs_ann0003_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:05.960
+# end = 00:00:07.310
+# text = oh oh
+1	oh	oh	INTJ	_	_	0	root	_	_
+2	oh	oh	INTJ	_	_	1	dep	_	_
+
+# sent_id = SEFR2016_0006_SP1_trs_ann0004_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:07.310
+# end = 00:00:07.950
+# text = ta gueule
+1	ta	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	2	det	_	_
+2	gueule	gueule	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2016_0007_SP1_trs_ann0005_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:07.950
+# end = 00:00:09.280
+# text = ta gueule
+1	ta	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	2	det	_	_
+2	gueule	gueule	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2016_0008_SP1_trs_ann0006_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:09.320
+# end = 00:00:10.200
+# text = ta gueule
+1	ta	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	2	det	_	_
+2	gueule	gueule	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2016_0009_SP1_trs_ann0007_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:10.240
+# end = 00:00:11.580
+# text = oui oui
+1	oui	oui	INTJ	_	_	0	root	_	_
+2	oui	oui	INTJ	_	_	1	discourse	_	_
+
+# sent_id = SEFR2016_0010_SP1_trs_ann0008_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:11.580
+# end = 00:00:12.260
+# text = yes
+1	yes	ye	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2016_0011_SP3_trs_ann0001_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:12.120
+# end = 00:00:13.500
+# text = la vie de ma mère j' ai prié
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	vie	vie	NOUN	_	Gender=Fem|Number=Sing	8	dislocated	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	mère	mère	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+6	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Emph=No
+7	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux:tense	_	_
+8	prié	prier	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+
+# sent_id = SEFR2016_0012_SP3_trs_ann0002_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:13.510
+# end = 00:00:15.340
+# text = la vie de ma mère je vous ai dit j' ai prié
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	vie	vie	NOUN	_	Gender=Fem|Number=Sing	9	dislocated	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	mère	mère	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+6	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Emph=No
+7	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	9	iobj	_	_
+8	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux:tense	_	_
+9	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+10	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	Emph=No
+11	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux:tense	_	_
+12	prié	prier	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	ccomp	_	_
+
+# sent_id = SEFR2016_0013_SP3_trs_ann0003_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:15.360
+# end = 00:00:16.470
+# text = la vie de ma mère
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	vie	vie	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	mère	mère	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+
+# sent_id = SEFR2016_0014_SP1_trs_ann0009_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 9
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:16.480
+# end = 00:00:18.300
+# text = oh oh ah
+1	oh	oh	INTJ	_	_	0	root	_	_
+2	oh	oh	INTJ	_	_	1	dep	_	_
+3	ah	ah	INTJ	_	_	2	dep	_	_
+
+# sent_id = SEFR2016_0015_SP3_trs_ann0004_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:17.910
+# end = 00:00:18.570
+# text = arrête
+1	arrête	arrêter	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2016_0016_SP3_trs_ann0005_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:18.600
+# end = 00:00:19.490
+# text = la vie de ma mère
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	vie	vie	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	mère	mère	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+
+# sent_id = SEFR2016_0017_SP3_trs_ann0006_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:19.490
+# end = 00:00:20.110
+# text = je vous l' ai dit
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Emph=No
+2	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	5	obj	_	_
+3	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	5	obj	_	Emph=No
+4	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
+5	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+
+# sent_id = SEFR2016_0018_SP3_trs_ann0007_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:20.700
+# end = 00:00:21.580
+# text = je vous l' ai dit
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Emph=No
+2	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	5	obj	_	_
+3	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	5	obj	_	Emph=No
+4	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
+5	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+
+# sent_id = SEFR2016_0019_SP1_trs_ann0010_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:21.650
+# end = 00:00:23.830
+# text = par contre t' as xxx xxx xxx la carte
+1	par	par	ADP	_	_	2	case	_	_
+2	contre	contre	NOUN	_	Gender=Masc	5	obl:mod	_	_
+3	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Emph=No
+4	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	xxx	xxx	X	_	_	0	root	_	_
+6	xxx	xxx	X	_	_	5	dep	_	_
+7	xxx	xxx	X	_	_	6	dep	_	_
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	carte	carte	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+
+# sent_id = SEFR2016_0020_SP4_trs_ann0001_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP4_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:23.820
+# end = 00:00:25.410
+# text = il a tapé avec la carte
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Emph=No
+2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	tapé	taper	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	avec	avec	ADP	_	_	6	case	_	_
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	carte	carte	NOUN	_	Gender=Fem|Number=Sing	3	obl:mod	_	_
+
+# sent_id = SEFR2016_0021_SP1_trs_ann0011_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:25.150
+# end = 00:00:26.310
+# text = t' as tapé la carte non
+1	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Emph=No
+2	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	tapé	taper	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	carte	carte	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	non	non	ADV	_	Polarity=Neg	3	discourse	_	_
+
+# sent_id = SEFR2016_0022_SP5_trs_ann0001_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP5_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:25.390
+# end = 00:00:25.920
+# text = t' as vu la carte
+1	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Emph=No
+2	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	carte	carte	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+
+# sent_id = SEFR2016_0023_SP5_trs_ann0002_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP5_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:25.930
+# end = 00:00:27.090
+# text = tu l' as pliée en deux
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Emph=No
+2	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	4	obj	_	Emph=No
+3	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
+4	pliée	plier	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	deux	deux	NUM	_	Number=Plur	4	obl:mod	_	_
+
+# sent_id = SEFR2016_0024_SP5_trs_ann0003_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP5_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:27.400
+# end = 00:00:28.700
+# text = xxx xxx xxx xxx tu l' as pliée en deux
+1	xxx	xxx	X	_	_	8	dislocated	_	_
+2	xxx	xxx	X	_	_	1	dep	_	_
+3	xxx	xxx	X	_	_	1	dep	_	_
+4	xxx	xxx	X	_	_	1	dep	_	_
+5	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	8	nsubj	_	Emph=No
+6	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	8	obj	_	Emph=No
+7	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux:tense	_	_
+8	pliée	plier	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	deux	deux	NUM	_	Number=Plur	8	obl:mod	_	_
+
+# sent_id = SEFR2016_0025_SP3_trs_ann0008_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:28.250
+# end = 00:00:28.900
+# text = pardon
+1	pardon	pardon	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2016_0026_SP0_trs_ann0002_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP0_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:28.510
+# end = 00:00:29.770
+# text = oh non
+1	oh	oh	INTJ	_	_	2	discourse	_	_
+2	non	non	ADV	_	Polarity=Neg	0	root	_	_
+
+# sent_id = SEFR2016_0027_SP1_trs_ann0012_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 12
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:29.770
+# end = 00:00:30.520
+# text = non non
+1	non	non	ADV	_	Polarity=Neg	0	root	_	_
+2	non	non	ADV	_	Polarity=Neg	1	conj	_	_
+
+# sent_id = SEFR2016_0028_SP3_trs_ann0009_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 9
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:30.040
+# end = 00:00:31.180
+# text = non j' ai fait attention xxx
+1	non	non	ADV	_	Polarity=Neg	4	discourse	_	_
+2	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Emph=No
+3	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
+4	fait	faire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	attention	attention	NOUN	_	Gender=Fem|Number=Sing	4	obj:lvc	_	_
+6	xxx	xxx	X	_	_	4	dep	_	_
+
+# sent_id = SEFR2016_0029_SP1_trs_ann0013_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 13
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:30.520
+# end = 00:00:32.080
+# text = mecs non non juste
+1	mecs	mecs	NOUN	_	Gender=Masc|Number=Plur	2	vocative	_	_
+2	non	non	ADV	_	Polarity=Neg	0	root	_	_
+3	non	non	ADV	_	Polarity=Neg	2	conj	_	_
+4	juste	juste	ADJ	_	Gender=Masc|Number=Sing	2	discourse	_	_
+
+# sent_id = SEFR2016_0030_SP1_trs_ann0014_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 14
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:32.110
+# end = 00:00:34.650
+# text = juste après ça ah
+1	juste	juste	ADV	_	_	3	advmod	_	_
+2	après	après	ADP	_	_	3	case	_	_
+3	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_
+4	ah	ah	INTJ	_	_	3	discourse	_	_
+
+# sent_id = SEFR2016_0031_SP3_trs_ann0010_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:34.080
+# end = 00:00:34.880
+# text = j' ai fait oh
+1	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+2	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	fait	faire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	oh	oh	INTJ	_	_	3	obj	_	_
+
+# sent_id = SEFR2016_0032_SP3_trs_ann0011_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:34.880
+# end = 00:00:36.230
+# text = et après j' ai j' ai tapé là
+1	et	et	CCONJ	_	_	7	cc	_	_
+2	après	après	ADV	_	_	7	advmod	_	_
+3	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Emph=No
+4	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	reparandum	_	_
+5	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Emph=No
+6	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux:tense	_	_
+7	tapé	taper	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	là	là	ADV	_	_	7	advmod	_	_
+
+# sent_id = SEFR2016_0033_SP6_trs_ann0001_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP6_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:36.260
+# end = 00:00:39.180
+# text = mais c' est la meilleure vidéo de carte de pokémon
+1	mais	mais	CCONJ	_	_	6	cc	_	_
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	meilleure	meilleur	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+6	vidéo	vidéo	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	carte	carte	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	pokémon	pokémon	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+
+# sent_id = SEFR2016_0034_SP0_trs_ann0003_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP0_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:37.710
+# end = 00:00:40.560
+# text = ah là là là là
+1	ah	ah	INTJ	_	_	0	root	_	_
+2	là	là	INTJ	_	_	1	dep	_	_
+3	là	là	INTJ	_	_	2	dep	_	_
+4	là	là	INTJ	_	_	3	dep	_	_
+5	là	là	INTJ	_	_	4	dep	_	_
+
+# sent_id = SEFR2016_0035_SP4_trs_ann0002_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP4_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:40.570
+# end = 00:00:42.050
+# text = jusqu' à le bout de la question
+1	jusqu'	jusque	ADV	_	_	4	case	_	_
+2	à	à	ADP	_	_	4	case	_	_
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	bout	bout	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	question	question	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+
+# sent_id = SEFR2016_0036_SP5_trs_ann0004_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP5_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:41.930
+# end = 00:00:43.850
+# text = la dernière
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	dernière	dernier	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2016_0037_SP4_trs_ann0003_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP4_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:42.640
+# end = 00:00:43.940
+# text = on l' avait dit la dernière
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	_
+2	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	4	obj	_	Emph=No
+3	avait	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	aux:tense	_	_
+4	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	dernière	dernier	ADJ	_	Gender=Fem|Number=Sing	4	dislocated	_	_
+
+# sent_id = SEFR2016_0038_SP4_trs_ann0004_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP4_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:43.940
+# end = 00:00:45.140
+# text = imagine la dernière
+1	imagine	imaginer	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	dernière	dernier	ADJ	_	Gender=Fem|Number=Sing	1	obj	_	_
+
+# sent_id = SEFR2016_0039_SP5_trs_ann0005_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP5_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:45.120
+# end = 00:00:45.340
+# text = attends
+1	attends	attendre	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2016_0040_SP5_trs_ann0006_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP5_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:45.340
+# end = 00:00:46.310
+# text = imagine xxx
+1	imagine	imaginer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	xxx	xxx	X	_	_	1	obj	_	_
+
+# sent_id = SEFR2016_0041_SP5_trs_ann0007_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP5_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:48.600
+# end = 00:00:50.860
+# text = dans quel booster ça a un xxx ou pas
+1	dans	dans	ADP	_	_	3	case	_	_
+2	quel	quel	DET	_	Gender=Masc|Number=Sing|PronType=Int	3	det	_	_
+3	booster	booster	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	_
+4	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+5	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	obj	_	_
+7	xxx	xxx	X	_	_	6	dep	_	_
+8	ou	ou	CCONJ	_	_	9	cc	_	_
+9	pas	pas	ADV	_	Polarity=Neg	6	conj	_	_
+
+# sent_id = SEFR2016_0042_SP6_trs_ann0002_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP6_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:49.550
+# end = 00:00:50.640
+# text = non franchement
+1	non	non	ADV	_	Polarity=Neg	2	discourse	_	_
+2	franchement	franchement	ADV	_	_	0	root	_	_
+
+# sent_id = SEFR2016_0043_SP2_trs_ann0002_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:50.230
+# end = 00:00:50.940
+# text = non non
+1	non	non	ADV	_	Polarity=Neg	0	root	_	_
+2	non	non	ADV	_	Polarity=Neg	1	conj	_	_
+
+# sent_id = SEFR2016_0044_SP3_trs_ann0012_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 12
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:50.860
+# end = 00:00:52.550
+# text = let's go mon grand
+1	let's	let's	X	_	Foreign=Yes	0	root	_	_
+2	go	go	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	mon	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	grand	grand	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	_
+
+# sent_id = SEFR2016_0045_SP6_trs_ann0003_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP6_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:51.820
+# end = 00:00:52.330
+# text = viens
+1	viens	venir	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2016_0046_SP6_trs_ann0004_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP6_trs
+# annotation_index = 4
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:52.330
+# end = 00:00:52.880
+# text = viens me faire un câlin
+1	viens	venir	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	iobj	_	Emph=No
+3	faire	faire	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	câlin	câlin	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+
+# sent_id = SEFR2016_0047_SP3_trs_ann0013_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 13
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:52.680
+# end = 00:00:54.180
+# text = let's go mon grand
+1	let's	let's	X	_	Foreign=Yes	0	root	_	_
+2	go	go	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	mon	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	grand	grand	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	_
+
+# sent_id = SEFR2016_0048_SP6_trs_ann0005_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP6_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:52.900
+# end = 00:00:53.550
+# text = xxx
+1	xxx	xxx	X	_	_	0	root	_	_
+
+# sent_id = SEFR2016_0049_SP6_trs_ann0006_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP6_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:54.230
+# end = 00:00:55.100
+# text = let's go ouais
+1	let's	let's	X	_	Foreign=Yes	0	root	_	_
+2	go	go	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	ouais	ouais	INTJ	_	_	1	discourse	_	_
+
+# sent_id = SEFR2016_0050_SP3_trs_ann0014_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 14
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:55.380
+# end = 00:00:56.820
+# text = yes
+1	yes	yes	INTJ	_	Foreign=Yes	0	root	_	_
+
+# sent_id = SEFR2016_0051_SP1_trs_ann0015_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 15
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:57.420
+# end = 00:00:58.530
+# text = t' as t' as vu ton micro
+1	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Emph=No
+2	as	avoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	reparandum	_	_
+3	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Emph=No
+4	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
+5	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	ton	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	micro	micro	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+
+# sent_id = SEFR2016_0052_SP3_trs_ann0015_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 15
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:58.580
+# end = 00:00:59.150
+# text = putain
+1	putain	putain	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2016_0053_SP4_trs_ann0005_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP4_trs
+# annotation_index = 5
+# iu_index = 1
+# iu_count = 1
+# start = 00:00:59.200
+# end = 00:01:00.020
+# text = c' était quoi comme booster
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	quoi	quoi	PRON	_	PronType=Int	0	root	_	_
+4	comme	comme	ADP	_	_	5	mark	_	_
+5	booster	booster	NOUN	_	_	3	obl:mod	_	_
+
+# sent_id = SEFR2016_0054_SP4_trs_ann0006_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP4_trs
+# annotation_index = 6
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:00.020
+# end = 00:01:00.960
+# text = t' as trouvé ça inox
+1	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Emph=No
+2	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	trouvé	trouver	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	obj	_	_
+5	inox	inox	PROPN	_	_	3	vocative	_	_
+
+# sent_id = SEFR2016_0055_SP1_trs_ann0016_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 16
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:03.580
+# end = 00:01:05.850
+# text = inox tu l' as eu inox
+1	inox	inox	PROPN	_	_	5	vocative	_	_
+2	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Emph=No
+3	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	5	obj	_	Emph=No
+4	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
+5	eu	avoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	inox	inox	PROPN	_	_	5	vocative	_	_
+
+# sent_id = SEFR2016_0056_SP5_trs_ann0008_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP5_trs
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:03.950
+# end = 00:01:05.970
+# text = le devant le devant
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	devant	devant	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	devant	devant	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+
+# sent_id = SEFR2016_0057_SP5_trs_ann0009_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP5_trs
+# annotation_index = 9
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:05.970
+# end = 00:01:08.120
+# text = le devant c' est très propre
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	devant	devant	NOUN	_	Gender=Masc|Number=Sing	6	dislocated	_	_
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	très	très	ADV	_	_	6	advmod	_	_
+6	propre	propre	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2016_0058_SP1_trs_ann0017_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 17
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:08.030
+# end = 00:01:08.910
+# text = oh ah ah
+1	oh	oh	INTJ	_	_	0	root	_	_
+2	ah	ah	INTJ	_	_	1	discourse	_	_
+3	ah	ah	INTJ	_	_	1	discourse	_	_
+
+# sent_id = SEFR2016_0059_SP3_trs_ann0016_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 16
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:08.420
+# end = 00:01:08.910
+# text = eh oui
+1	eh	eh	INTJ	_	_	2	discourse	_	_
+2	oui	oui	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2016_0060_SP3_trs_ann0017_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 17
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:08.910
+# end = 00:01:09.740
+# text = regarde moi eh
+1	regarde	regarder	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	1	obj	_	Emph=Yes
+3	eh	eh	INTJ	_	_	1	discourse	_	_
+
+# sent_id = SEFR2016_0061_SP3_trs_ann0018_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 18
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:09.740
+# end = 00:01:13.270
+# text = j' ai prié comme si c' est moi j' avais acheté le le booster de truc
+1	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+2	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	prié	prier	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	comme	comme	SCONJ	_	_	11	mark	_	_
+5	si	si	SCONJ	_	_	11	mark	_	_
+6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	_
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	11	reparandum	_	Emph=Yes
+9	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	Emph=No
+10	avais	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	11	aux:tense	_	_
+11	acheté	acheter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	reparandum	_	_
+13	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	booster	booster	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	truc	truc	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	_
+
+# sent_id = SEFR2016_0062_SP3_trs_ann0019_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 19
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:13.280
+# end = 00:01:14.870
+# text = j' ai prié ça mais
+1	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+2	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	prié	prier	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	obj	_	_
+5	mais	mais	CCONJ	_	_	3	cc	_	_
+
+# sent_id = SEFR2016_0063_SP3_trs_ann0020_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 20
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:17.580
+# end = 00:01:19.600
+# text = yes yes
+1	yes	yes	INTJ	_	Foreign=Yes	0	root	_	_
+2	yes	yes	INTJ	_	Foreign=Yes	1	discourse	_	_
+
+# sent_id = SEFR2016_0064_SP5_trs_ann0010_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP5_trs
+# annotation_index = 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:19.340
+# end = 00:01:20.350
+# text = il faut analyser la carte hein
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	Emph=No
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	analyser	analyser	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	carte	carte	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	hein	hein	INTJ	_	_	2	discourse	_	_
+
+# sent_id = SEFR2016_0065_SP5_trs_ann0011_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP5_trs
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:20.360
+# end = 00:01:21.970
+# text = c' est la première fois que je vois ça
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	expl:subj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	première	premier	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+5	fois	fois	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	que	que	SCONJ	_	_	8	mark	_	_
+7	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Emph=No
+8	vois	voir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	advcl:cleft	_	_
+9	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	obj	_	_
+
+# sent_id = SEFR2016_0066_SP7_trs_ann0001_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP7_trs
+# annotation_index = 1
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:21.010
+# end = 00:01:22.040
+# text = c' est zéro un
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	zéro	zéro	NUM	_	_	0	root	_	_
+4	un	un	NUM	_	_	3	flat	_	_
+
+# sent_id = SEFR2016_0067_SP1_trs_ann0018_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 18
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:21.550
+# end = 00:01:22.350
+# text = ah ouais
+1	ah	ah	INTJ	_	_	2	discourse	_	_
+2	ouais	ouais	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2016_0068_SP3_trs_ann0021_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 21
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:21.970
+# end = 00:01:22.960
+# text = yes
+1	yes	yes	INTJ	_	Foreign=Yes	0	root	_	_
+
+# sent_id = SEFR2016_0069_SP6_trs_ann0007_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP6_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:22.920
+# end = 00:01:23.630
+# text = yes
+1	yes	yes	INTJ	_	Foreign=Yes	0	root	_	_
+
+# sent_id = SEFR2016_0070_SP3_trs_ann0022_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 22
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:23.560
+# end = 00:01:25.050
+# text = voilà mon grand
+1	voilà	voilà	VERB	_	_	0	root	_	_
+2	mon	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	grand	grand	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	_
+
+# sent_id = SEFR2016_0071_SP3_trs_ann0023_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 23
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:25.060
+# end = 00:01:26.270
+# text = t' es grand maintenant
+1	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Emph=No
+2	es	être	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	grand	grand	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	maintenant	maintenant	ADV	_	_	3	advmod	_	_
+
+# sent_id = SEFR2016_0072_SP5_trs_ann0012_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP5_trs
+# annotation_index = 12
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:26.310
+# end = 00:01:27.780
+# text = let's go
+1	let's	let's	X	_	Foreign=Yes	0	root	_	_
+2	go	go	X	_	Foreign=Yes	1	flat:foreign	_	_
+
+# sent_id = SEFR2016_0073_SP3_trs_ann0024_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 24
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:27.830
+# end = 00:01:29.770
+# text = oh putain de sa mère
+1	oh	oh	INTJ	_	_	2	discourse	_	_
+2	putain	putain	NOUN	_	_	0	root	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	5	det	_	_
+5	mère	mère	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+
+# sent_id = SEFR2016_0074_SP3_trs_ann0025_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 25
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:29.790
+# end = 00:01:30.580
+# text = oh mec
+1	oh	oh	INTJ	_	_	0	root	_	_
+2	mec	mec	INTJ	_	_	1	vocative	_	_
+
+# sent_id = SEFR2016_0075_SP2_trs_ann0003_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP2_trs
+# annotation_index = 3
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:30.340
+# end = 00:01:31.730
+# text = incroyable là xxx
+1	incroyable	incroyable	ADJ	_	Number=Sing	0	root	_	_
+2	là	là	ADV	_	_	1	advmod	_	_
+3	xxx	xxx	X	_	_	1	parataxis	_	_
+
+# sent_id = SEFR2016_0076_SP6_trs_ann0008_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP6_trs
+# annotation_index = 8
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:30.780
+# end = 00:01:31.690
+# text = xxx mon douzième
+1	xxx	xxx	X	_	_	3	reparandum	_	_
+2	mon	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	douzième	douzième	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2016_0077_SP6_trs_ann0009_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP6_trs
+# annotation_index = 9
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:31.730
+# end = 00:01:33.120
+# text = non mais c' est hollywood t' as vu
+1	non	non	ADV	_	Polarity=Neg	5	discourse	_	_
+2	mais	mais	CCONJ	_	_	5	cc	_	_
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	hollywood	hollywood	PROPN	_	Foreign=Yes	0	root	_	_
+6	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	8	obj	_	Emph=No
+7	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux:tense	_	_
+8	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	discourse	_	_
+
+# sent_id = SEFR2016_0078_SP3_trs_ann0026_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 26
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:33.930
+# end = 00:01:38.140
+# text = mec tu sais que tu sais que quand j' ai ouvert le booster j' étais j' ai vidé mon esprit
+1	mec	mec	NOUN	_	Gender=Masc|Number=Sing	3	vocative	_	_
+2	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Emph=No
+3	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	reparandum	_	_
+4	que	que	SCONJ	_	_	3	mark	_	_
+5	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Emph=No
+6	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	que	que	SCONJ	_	_	18	mark	_	_
+8	quand	quand	SCONJ	_	_	11	mark	_	_
+9	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	Emph=No
+10	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux:tense	_	_
+11	ouvert	ouvrir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	advcl	_	_
+12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	booster	booster	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+14	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	Emph=No
+15	étais	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	18	reparandum	_	_
+16	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	18	nsubj	_	Emph=No
+17	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	aux:tense	_	_
+18	vidé	vider	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	ccomp	_	_
+19	mon	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	20	det	_	_
+20	esprit	esprit	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	_
+
+# sent_id = SEFR2016_0079_SP3_trs_ann0027_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 27
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:38.140
+# end = 00:01:39.640
+# text = et j' ai dit celle -là c' est dracaufeu
+1	et	et	CCONJ	_	_	4	cc	_	_
+2	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Emph=No
+3	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
+4	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	celle	celui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Dem	9	dislocated	_	_
+6	-là	là	ADV	_	_	5	advmod	_	_
+7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	_
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	dracaufeu	dracaufeu	NOUN	_	Gender=Masc|Number=Sing	4	ccomp	_	_
+
+# sent_id = SEFR2016_0080_SP3_trs_ann0028_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 28
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:39.650
+# end = 00:01:40.570
+# text = je veux rien entendre
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Emph=No
+2	veux	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	rien	rien	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	4	obj	_	_
+4	entendre	entendre	VERB	_	VerbForm=Inf	2	xcomp	_	_
+
+# sent_id = SEFR2016_0081_SP3_trs_ann0029_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 29
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:40.580
+# end = 00:01:42.320
+# text = j' ai mec j' ai pris soin de le booster
+1	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Emph=No
+2	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	reparandum	_	_
+3	mec	mec	NOUN	_	Gender=Masc|Number=Sing	6	vocative	_	_
+4	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Emph=No
+5	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux:tense	_	_
+6	pris	prendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	soin	soin	NOUN	_	Gender=Masc|Number=Sing	6	obj:lvc	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	booster	booster	NOUN	_	Gender=Masc|Number=Sing	7	obl:arg	_	_
+
+# sent_id = SEFR2016_0082_SP3_trs_ann0030_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 30
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:42.320
+# end = 00:01:43.260
+# text = t' as vu comment je l' ai ouvert
+1	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Emph=No
+2	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	comment	comment	ADV	_	PronType=Int	8	advmod	_	_
+5	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Emph=No
+6	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	8	obj	_	Emph=No
+7	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux:tense	_	_
+8	ouvert	ouvrir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	_
+
+# sent_id = SEFR2016_0083_SP3_trs_ann0031_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 31
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:43.400
+# end = 00:01:44.100
+# text = je me suis c' est lui
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+2	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	expl:comp	_	Emph=No
+3	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	reparandum	_	_
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	Emph=Yes
+
+# sent_id = SEFR2016_0084_SP3_trs_ann0032_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 32
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:44.100
+# end = 00:01:44.790
+# text = ça c' est le bon
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	dislocated	_	_
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	bon	bon	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2016_0085_SP3_trs_ann0033_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 33
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:44.910
+# end = 00:01:45.830
+# text = je le savais
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+2	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Emph=No
+3	savais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2016_0086_SP3_trs_ann0034_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 34
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:46.030
+# end = 00:01:46.840
+# text = je le savais
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+2	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Emph=No
+3	savais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+
+# sent_id = SEFR2016_0087_SP3_trs_ann0035_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 35
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:48.210
+# end = 00:01:51.230
+# text = et est -ce que la vidéo on m' entend quand je dis j' ai prié et tout
+1	et	et	CCONJ	_	_	9	cc	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+3	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj:outer	_	_
+4	que	que	SCONJ	_	_	9	mark	_	_
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	vidéo	vidéo	NOUN	_	Gender=Fem|Number=Sing	9	dislocated	_	_
+7	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	9	nsubj	_	_
+8	m'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	9	obj	_	Emph=No
+9	entend	entendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	quand	quand	SCONJ	_	_	12	mark	_	_
+11	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	Emph=No
+12	dis	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	advcl	_	_
+13	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	Emph=No
+14	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	aux:tense	_	_
+15	prié	prier	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	ccomp	_	_
+16	et	et	CCONJ	_	ExtPos=ADV	15	conj	_	Idiom=Yes
+17	tout	tout	ADV	_	ExtPos=ADV	16	fixed	_	Idiom=Yes
+
+# sent_id = SEFR2016_0088_SP3_trs_ann0036_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 36
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:51.230
+# end = 00:01:52.270
+# text = y a t' as filmé ça
+1	y	y	PRON	_	Person=3|PronType=Prs	2	expl:comp	_	_
+2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	reparandum	_	_
+3	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Emph=No
+4	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
+5	filmé	filmer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	obj	_	_
+
+# sent_id = SEFR2016_0089_SP3_trs_ann0037_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 37
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:52.540
+# end = 00:01:55.170
+# text = gros la vie de ma mère que ce booster je l' ai prié
+1	gros	gros	ADJ	_	Gender=Masc|Number=Sing	13	discourse	_	_
+2	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	vie	vie	NOUN	_	Gender=Fem|Number=Sing	13	discourse	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	mère	mère	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	que	que	SCONJ	_	_	13	mark	_	_
+8	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
+9	booster	booster	NOUN	_	Gender=Masc|Number=Sing	13	dislocated	_	_
+10	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	Emph=No
+11	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	13	obj	_	Emph=No
+12	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux:tense	_	_
+13	prié	prier	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+
+# sent_id = SEFR2016_0090_SP1_trs_ann0019_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 19
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:55.350
+# end = 00:01:56.120
+# text = attendez -moi
+1	attendez	attendre	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	-moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	1	obj	_	Emph=Yes
+
+# sent_id = SEFR2016_0091_SP1_trs_ann0020_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 20
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:56.130
+# end = 00:01:57.810
+# text = j' attends mec j' attends l' expertise
+1	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Emph=No
+2	attends	attendre	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	reparandum	_	_
+3	mec	mec	NOUN	_	Gender=Masc|Number=Sing	5	vocative	_	_
+4	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Emph=No
+5	attends	attendre	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+7	expertise	expertise	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+
+# sent_id = SEFR2016_0092_SP1_trs_ann0021_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 21
+# iu_index = 1
+# iu_count = 1
+# start = 00:01:57.810
+# end = 00:01:59.130
+# text = mec inox merci
+1	mec	mec	NOUN	_	Gender=Masc|Number=Sing	3	vocative	_	_
+2	inox	inox	PRON	_	_	1	conj	_	_
+3	merci	merci	INTJ	_	_	0	root	_	_
+
+# sent_id = SEFR2016_0093_SP3_trs_ann0038_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 38
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:02.140
+# end = 00:02:03.230
+# text = yes
+1	yes	yes	INTJ	_	Foreign=Yes	0	root	_	_
+
+# sent_id = SEFR2016_0094_SP1_trs_ann0022_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 22
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:03.100
+# end = 00:02:04.630
+# text = il m' a vu xxx
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Emph=No
+2	m'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	obj	_	Emph=No
+3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
+4	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	xxx	xxx	X	_	_	4	xcomp	_	_
+
+# sent_id = SEFR2016_0095_SP3_trs_ann0039_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 39
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:03.690
+# end = 00:02:04.690
+# text = ah je suis content
+1	ah	ah	INTJ	_	_	4	discourse	_	_
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Emph=No
+3	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	content	content	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2016_0096_SP1_trs_ann0023_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 23
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:04.720
+# end = 00:02:07.400
+# text = mec moi xxx xxx xxx ça s' est passé
+1	mec	mec	NOUN	_	Gender=Masc|Number=Sing	9	discourse	_	_
+2	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	9	dislocated	_	Emph=Yes
+3	xxx	xxx	X	_	_	2	appos	_	_
+4	xxx	xxx	X	_	_	3	dep	_	_
+5	xxx	xxx	X	_	_	3	dep	_	_
+6	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	_
+7	s'	soi	PRON	_	Person=3|PronType=Prs	9	expl:comp	_	_
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:tense	_	_
+9	passé	passer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+
+# sent_id = SEFR2016_0097_SP1_trs_ann0024_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 24
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:07.460
+# end = 00:02:08.970
+# text = ça s' est passé en deux temps
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+2	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
+4	passé	passer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	deux	deux	NUM	_	Number=Plur	7	nummod	_	_
+7	temps	temps	NOUN	_	Gender=Masc|Number=Plur	4	obl:mod	_	_
+
+# sent_id = SEFR2016_0098_SP1_trs_ann0025_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 25
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:09.010
+# end = 00:02:10.770
+# text = j' ai vu dracaufeu j' ai dû hurler
+1	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+2	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
+3	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	dracaufeu	dracaufeu	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Emph=No
+6	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux:tense	_	_
+7	dû	devoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	parataxis	_	_
+8	hurler	hurler	VERB	_	VerbForm=Inf	7	xcomp	_	_
+
+# sent_id = SEFR2016_0099_SP1_trs_ann0026_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 26
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:10.880
+# end = 00:02:11.830
+# text = et après j' ai vu
+1	et	et	CCONJ	_	_	5	cc	_	_
+2	après	après	ADV	_	_	5	advmod	_	_
+3	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Emph=No
+4	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
+5	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+
+# sent_id = SEFR2016_0100_SP1_trs_ann0027_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP1_trs
+# annotation_index = 27
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:11.830
+# end = 00:02:13.000
+# text = il était comme ça
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Emph=No
+2	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	comme	comme	ADP	_	_	4	case	_	_
+4	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_
+
+# sent_id = SEFR2016_0101_SP3_trs_ann0040_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 40
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:13.470
+# end = 00:02:15.170
+# text = eh j' ai pas j' ai pas floustillonné dessus
+1	eh	eh	INTJ	_	_	8	discourse	_	_
+2	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Emph=No
+3	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	reparandum	_	_
+4	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_
+5	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Emph=No
+6	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux:tense	_	_
+7	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	_
+8	floustillonné	floustillonner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	dessus	dessus	ADV	_	_	8	advmod	_	_
+
+# sent_id = SEFR2016_0102_SP7_trs_ann0002_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP7_trs
+# annotation_index = 2
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:15.710
+# end = 00:02:16.300
+# text = je sais pas
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Emph=No
+2	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pas	pas	ADV	_	Polarity=Neg	2	advmod	_	_
+
+# sent_id = SEFR2016_0103_SP3_trs_ann0041_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 41
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:16.260
+# end = 00:02:17.190
+# text = j' espère pas
+1	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Emph=No
+2	espère	espérer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pas	pas	ADV	_	Polarity=Neg	2	advmod	_	_
+
+# sent_id = SEFR2016_0104_SP3_trs_ann0042_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 42
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:20.430
+# end = 00:02:22.290
+# text = tu i il y a des poussières ou quoi
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	reparandum	_	_
+2	i	i	X	_	_	5	reparandum	_	_
+3	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl:subj	_	Emph=No
+4	y	y	PRON	_	Person=3|PronType=Prs	5	expl:comp	_	_
+5	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	7	det	_	_
+7	poussières	poussière	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
+8	ou	ou	CCONJ	_	_	9	cc	_	_
+9	quoi	quoi	PRON	_	Person=3|PronType=Int	5	conj	_	_
+
+# sent_id = SEFR2016_0105_SP4_trs_ann0007_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP4_trs
+# annotation_index = 7
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:21.760
+# end = 00:02:22.650
+# text = oh là
+1	oh	oh	INTJ	_	_	0	root	_	_
+2	là	là	ADV	_	_	_	_	_	_
+
+# sent_id = SEFR2016_0106_SP3_trs_ann0043_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 43
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:22.700
+# end = 00:02:24.680
+# text = oh là là là là
+1	oh	oh	INTJ	_	_	0	root	_	_
+2	là	là	INTJ	_	_	1	dep	_	_
+3	là	là	INTJ	_	_	2	dep	_	_
+4	là	là	INTJ	_	_	3	dep	_	_
+5	là	là	INTJ	_	_	4	dep	_	_
+
+# sent_id = SEFR2016_0107_SP3_trs_ann0044_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 44
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:24.790
+# end = 00:02:25.830
+# text = c' est xxx qui t' a dit
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	xxx	xxx	X	_	_	0	root	_	_
+4	qui	qui	PRON	_	PronType=Rel	7	nsubj	_	_
+5	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	7	iobj	_	Emph=No
+6	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:tense	_	_
+7	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl:cleft	_	_
+
+# sent_id = SEFR2016_0108_SP6_trs_ann0010_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP6_trs
+# annotation_index = 10
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:25.220
+# end = 00:02:26.890
+# text = alors attention
+1	alors	alors	ADV	_	_	2	advmod	_	_
+2	attention	attention	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2016_0109_SP3_trs_ann0045_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP3_trs
+# annotation_index = 45
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:25.830
+# end = 00:02:27.020
+# text = c' est incroyable
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	incroyable	incroyable	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = SEFR2016_0110_SP6_trs_ann0011_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP6_trs
+# annotation_index = 11
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:27.240
+# end = 00:02:28.350
+# text = elle est illisible ou pas
+1	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Emph=No
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	illisible	illisible	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	ou	ou	CCONJ	_	_	5	cc	_	_
+5	pas	pas	ADV	_	Polarity=Neg	3	conj	_	_
+
+# sent_id = SEFR2016_0111_SP6_trs_ann0012_iu01
+# source = SEFR2016.eaf
+# tool = Stanza
+# tier = SP6_trs
+# annotation_index = 12
+# iu_index = 1
+# iu_count = 1
+# start = 00:02:28.360
+# end = 00:02:29.610
+# text = pour de vrai illisible ou pas
+1	pour	pour	ADP	_	_	3	case	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	vrai	vrai	ADJ	_	Gender=Masc|Number=Sing	4	obl:mod	_	_
+4	illisible	illisible	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	ou	ou	CCONJ	_	_	6	cc	_	_
+6	pas	pas	ADV	_	Polarity=Neg	4	conj	_	_
+
