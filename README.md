@@ -42,7 +42,7 @@ research framework, the technical corpus construction workflow is organized into
 | [02_corpus_metadata_construction](02_corpus_metadata_construction/README.md)   | Construction and documentation of corpus metadata, including platform-specific information, content production and dissemination metrics, communicative contexts, and semiotic modalities.                                          |
 | [03_data_preparation](03_data_preparation/README.md)                           | Media preparation (including WAV extraction), manual and/or automatic transcription, ELAN annotation, transcription standardization, segmentation into illocutionary units, and integration and temporal alignment of Twitch chats. |
 | [04_automatic_morphosyntactic_nlp](04_automatic_morphosyntactic_nlp/README.md) | Conversion of ELAN (EAF) files into CoNLL-U, followed by automatic tokenization, lemmatization, morphosyntactic tagging (UPOS), and dependency parsing according to the Universal Dependencies (UD) framework.                      |
-| [05_manual_ud_revision](05_manual_ud_revision/README.md)                       | Manual revision and validation of automatically generated morphosyntactic and dependency annotations using ArboratorGrew, including documentation of annotation decisions and revised CoNLL-U data.                                 |
+| [05_manual_ud_revision](05_manual_ud_revision/README.md)                       | Manual revision and validation of automatically generated morphosyntactic and dependency annotations using ArboratorGrew, including documentation of annotation procedures and revised CoNLL-U data.                                 |
 
 These five stages constitute the organizational framework of the **Sens-Ex Corpus Workflow** repository. 
 
