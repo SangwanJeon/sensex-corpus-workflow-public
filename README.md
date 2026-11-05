@@ -31,6 +31,10 @@ Rather than relying exclusively on predefined linguistic criteria, this approach
 perception surveys addressed to a broader public. These surveys constitute a central component of the research 
 framework, allowing researchers to investigate how discursive excess is perceived and evaluated by language users.
 
+## Repository Architecture
+
+See the [public repository architecture and complete file inventory](docs/repository_architecture.md) for the directory structure, included document names, script and sample inventories, and full GitHub URLs.
+
 ## Principal stages
 
 Following the participatory identification, evaluation, and selection of excerpts within the broader Sens-Ex 
