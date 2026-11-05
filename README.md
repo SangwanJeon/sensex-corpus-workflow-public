@@ -1,6 +1,6 @@
 # Sens-Ex Corpus Workflow
 
-Sens-Ex Corpus Workflow preserves, organizes, documents, and shares the existing
+Sens-Ex Corpus Workflow preserves, organizes, documents, and shares the
 scripts and methodological resources developed for the construction and processing
 of the Sens-Ex multimodal computer-mediated communication (CMC) corpus.
 
@@ -57,15 +57,30 @@ The repository documents both automated procedures and manual methodological int
 directories reflect the principal stages of corpus construction, they should not be interpreted as a fully 
 automated, end-to-end pipeline. Certain operations require human intervention, and the historical use, execution 
 order, and applicability of individual scripts must be established through the available documentation and 
-supporting evidence.
+supporting evidence. 
 
-## Scripts and their limits
+## Tutorials for Existing Open-Source Software, Annotation Tools, and Processing Pipelines
 
-The existing scripts are task-specific resources. They may assume particular
-file layouts, schemas, languages, local paths, model versions, or manual steps.
-Some overlap or represent successive versions. Their portability, correctness,
-and historical use must be documented individually; inventory inclusion is not
-validation or endorsement for general reuse.
+The construction of the Sens-Ex corpus required the use of several existing open-source software applications, annotation tools, and processing pipelines, as no single tool could meet all the methodological and technical requirements of data collection, preparation, corpus construction, and linguistic annotation.
+
+To document how these tools were used within the Sens-Ex workflow and share the practical knowledge acquired through their application, members of the research team developed a series of tutorials.
+
+These tutorials aim to provide guidance ranging from an initial introduction to each tool to its application to specific research tasks. They document:
+
+- The basic functionalities of the tools and how to get started.
+- Their practical applications to specific stages of Sens-Ex corpus construction.
+- Their technical and methodological limitations, where appropriate.
+- The procedures, adaptations, or complementary tools used to bridge the gap between researchers' needs and the functionalities available.
+
+The tutorials reflect the team's practical experience and methodological decisions. They are intended to help colleagues understand, reproduce where feasible, or adapt the procedures to their own research contexts.
+
+## Scripts and Their Limitations
+
+The Python scripts developed for Sens-Ex are **task-specific resources**, created or adapted to address particular requirements encountered during corpus construction.
+
+They may rely on specific file structures, metadata schemas, languages, local paths, software dependencies, model versions, or manual operations. Some scripts have overlapping functionalities or represent successive stages of development.
+
+Each script should therefore be considered in relation to its original purpose, documented usage, dependencies, and known limitations. Its inclusion in this repository does not imply that it has been independently validated or is directly reusable in other research contexts without adaptation.
 
 ## Public Repository Snapshot
 
