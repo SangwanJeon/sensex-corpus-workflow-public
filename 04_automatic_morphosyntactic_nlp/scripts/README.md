@@ -64,7 +64,7 @@ Both scripts generate automatically annotated CoNLL-U files that combine tokeniz
 
 **Segmentation:** Neither script automatically identifies illocutionary units. Segmentation must be established beforehand.
 
-**Validation:** The generated annotations require verification before being treated as valid UD data or imported for manual revision.
+**Validation:** The generated annotations require verification before being treated as valid UD data or imported for manual revision. The manual revision procedures are documented in [05_manual_ud_revision](../05_manual_ud_revision/README.md).
 
 ## Limitations
 
