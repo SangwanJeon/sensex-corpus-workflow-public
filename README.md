@@ -59,7 +59,7 @@ automated, end-to-end pipeline. Certain operations require human intervention, a
 order, and applicability of individual scripts must be established through the available documentation and 
 supporting evidence. 
 
-## Tutorials for Existing Open-Source Software, Annotation Tools, and Processing Pipelines
+## Tutorials for Open-Source Softwares, Annotation Tools, and Existing Pipelines
 
 The construction of the Sens-Ex corpus required the use of several existing open-source software applications, annotation tools, and processing pipelines, as no single tool could meet all the methodological and technical requirements of data collection, preparation, corpus construction, and linguistic annotation.
 
