@@ -52,7 +52,8 @@ The EAF files provide the annotation structure used in the subsequent stages of 
 **Resources:**
 
 - [ELAN annotation software](https://archive.mpi.nl/tla/elan/download): open-source annotation tool for audio and video recordings.
-- The [Sens-Ex ELAN tutorial](tutorials/Short%20ELAN%20tutorial_v3.pdf) in the `tutorials/` directory.
+- Written tutorial: [Sens-Ex ELAN tutorial](tutorials/Short%20ELAN%20tutorial_v3.pdf) in the `tutorials/` directory.
+- Video tutorial: [creating new annotations in ELAN | Sens-Ex project](https://www.youtube.com/watch?v=k05hQ4xpRL4&t=2s) – a complementary 15-minute tutorial demonstraing how to create EAF files and add or edit annotation tiers in ELAN.
 - [TRS-to-EAF conversion instructions](scripts/convert_trs2eaf/README.md).
 
 ### 4. Standardization and Manual Revision of Oral Transcription Tiers (SP_trs)
